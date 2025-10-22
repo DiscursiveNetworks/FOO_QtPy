@@ -16,7 +16,7 @@ CommandLineGPT.code-workspace
 # Exclude local files 
 *.txt
 *.html
-*.mthml
+*.mhtml
 *.mp3
 *.bat
 # config_*.json
