@@ -1,6 +1,6 @@
 import sys
 import json
-from PyQt5.QtWidgets import QApplication, QWidget, QTreeWidget, QTreeWidgetItem, QVBoxLayout, QHBoxLayout, QTextEdit, QPushButton, QMenu, QLabel, QSpacerItem, QSizePolicy, QFileDialog, QMessageBox
+from PyQt5.QtWidgets import QApplication, QWidget, QTreeWidget, QTreeWidgetItem, QVBoxLayout, QHBoxLayout, QTextEdit, QPushButton, QMenu, QLabel, QSpacerItem, QSizePolicy, QFileDialog, QMessageBox, QInputDialog
 from PyQt5.QtCore import Qt
 from PyQt5.QtGui import QFont
 import os
@@ -69,7 +69,7 @@ class JsonEditorApp(QWidget):
         controls_layout = QHBoxLayout()
 
         # Open file button - moved to the left
-        self.open_file_button = QPushButton("📂 Open File")
+        self.open_file_button = QPushButton("ðŸ“‚ Open File")
         self.open_file_button.clicked.connect(self.open_file)
         controls_layout.addWidget(self.open_file_button)
 
@@ -85,7 +85,7 @@ class JsonEditorApp(QWidget):
         self.decrease_font_button.clicked.connect(self.decrease_font_size)
         controls_layout.addWidget(self.decrease_font_button)
 
-        self.reset_font_button = QPushButton("↻")
+        self.reset_font_button = QPushButton("â†»")
         self.reset_font_button.clicked.connect(self.reset_font_size)
         controls_layout.addWidget(self.reset_font_button)
 
@@ -183,18 +183,18 @@ class JsonEditorApp(QWidget):
             "<div style='text-align: center;'>&#9432; <b>JSON Editor Information</b> &#9432;</div><br><br>"
             "This JSON Editor application allows you to:<br>"
             "<br>"
-            "• <b>View JSON Structure:</b> The tree view on the left displays the JSON structure. "
+            "â€¢ <b>View JSON Structure:</b> The tree view on the left displays the JSON structure. "
             "You can click on items to view their content on the right.<br>"
             "<br>"
-            "• <b>Edit JSON Values:</b> Select a leaf node (non-nested value) to edit its content in the text editor on the right.<br>"
+            "â€¢ <b>Edit JSON Values:</b> Select a leaf node (non-nested value) to edit its content in the text editor on the right.<br>"
             "<br>"
-            "• <b>Save Changes:</b> After editing a leaf node, click 'Save' to update the JSON.<br>"
+            "â€¢ <b>Save Changes:</b> After editing a leaf node, click 'Save' to update the JSON.<br>"
             "<br>"
-            "• <b>Refresh JSON:</b> Click 'Refresh' to reload the JSON file in case of external modifications.<br>"
+            "â€¢ <b>Refresh JSON:</b> Click 'Refresh' to reload the JSON file in case of external modifications.<br>"
             "<br>"
-            "• <b>Adjust Font Size:</b> Use the + and - buttons to increase or decrease font size, and the ↻ button to reset to the original size.<br>"
+            "â€¢ <b>Adjust Font Size:</b> Use the + and - buttons to increase or decrease font size, and the â†» button to reset to the original size.<br>"
             "<br>"
-            "• <b>Open JSON Files:</b> Click the 'Open File' button to load a new JSON file.<br>"
+            "â€¢ <b>Open JSON Files:</b> Click the 'Open File' button to load a new JSON file.<br>"
             "<br>"
             "<i>Note:</i> Only non-nested values (leaf nodes) are editable. Changes to nested structures "
             "need to be made in an external JSON editor.<br>"
@@ -359,6 +359,7 @@ class JsonEditorApp(QWidget):
 
             delete_action = menu.addAction("Delete")
             add_action = menu.addAction("Add")
+            rename_action = menu.addAction("Rename")
 
             action = menu.exec_(self.tree.viewport().mapToGlobal(position))
 
@@ -366,6 +367,8 @@ class JsonEditorApp(QWidget):
                 self.delete_item(item)
             elif action == add_action:
                 self.add_item(item)
+            elif action == rename_action:
+                self.rename_item(item)
 
     def delete_item(self, item):
         # Get the item path
@@ -423,6 +426,52 @@ class JsonEditorApp(QWidget):
         with open(self.json_file_path, 'w') as json_file:
             json.dump(self.json_data, json_file, indent=4)
 
+    def rename_item(self, item):
+        """Rename a node in the JSON structure"""
+        # Get the item path
+        item_path = self.get_item_path(item)
+        if len(item_path) == 0:
+            QMessageBox.warning(self, "Cannot Rename", "Cannot rename root items.")
+            return
+        
+        # Get the parent
+        parent_item = item.parent()
+        if parent_item is None:
+            QMessageBox.warning(self, "Cannot Rename", "Cannot rename top-level items in this JSON structure.")
+            return
+            
+        parent_path = item_path[:-1]
+        parent = self.get_json_value(parent_path)
+        
+        # Check if parent is a dictionary (only dict keys can be renamed)
+        if not isinstance(parent, dict):
+            QMessageBox.warning(self, "Cannot Rename", "Can only rename keys in dictionary objects. List indices cannot be renamed.")
+            return
+        
+        old_key = item_path[-1]
+        
+        # Show input dialog to get new name
+        new_key, ok = QInputDialog.getText(self, "Rename Key", 
+                                           f"Enter new name for '{old_key}':", 
+                                           text=old_key)
+        
+        if ok and new_key:
+            # Check if new key already exists
+            if new_key in parent and new_key != old_key:
+                QMessageBox.warning(self, "Key Exists", 
+                                   f"Key '{new_key}' already exists in this object.")
+                return
+            
+            # Rename the key in the JSON structure
+            parent[new_key] = parent.pop(old_key)
+            
+            # Update the tree item text
+            item.setText(0, new_key)
+            
+            # Save the updated JSON after renaming
+            with open(self.json_file_path, 'w') as json_file:
+                json.dump(self.json_data, json_file, indent=4)
+
     def copy_json_value(self, value):
         """Recursively copy a JSON value (dicts, lists, or primitives)"""
         if isinstance(value, dict):
@@ -473,4 +522,3 @@ if __name__ == "__main__":
     editor.show()
 
     sys.exit(app.exec_())
-

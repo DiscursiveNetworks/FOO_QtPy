@@ -69,7 +69,7 @@ class OpenAIWorker(QThread):
 class OpenAIAgent:
     """OpenAI Agent class compatible with Helper.py architecture"""
     
-    def __init__(self, model, name, instructions, user, config):
+    def __init__(self, model, name, instructions, user, config, model_entry=None):
         self.model = model
         self.name = name
         self.user = user
@@ -82,7 +82,13 @@ class OpenAIAgent:
 
         # Build instructions with preamble (compatible with Helper.py style)
         preamble = f"Please address the user as Dr. {user}.\n\n Introduce yourself as {name}, AI assistant.\n\n "
-        self.instructions = preamble + instructions
+        
+        # Add agent-specific directive if available
+        agent_directive = ""
+        if model_entry and "agent_directive" in model_entry:
+            agent_directive = f"\n\nAgent specific instructions:\n{model_entry['agent_directive']}\n"
+        
+        self.instructions = preamble + instructions + agent_directive
         
         # Initialize OpenAI client and create assistant/thread
         openai.api_key = os.getenv("OPENAI_API_KEY")

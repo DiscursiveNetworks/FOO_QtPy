@@ -15,9 +15,11 @@ config.json
 CommandLineGPT.code-workspace
 # Exclude local files 
 *.txt
+*.html
+*.mthml
 *.mp3
 *.bat
-config_*.json
+# config_*.json
 *.zip
 test.py
 

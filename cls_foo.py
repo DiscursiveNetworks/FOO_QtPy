@@ -87,7 +87,8 @@ class MultiAgentOrchestrator:
                         name=agent_name,
                         instructions=self.config["instructions"],
                         user=self.user,
-                        config=self.config
+                        config=self.config,
+                        model_entry=entry  # NEW: Pass the full model entry
                     )
                 else:
                     # Create OpenAI agent
@@ -96,11 +97,16 @@ class MultiAgentOrchestrator:
                         name=agent_name,
                         instructions=self.config["instructions"],
                         user=self.user,
-                        config=self.config
+                        config=self.config,
+                        model_entry=entry  # NEW: Pass the full model entry
                     )
                 
                 # Add harmonizer flag
                 agent.harmonizer = harmonizer
+                
+                # Store harmonizer directive if this is a harmonizer agent
+                if harmonizer and "harmonizer_directive" in entry:
+                    agent.harmonizer_directive = entry["harmonizer_directive"]
                 
                 # Initialize blockchain for this agent if conversation history exists
                 if hasattr(agent, 'history_data') and agent.history_data.get('history'):
@@ -110,7 +116,7 @@ class MultiAgentOrchestrator:
                 print(f"Initialized agent: {agent_name} ({model_code})")
                 
             except Exception as e:
-                print(f"Failed to initialize agent {agent_name}: {e}")
+                print(f"Failed to initialize agent {agent_name}: {e}")            
     
     def _migrate_agent_to_blockchain(self, agent):
         """Migrate existing agent history to blockchain format if needed"""
@@ -287,6 +293,8 @@ class MultiAgentOrchestrator:
     def send_judgment_analysis(self, source_agent_name):
         """
         Send judgment analysis to harmonizer agents with blockchain integrity.
+        Uses custom harmonizer_directive from config if available.
+        Returns: tuple of (responses_dict, messages_dict) where messages_dict contains what was sent to each agent
         """
         # Collect responses from non-harmonizer agents
         summary_map = {}
@@ -296,24 +304,37 @@ class MultiAgentOrchestrator:
         
         if not summary_map:
             print("No responses found from non-harmonizer agents")
-            return {}
+            return {}, {}
+        
+        # Build composite text once (shared by all harmonizers)
+        composite = []
+        for agent_name, response in summary_map.items():
+            composite.append(f"\n \n Agent {agent_name}: {response}")
+        composite_text = "".join(composite)
         
         # Send to harmonizer agents with blockchain integrity
         responses = {}
+        messages = {}  # Track what message was sent to each agent
+        
         for agent in self.get_harmonizer_agents():
-            composite = []
-            for agent_name, response in summary_map.items():
-                composite.append(f"\n \n Agent {agent_name}: {response}")
-            composite_text = "".join(composite)
+            # Use agent's custom harmonizer directive if available, otherwise use default
+            if hasattr(agent, 'harmonizer_directive') and agent.harmonizer_directive:
+                # Replace {source_agent_name} placeholder with actual agent name
+                directive = agent.harmonizer_directive.replace("{source_agent_name}", source_agent_name)
+                message = f"{directive} \n \n {composite_text}"
+            else:
+                # Fallback to original hardcoded message
+                message = (
+                    f"The following statements are the flaws others found for agent {source_agent_name}'s response."
+                    f" Organize their responses by topic in an additive manner (that is, do not eliminate information)."
+                    f" Structure your response using the following sections: 'Agreement', 'Disagreement', and 'Unique observations'."
+                    f" In 'Agreement', list ideas supported by multiple agents. In 'Disagreement', note contradictory statements."
+                    f" In 'Unique observations', highlight observations made by only one agent."
+                    f" The agent under review needs detailed responses to be able to improve. Produce the content for these sections with detailed bulletpoints. \n \n {composite_text}"
+                )
             
-            message = (
-                f"The following statements are the flaws others found for agent {source_agent_name}'s response."
-                f" Organize their responses by topic in an additive manner (that is, do not eliminate information)."
-                f" Structure your response using the following sections: 'Agreement', 'Disagreement', and 'Unique observations'."
-                f" In 'Agreement', list ideas supported by multiple agents. In 'Disagreement', note contradictory statements."
-                f" In 'Unique observations', highlight observations made by only one agent."
-                f" The agent under review needs detailed responses to be able to improve. Produce the content for these sections with detailed bulletpoints. \n \n {composite_text}"
-            )
+            # Store the message that was sent
+            messages[agent.name] = message
             
             try:
                 response = self.send_message_with_integrity(agent, message)
@@ -321,8 +342,9 @@ class MultiAgentOrchestrator:
             except Exception as e:
                 responses[agent.name] = f"Error: {e}"
         
-        return responses
-    
+        return responses, messages
+
+
     def send_reflection_analysis(self, target_agent_name):
         """
         Send reflection analysis to target agent with blockchain integrity.

@@ -129,41 +129,20 @@ class JudgmentWorker(QThread):
     
     def run(self):
         try:
-            # Build the request message that will be sent
-            summary_map = {}
-            for agent in self.orchestrator.get_non_harmonizer_agents():
-                if agent.latest_response:
-                    summary_map[agent.name] = agent.latest_response
+            # Call orchestrator to send judgment analysis
+            # Now returns both responses and the actual messages sent
+            responses, messages = self.orchestrator.send_judgment_analysis(self.source_agent_name)
             
-            if not summary_map:
-                self.result_ready.emit({}, {"Error": "No responses found from non-harmonizer agents"})
+            if not responses:
+                self.result_ready.emit({}, {"Error": "No responses from harmonizer agents"})
                 return
             
-            composite = []
-            for agent_name, response in summary_map.items():
-                composite.append(f"\n \n Agent {agent_name}: {response}")
-            composite_text = "".join(composite)
+            # Use the actual messages that were sent (from orchestrator)
+            # This ensures UI shows exactly what each agent received
+            self.result_ready.emit(messages, responses)
             
-            request_message = (
-                f"The following statements are the flaws others found for agent {self.source_agent_name}'s response."
-                f" Organize their responses by topic in an additive manner (that is, do not eliminate information)."
-                f" Structure your response using the following sections: 'Agreement', 'Disagreement', and 'Unique observations'."
-                f" In 'Agreement', list ideas supported by multiple agents. In 'Disagreement', note contradictory statements."
-                f" In 'Unique observations', highlight observations made by only one agent."
-                f" The agent under review needs detailed responses to be able to improve. Produce the content for these sections with detailed bulletpoints. \n \n {composite_text}"
-            )
-            
-            responses = self.orchestrator.send_judgment_analysis(self.source_agent_name)
-            
-            # Create requests dict for UI display
-            requests = {}
-            for agent_name in responses.keys():
-                requests[agent_name] = request_message
-            
-            self.result_ready.emit(requests, responses)
         except Exception as e:
             self.result_ready.emit({}, {"Error": str(e)})
-
 
 class ReflectionWorker(QThread):
     """Worker thread for reflection analysis"""
@@ -643,8 +622,26 @@ class MultiAgentChatGUI(QWidget):
 
     def load_configuration(self):
         """Load configuration from appropriate location"""
+        master_config = None
+        
+        # Try to load master config
+        if not os.path.exists(self.master_config_path):
+            print(f"Master config file not found: {self.master_config_path}")
+            # Prompt user to select config file
+            selected_config = self._prompt_for_config_file()
+            if selected_config:
+                self.master_config_path = selected_config
+            else:
+                # User cancelled - cannot proceed
+                QMessageBox.critical(
+                    None,
+                    "Configuration Required",
+                    "No configuration file selected. The application cannot start without a valid config file."
+                )
+                sys.exit(1)
+        
         try:
-            # Load master config first
+            # Load master config
             with open(self.master_config_path, "r") as f:
                 master_config = json.load(f)
             
@@ -677,12 +674,88 @@ class MultiAgentChatGUI(QWidget):
             # Initialize orchestrator with current config
             self.orchestrator = MultiAgentOrchestrator(self.current_config_path)
             
+        except FileNotFoundError as e:
+            print(f"Configuration file not found: {e}")
+            # Prompt user to select config file
+            selected_config = self._prompt_for_config_file()
+            if selected_config:
+                self.master_config_path = selected_config
+                # Retry loading with the selected config
+                self.load_configuration()
+            else:
+                QMessageBox.critical(
+                    None,
+                    "Configuration Required",
+                    "No configuration file selected. The application cannot start without a valid config file."
+                )
+                sys.exit(1)
+                
+        except json.JSONDecodeError as e:
+            print(f"Error parsing configuration file: {e}")
+            QMessageBox.critical(
+                None,
+                "Invalid Configuration",
+                f"The configuration file is not valid JSON:\n{e}\n\nPlease select a valid config file."
+            )
+            # Prompt for a different config file
+            selected_config = self._prompt_for_config_file()
+            if selected_config:
+                self.master_config_path = selected_config
+                # Retry loading with the selected config
+                self.load_configuration()
+            else:
+                sys.exit(1)
+                
         except Exception as e:
             print(f"Error loading configuration: {e}")
-            # Fallback to master config
-            self.current_config_data = master_config
-            self.current_config_path = self.master_config_path
-            self.orchestrator = MultiAgentOrchestrator(self.master_config_path)
+            # Only use fallback if we have a valid master_config
+            if master_config is not None:
+                print("Using master config as fallback")
+                self.current_config_data = master_config
+                self.current_config_path = self.master_config_path
+                try:
+                    self.orchestrator = MultiAgentOrchestrator(self.master_config_path)
+                except Exception as orch_error:
+                    QMessageBox.critical(
+                        None,
+                        "Initialization Failed",
+                        f"Failed to initialize orchestrator:\n{orch_error}"
+                    )
+                    sys.exit(1)
+            else:
+                QMessageBox.critical(
+                    None,
+                    "Configuration Error",
+                    f"Failed to load configuration:\n{e}"
+                )
+                sys.exit(1)
+
+    def _prompt_for_config_file(self):
+        """
+        Prompt user to select a configuration file.
+        Returns the selected file path or None if cancelled.
+        """
+        QMessageBox.warning(
+            None,
+            "Config File Not Found",
+            f"Configuration file not found: {self.master_config_path}\n\n"
+            "Please select a valid configuration file (config.json or config_*.json)"
+        )
+        
+        config_file_path, _ = QFileDialog.getOpenFileName(
+            None,
+            "Select Configuration File",
+            "",
+            "Config Files (config*.json);;All JSON Files (*.json);;All Files (*.*)"
+        )
+        
+        if config_file_path:
+            print(f"User selected config file: {config_file_path}")
+            return config_file_path
+        else:
+            print("User cancelled config file selection")
+            return None
+    
 
     def update_cwd_in_config(self, new_cwd):
         """Update the CWD in master config file"""
@@ -792,7 +865,7 @@ class MultiAgentChatGUI(QWidget):
         
         # Create tab widget
         self.tabs = QTabWidget()
-        self.tabs.setStyleSheet(f"QTabBar::tab {{ font-size: {fontsize}pt; min-width: {fontsize * 10}px; padding: 6px; }}")
+        self.tabs.setStyleSheet(f"QTabBar::tab {{ font-size: {fontsize}pt; min-width: {fontsize * 15}px; padding: 10px; }}")
         self.tabs.currentChanged.connect(self.focus_current_input)
         
         # Create broadcast input
@@ -1065,18 +1138,23 @@ class MultiAgentChatGUI(QWidget):
             print(f"Error during agent file deletion: {e}")
 
     def load_agent_files(self):
-        """Load agent files from selected folder and update CWD"""
-        folder_path = QFileDialog.getExistingDirectory(
-            self, 
-            "Select folder containing agent JSON files",
+        """Load agent files from config file's directory and update CWD"""
+        # Select config file instead of folder
+        config_file_path, _ = QFileDialog.getOpenFileName(
+            self,
+            "Select config.json file",
             "",
-            QFileDialog.ShowDirsOnly | QFileDialog.DontResolveSymlinks
+            "Config Files (config*.json);;All Files (*.*)"
         )
         
-        if not folder_path:
-            print("No folder selected")
+        if not config_file_path:
+            print("No config file selected")
             return
         
+        # Get the directory containing the config file
+        folder_path = os.path.dirname(config_file_path)
+        
+        print(f"Selected config file: {config_file_path}")
         print(f"Loading agent JSON files from: {folder_path}")
         
         # Update CWD in master config
@@ -1116,6 +1194,7 @@ class MultiAgentChatGUI(QWidget):
         # After loading, restart interface to apply any config changes
         print("Restarting interface after load operation...")
         self.restart_interface()
+    
 
 class BlockchainAgentWorker(QThread):
     """Worker thread for blockchain-enabled agent interactions"""

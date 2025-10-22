@@ -69,7 +69,7 @@ class ClaudeWorker(QThread):
 class AnthropicAgent:
     """Anthropic Claude Agent class compatible with ClaudeChat.py architecture"""
     
-    def __init__(self, model, name, instructions, user, config):
+    def __init__(self, model, name, instructions, user, config, model_entry=None):
         self.model = model
         self.name = name
         self.user = user
@@ -80,8 +80,14 @@ class AnthropicAgent:
         self.integrity_valid = True        
 
         # Build instructions with preamble
-        preamble = f"Please address the user as Dr. {user}.\n\n Introduce yourself as {name}, AI assistant.\n\n "
-        self.instructions = preamble + instructions
+        preamble = f"Address the user as Dr. {user}.\n\n Introduce yourself as {name}, AI assistant.\n\n "
+        
+        # Add agent-specific directive if available
+        agent_directive = ""
+        if model_entry and "agent_directive" in model_entry:
+            agent_directive = f"\n\nAgent specific instructions:\n{model_entry['agent_directive']}\n"
+        
+        self.instructions = preamble + instructions + agent_directive
         
         # Initialize Anthropic client
         api_key = os.getenv("ANTHROPIC_API_KEY")
