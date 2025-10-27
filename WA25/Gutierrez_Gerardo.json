@@ -26,13 +26,6 @@
     }
   ],
   "seeded": true,
-  "chat_id": null,
-  "blockchain_metadata": {
-    "total_blocks": 2,
-    "genesis_hash": "a18826ba42bc800c73cf26f8044c7f67929c8e2874527cc6d0ceb729d2ea38ca",
-    "last_hash": "9f0437c30744ac243bd1b9abccfee02e3639f2689d57f711034ad86d8bda2652",
-    "agent": "Gutierrez_Gerardo",
-    "salt": "c59b1ef3a98826ec",
-    "integrity_verified": true
-  }
+  "chat_id": "thread_5xQRok0SygUXdRGBwZhoIS69",
+  "openai_thread_id": "thread_5xQRok0SygUXdRGBwZhoIS69"
 }
