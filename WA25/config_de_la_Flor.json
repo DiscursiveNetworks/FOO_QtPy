@@ -2,10 +2,10 @@
     "CONFIG": {
         "instructions": "Information about me: I am... .\\n\\nWhen you respond, I'd like the following to happen:\\n\\nDirective R1: Generate detailed answers without adjectives, unless explicitly asked for.\\n\\nDirective R2: Generate answers in paragraphs instead of lists, unless explicitly asked for.\\n\\nDirective R3: Avoid text with participial phrases.\\n\\nDirective R4: Generate text in paragraphs without sections, unless explicitly asked for. The first sentence of each paragraph should be the main idea, with all other text in the paragraph developing that idea. The addition of first sentences of each paragraph should be equivalent to an abstract.\\n\\nDirective R5: Avoid the following words. Never, EVER use them: Delve, Tapestry, Vibrant, Landscape, Realm, Embark, Excels, Vital, Weave, Tapestry, Intertwined, Truly, Fleeting, Enchanting, Amidst, Portrayal, Artful, Painted, Seizing, Trusted, Vision, Unfolding, Strive, Ever-evolving, Seamless, Compelling, Marveled, Subtlest, Transcends, Unlock, Unleash, Unveiling, Vast.\\n\\nDirective R6: The following is an example of my writing style. Emulate stylistically but not content-wise when generating text: '... (about 5 pages should do it)...'",
         "model": "gpt-4o",
-        "name": "[your default bot name for CLI]",
-        "user": "[your name]]",
+        "name": "delaflor_Hermione",
+        "user": "Miguel de la Flor",
         "fontsize": 12,
-        "CWD": "full folder address where you want to operate]",
+        "CWD": "D:\\git\\FOO_QtPy\\WA25",
         "blockchain_salt": "c59b1ef3a98826ec"
     },
     "MODELS": [
@@ -14,7 +14,8 @@
             "model_name": "OpenAI GPT o3 Reasoning Model",
             "temperature": 0.1,
             "max_completion_tokens": 5000,
-            "agent_name": "Hermione",
+            "agent_name": "delaflor_Hermione",
+            "agent_directive": "Primary reviewer: read the proposal and produce a short structured review covering aims, innovation, major strengths, major weaknesses, and a numeric score 1-9 with justification.",
             "harmonizer": "true"
         },
         {
@@ -22,7 +23,8 @@
             "model_name": "OpenAI GPT 4.1",
             "temperature": 0.1,
             "max_completion_tokens": 5000,
-            "agent_name": "Gabriella",
+            "agent_name": "delaflor_Gabriella",
+            "agent_directive": "Primary reviewer: read the proposal and produce a short structured review covering aims, innovation, major strengths, major weaknesses, and a numeric score 1-9 with justification.",
             "harmonizer": "false"
         },
         {
@@ -30,7 +32,8 @@
             "model_name": "OpenAI GPT 4.1",
             "temperature": 0.9,
             "max_completion_tokens": 5000,
-            "agent_name": "Gerardo",
+            "agent_name": "delaflor_Gerardo",
+            "agent_directive": "Primary reviewer: read the proposal and produce a short structured review covering aims, innovation, major strengths, major weaknesses, and a numeric score 1-9 with justification.",
             "harmonizer": "false"
         },
         {
@@ -38,7 +41,8 @@
             "model_name": "Anthropic claude-opus-4-20250514",
             "temperature": 0.1,
             "max_completion_tokens": 5000,
-            "agent_name": "Claudius",
+            "agent_name": "delaflor_Claudius",
+            "agent_directive": "Primary reviewer: read the proposal and produce a short structured review covering aims, innovation, major strengths, major weaknesses, and a numeric score 1-9 with justification.",
             "harmonizer": "false"
         },
         {
@@ -46,7 +50,8 @@
             "model_name": "Anthropic claude-opus-4-20250514",
             "temperature": 0.9,
             "max_completion_tokens": 5000,
-            "agent_name": "Claudette",
+            "agent_name": "delaflor_Claudette",
+            "agent_directive": "Primary reviewer: read the proposal and produce a short structured review covering aims, innovation, major strengths, major weaknesses, and a numeric score 1-9 with justification.",
             "harmonizer": "false"
         }
     ]
