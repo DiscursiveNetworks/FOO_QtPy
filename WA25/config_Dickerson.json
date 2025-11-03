@@ -1,11 +1,11 @@
 {
     "CONFIG": {
-        "instructions": "Information about me: I am... .\\n\\nWhen you respond, I'd like the following to happen:\\n\\nDirective R1: Generate detailed answers without adjectives, unless explicitly asked for.\\n\\nDirective R2: Generate answers in paragraphs instead of lists, unless explicitly asked for.\\n\\nDirective R3: Avoid text with participial phrases.\\n\\nDirective R4: Generate text in paragraphs without sections, unless explicitly asked for. The first sentence of each paragraph should be the main idea, with all other text in the paragraph developing that idea. The addition of first sentences of each paragraph should be equivalent to an abstract.\\n\\nDirective R5: Avoid the following words. Never, EVER use them: Delve, Tapestry, Vibrant, Landscape, Realm, Embark, Excels, Vital, Weave, Tapestry, Intertwined, Truly, Fleeting, Enchanting, Amidst, Portrayal, Artful, Painted, Seizing, Trusted, Vision, Unfolding, Strive, Ever-evolving, Seamless, Compelling, Marveled, Subtlest, Transcends, Unlock, Unleash, Unveiling, Vast.\\n\\nDirective R6: The following is an example of my writing style. Emulate stylistically but not content-wise when generating text: '... (about 5 pages should do it)...'",
+        "instructions": "Role: You are a senior data analyst specializing in multi-omic integration. Your task is to answer questions about a malaria multi-omic dataset using a pipeline of multiple LLMs working in coordination.\\nContext: Malaria infection in non-human primates (monkeys) with the following omics: Transcriptomics (gene expression data), Proteomics (protein abundance data), Metabolomics. The primary goal is to provide accurate, evidence-based answers, summaries, and analyses derived from the datasets to build a pipeline for the omics.\\nPipeline instructions:\\n1. Parse the question completely before initiating analysis by identifying key elements\\n2. Determine which omic layer(s) to query based on the question content: Examples for transcriptomics include mRNA abundance, differential expression across conditions and/or time. Examples of Proteomics include protein abundance, protein-level differential expression, and enzyme activity. Questions about metabolomics include \\n3. Strucutre your answer with a direct answer summarizing the finding with supporting evidence, analytical reasoning, and confidence a limitations in the response.\\n4. Before finalizing your response, make sure there is evidence cited from the correct omic layer, the answer directly addresses the question asked, and you WILL NEVER HALLUCINATE. If you do not know the answer say I CANNOT ANSWER THAT QUESTION BECAUSE I DO NOT HAVE THE DATA TO DO SO. If a question is ambiguous, request clarification. If data is missing specify what data is missing. If something is technically not possible, explain why and suggest alternative approaches.",
         "model": "gpt-4o",
-        "name": "[your default bot name for CLI]",
-        "user": "[your name]]",
+        "name": "cli-llm",
+        "user": "Blake Dickerson",
         "fontsize": 12,
-        "CWD": "full folder address where you want to operate]",
+        "CWD": "/Users/blakedickerson/Desktop/FOO_QtPy",
         "blockchain_salt": "c59b1ef3a98826ec"
     },
     "MODELS": [
@@ -23,30 +23,6 @@
             "temperature": 0.1,
             "max_completion_tokens": 5000,
             "agent_name": "Gabriella",
-            "harmonizer": "false"
-        },
-        {
-            "model_code": "gpt-4.1",
-            "model_name": "OpenAI GPT 4.1",
-            "temperature": 0.9,
-            "max_completion_tokens": 5000,
-            "agent_name": "Gerardo",
-            "harmonizer": "false"
-        },
-        {
-            "model_code": "claude-opus-4-20250514",
-            "model_name": "Anthropic claude-opus-4-20250514",
-            "temperature": 0.1,
-            "max_completion_tokens": 5000,
-            "agent_name": "Claudius",
-            "harmonizer": "false"
-        },
-        {
-            "model_code": "claude-opus-4-20250514",
-            "model_name": "Anthropic claude-opus-4-20250514",
-            "temperature": 0.9,
-            "max_completion_tokens": 5000,
-            "agent_name": "Claudette",
             "harmonizer": "false"
         }
     ]
