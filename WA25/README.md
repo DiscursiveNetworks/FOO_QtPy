@@ -1,185 +1,88 @@
-# Methods
+# 🔬 Grant Review Instructions 
 
-## Study Design and Overview
+## Overview
+Select one proposal from the  [Discord #wa25 channel](https://discord.com/channels/1431729549502316576/1431731077604573275)  and announce your selection to avoid overlap. This study implements a multi-agent artificial intelligence system for collaborative grant proposal review based on the "Flaws of Others" methodology, as described in our Methods.
 
-We developed and evaluated a multi-agent artificial intelligence system for collaborative grant proposal review based on the "Flaws of Others" methodology. This study aimed to assess the effectiveness of AI-assisted peer review in identifying strengths and weaknesses in NIH grant proposals across different funding mechanisms (F31, R21, R01).
+## Step 1: Grant Proposal Selection and Preparation
 
-## Grant Proposal Selection and Preparation
-
-### Proposal Selection
-A diverse set of publicly available NIH grant proposals was selected for analysis, ensuring representation across multiple funding mechanisms. Each proposal was assigned to a single reviewer to prevent overlap. Selection criteria included:
-- Proposals from different NIH institutes
+### 1.1 Proposal Selection
+Select proposals ensuring:
+- Different NIH institutes representation
 - Various funding mechanisms (F31, R21, R01)
-- Complete proposals with standard NIH structure (Specific Aims, Significance, Innovation, Approach)
+- Complete proposals with standard NIH structure
 
-### Document Preparation
-Selected proposals underwent a standardized preparation process:
-1. **Relevance Screening**: Non-relevant pages (administrative forms, appendices, biosketches) were removed, retaining only the core scientific content (typically 7-15 pages)
-2. **Structure Verification**: Each proposal was verified to contain standard NIH sections beginning with Specific Aims, in accordance with the solicitation requirements for the respective funding mechanism
-3. **Optical Character Recognition (OCR)**: All proposals were processed using OCR software (Adobe Acrobat Pro DC) to ensure machine-readable text extraction, with manual verification of OCR accuracy
+### 1.2 Document Preparation - Relevance Screening
+Remove non-relevant pages, retaining only core scientific content (7-15 pages):
 
-## Multi-Agent System Configuration
+**KEEP These Sections:**
+- Specific Aims (typically page 1)
+- Research Strategy:
+  - Significance
+  - Innovation
+  - Approach
 
-### Agent Architecture
-The review system employed two independent AI agents configured for collaborative analysis:
+**REMOVE These Sections:**
+- Administrative forms
+- Appendices
+- Biographical sketches/CVs
+- Budget pages and justifications
+- Facilities & Other Resources
+- Equipment lists
+- Bibliography/References Cited
+- Letters of support
+- Other support pages
+- Personnel justification
+
+### 1.3 Structure Verification
+Verify each proposal contains standard NIH sections beginning with Specific Aims, in accordance with the specific funding mechanism requirements.
+
+### 1.4 Optical Character Recognition (OCR)
+The folder `utils` contains several programs to conduct OCR. Process all proposals using OCR software to ensure machine-readable text extraction:
+
+```bash
+# Option 1: Use grant_extractor.py for automatic extraction
+python grant_extractor.py original_proposal.pdf extracted/
+
+# Option 2: Use Adobe Acrobat Pro DC with these settings:
+# - Language: English (US)
+# - Output: Searchable Image
+# - Downsample to: 300 dpi
+# - Compression: JPEG
+# - Quality: High
+
+# Then use grant_ocr.py for OCR
+python grant_ocr.py extracted_proposal.pdf output/
+```
+
+**Note**: Manual verification of OCR accuracy is required, checking for:
+- Special characters and symbols
+- Mathematical equations
+- Figure legends and table contents
+
+## Step 2: Multi-Agent System Configuration
+
+### 2.1 Configuration File Setup
+Create individual configuration files based on the standardized template:
+
+```bash
+cp config_Gutierrez_NIH.json config_[YourName]_[GrantType].json
+```
+
+The configuration must include:
+- Agent model specifications (e.g., GPT-4, Claude-3-opus)
+- Standardized review prompt emphasizing NIH review criteria
+- Instructions for comprehensive strength AND weakness identification
+- Blockchain integrity verification settings
+
+### 2.2 Agent Architecture
+The system employs two independent AI agents:
 - **Agent 1**: Primary reviewer (GPT-4 or Claude 3)
 - **Agent 2**: Critical analyst (complementary AI model)
 
-### Configuration Development
-Individual configuration files were created for each review session based on a standardized template (config_Gutierrez_NIH.json). Configuration parameters included:
-- Agent model specifications
-- Standardized review prompt emphasizing NIH review criteria
-- Instructions for comprehensive strength and weakness identification
-- Blockchain integrity verification settings for audit trail
+### 2.3 Review Prompt Requirements
+Ensure the prompt explicitly requires identification of weaknesses for EACH criterion:
 
-### Review Prompt Standardization
-All agents utilized identical base prompts incorporating NIH review criteria:
-- Significance and potential impact
-- Innovation and novelty
-- Approach feasibility and rigor
-- Investigator qualifications
-- Research environment adequacy
-
-Critically, prompts were modified to explicitly require identification of weaknesses for each evaluation criterion, addressing a gap in the original review guidelines.
-
-## Review Process Implementation
-
-### Initial Review Phase
-1. **System Initialization**: The grant_review.py application was launched with the prepared configuration file
-2. **Document Upload**: Sanitized, OCR-processed PDF proposals were uploaded through the graphical interface
-3. **Primary Analysis**: Agent 1 conducted initial comprehensive review with explicit instructions to provide:
-   - Detailed strengths for each NIH criterion
-   - Specific weaknesses and limitations
-   - Constructive recommendations for improvement
-
-### Iterative Refinement
-Reviewers engaged in iterative refinement of agent responses:
-1. **Response Enhancement**: Individual agents were prompted to expand abbreviated responses, ensuring comprehensive coverage
-2. **Detail Elaboration**: Agents were repeatedly queried until producing full, detailed responses for each review criterion
-3. **Weakness Identification**: Special attention was given to ensuring balanced critique with both strengths and weaknesses documented
-
-### Vulnerability Analysis Phase
-Upon satisfactory completion of initial reviews:
-1. **Cross-Agent Critique**: The "Vulnerability" function was activated, prompting Agent 2 to critically analyze Agent 1's review for:
-   - Logical inconsistencies
-   - Unsupported claims
-   - Overlooked weaknesses
-   - Biased assessments
-
-2. **Critique Refinement**: The vulnerability analysis underwent iterative refinement until achieving:
-   - Specific, actionable criticisms
-   - Evidence-based challenges
-   - Constructive feedback
-
-### Reflection and Consensus Phase
-Following vulnerability analysis:
-1. **Reflection Process**: The "Reflection" function  was activated for the primary reviewing agent
-2. **Response Integration**: Agent 1 synthesized the critique, either:
-   - Accepting and incorporating valid criticisms
-   - Defending original assessments with additional evidence
-   - Modifying conclusions based on new perspectives
-
-## Data Collection and Storage
-
-### Conversation Logging
-All agent interactions were automatically logged with:
-- Timestamp documentation
-- Complete message history
-- Blockchain integrity hashes for audit trail
-- JSON-formatted storage in agent-specific files
-
-### Quality Assurance
-- Manual verification of OCR accuracy
-- Review completeness checks
-- Interaction history validation
-- Blockchain integrity verification
-
-## Analysis Framework
-
-Reviews were evaluated based on:
-1. **Comprehensiveness**: Coverage of all NIH review criteria
-2. **Balance**: Presence of both strengths and weaknesses
-3. **Specificity**: Concrete examples and actionable feedback
-4. **Consistency**: Agreement between initial and post-reflection assessments
-5. **Constructiveness**: Quality of improvement suggestions
-
-## Ethical Considerations
-
-- All proposals analyzed were publicly available or used with permission
-- No proprietary or confidential information was processed
-- AI-generated reviews were clearly identified as such
-- Human oversight was maintained throughout the process
-
-## Software and Technical Specifications
-
-- **Primary Application**: grant_review.py (v2.0)
-- **AI Models**: GPT-4, Claude 3, and other large language models as specified in configuration files
-- **OCR Software**: Adobe Acrobat Pro DC
-- **Operating System**: Cross-platform (Windows, macOS, Linux)
-- **Dependencies**: PyQt5, OpenAI API, Anthropic API, PyPDF2
-- **Data Storage**: JSON format with blockchain integrity verification
-
-This methodology enables systematic, reproducible evaluation of grant proposals using collaborative AI agents while maintaining rigorous documentation and quality control standards.
-
-# Supplementary Methods
-
-## Detailed Technical Specifications
-
-### 1. Document Preprocessing Pipeline
-
-#### 1.1 Proposal Structure Identification
-- **Page Detection Algorithm**: Automated detection of standard NIH sections using keyword matching:
-  - "Specific Aims" (typically page 1)
-  - "Research Strategy" sections: Significance, Innovation, Approach
-  - "Bibliography" and "Appendices" (marked for removal)
-
-#### 1.2 OCR Processing Parameters
-- **Software**: Adobe Acrobat Pro DC (version 2023.001.20174)
-- **Settings**:
-  - Language: English (US)
-  - Output: Searchable Image
-  - Downsample to: 300 dpi
-  - Compression: JPEG
-  - Quality: High
-- **Quality Control**: Manual verification of:
-  - Special characters and symbols
-  - Mathematical equations
-  - Figure legends and table contents
-  - Formatting preservation
-
-### 2. Configuration File Structure
-
-```json
-{
-  "CONFIG": {
-    "user": "Reviewer",
-    "instructions": "You are an NIH study section reviewer...",
-    "CWD": "/grant_reviews",
-    "blockchain_salt": "[auto-generated]"
-  },
-  "MODELS": [
-    {
-      "model_code": "gpt-4",
-      "agent_name": "Primary_Reviewer",
-      "agent_directive": "Focus on comprehensive analysis with balanced critique",
-      "active": true
-    },
-    {
-      "model_code": "claude-3-opus",
-      "agent_name": "Critical_Analyst",
-      "agent_directive": "Identify flaws, gaps, and unsupported claims",
-      "active": true
-    }
-  ]
-}
 ```
-
-### 3. Review Prompt Engineering
-
-#### 3.1 Base Prompt Structure
-```
-You are an experienced NIH study section reviewer. Evaluate this proposal according to NIH review criteria.
-
 For EACH section below, provide:
 1. STRENGTHS: Specific positive aspects
 2. WEAKNESSES: Specific limitations or concerns (REQUIRED)
@@ -196,180 +99,304 @@ Sections to evaluate:
 Note: You MUST identify at least one weakness for each section.
 ```
 
-#### 3.2 Iterative Refinement Prompts
-- **Expansion prompt**: "Please expand your analysis of [specific section]. Provide more detailed examples and specific citations from the proposal."
-- **Balance prompt**: "Your review appears overly [positive/negative]. Please provide a more balanced assessment with both strengths and weaknesses."
-- **Specificity prompt**: "Replace general statements with specific examples from the proposal text."
+## Step 3: Review Process Implementation
 
-### 4. Multi-Agent Interaction Protocol
-
-#### 4.1 Message Flow
-```
-User → Agent1 (Initial Review)
-     ↓
-Agent1 Response → User (Refinement Loop)
-     ↓
-User → Agent2 (Vulnerability Request)
-     ↓
-Agent2 analyzes Agent1 → User
-     ↓
-User → Agent1 (Reflection Request)
-     ↓
-Agent1 synthesizes feedback → Final Review
+### 3.1 System Initialization
+```bash
+python grant_review.py config_[YourName]_[GrantType].json
 ```
 
-#### 4.2 Vulnerability Analysis Instructions
+### 3.2 Document Upload
+Upload the sanitized, OCR-processed PDF (7-15 pages of research content only).
+
+### 3.3 Initial Review Phase
+Agent 1 conducts comprehensive review. Ensure the agent provides:
+- Detailed strengths for each NIH criterion
+- Specific weaknesses and limitations (REQUIRED)
+- Constructive recommendations for improvement
+
+### 3.4 Iterative Refinement
+Refine agent responses through:
+
+1. **Response Enhancement**: Request expansion of abbreviated responses
+   - "Please expand your analysis of [specific section]"
+   - "Provide more detailed examples and specific citations"
+
+2. **Detail Elaboration**: Query until full responses achieved
+   - "Replace general statements with specific examples from the proposal"
+
+3. **Weakness Identification**: Ensure balanced critique
+   - "Your review lacks weaknesses for [criterion]. Please identify specific limitations"
+
+## Step 4: Vulnerability Analysis Phase
+
+### 4.1 Activate Vulnerability Analysis
+Click "Vulnerability" button to prompt Agent 2 to analyze Agent 1's review for:
+- Logical inconsistencies or contradictions
+- Unsupported or exaggerated claims
+- Overlooked critical weaknesses
+- Potential reviewer bias
+- Gaps in the analysis
+
+### 4.2 Refine Vulnerability Analysis
+Iterate until the critique includes:
+- Specific, actionable criticisms
+- Evidence-based challenges
+- Constructive feedback
+- Concrete examples from the original review
+
+## Step 5: Reflection and Consensus Phase
+
+### 5.1 Activate Reflection
+Click "Reflection" button (NOT "Judgement" - this was corrected in the implementation) for the primary agent.
+
+### 5.2 Response Integration
+Agent 1 synthesizes the critique by:
+- Accepting and incorporating valid criticisms
+- Defending original assessments with additional evidence
+- Modifying conclusions based on new perspectives
+- Producing an updated, balanced final review
+
+## Data Collection and Quality Assurance
+
+### Automatic Logging
+All interactions are logged with:
+- Timestamp documentation
+- Complete message history
+- Blockchain integrity hashes
+- JSON-formatted storage
+
+### Quality Checklist
+Before completing, verify:
+- [ ] Only 7-15 pages of research content included
+- [ ] All non-research sections removed
+- [ ] OCR text clean and accurate
+- [ ] Configuration uses standardized prompt
+- [ ] Each criterion has identified weaknesses
+- [ ] Specific proposal examples cited
+- [ ] Vulnerability analysis completed
+- [ ] Reflection synthesis performed
+- [ ] All conversations saved (click "Save Conversation")
+
+## Expected Outputs
+
+Your review process generates:
+1. `[AgentName].json` - Complete interaction history with blockchain hashes
+2. Final balanced review incorporating vulnerability analysis
+3. Evidence of iterative refinement
+4. Comprehensive coverage of all NIH criteria with strengths AND weaknesses
+
+## Common Issues and Solutions
+
+### Missing Weaknesses
+**Issue**: Agent provides only positive feedback
+**Solution**: Explicitly request: "You must identify at least one weakness for each criterion. Even excellent proposals have areas for improvement."
+
+### Generic Feedback
+**Issue**: Reviews lack specific examples
+**Solution**: Request: "Cite specific page numbers, figures, or quotes from the proposal to support each point."
+
+### Incomplete Sections
+**Issue**: Some NIH criteria not addressed
+**Solution**: List missing sections explicitly: "Please provide analysis for: [missing sections]"
+
+### Technical Errors
+- **OCR issues**: Re-process at 300 dpi minimum
+- **Configuration errors**: Verify JSON syntax
+- **Save failures**: Check write permissions in output directory
+
+## Alignment with Study Methodology
+
+This process implements the methodology described in our manuscript:
+- Standardized document preparation (7-15 pages)
+- Dual-agent architecture for collaborative review
+- Blockchain integrity for audit trails
+- Iterative refinement process
+- Vulnerability analysis ("Flaws of Others")
+- Reflection-based consensus building
+
+## Final Notes
+
+1. **Weaknesses are mandatory**: NIH reviews always identify areas for improvement
+2. **Balance is key**: Target 1:1 to 2:1 ratio of strengths to weaknesses
+3. **Specificity matters**: General comments without examples are insufficient
+4. **Save frequently**: Use "Save Conversation" button after major steps
+5. **Document everything**: The JSON logs serve as your audit trail
+
+---
+
+**Remember**: This methodology enables systematic, reproducible evaluation of grant proposals while maintaining the rigor expected in actual NIH study sections.
+
+
+# Grant Review Workflow - Methods-Aligned Visual Guide
+
+## Complete Workflow 
+
 ```
-Analyze the review provided by [Agent1] for:
-1. Logical inconsistencies or contradictions
-2. Unsupported or exaggerated claims
-3. Overlooked critical weaknesses
-4. Potential reviewer bias
-5. Gaps in the analysis
-
-Provide specific examples and suggest corrections.
+┌─────────────────────────────────────────────────────────┐
+│                  GRANT PROPOSAL SELECTION               │
+│  • F31, R21, or R01 from different NIH institutes       │
+│  • Complete proposals with standard structure           │
+│  • Announce selection in #wa25 to prevent overlap       │
+└───────────────────────┬─────────────────────────────────┘
+                        ↓
+┌─────────────────────────────────────────────────────────┐
+│                  DOCUMENT PREPARATION                   │
+├─────────────────────────────────────────────────────────┤
+│  1. Relevance Screening:                                │
+│     REMOVE: • Administrative forms                      │
+│             • Biographical sketches                     │
+│             • Budget pages                              │
+│             • Facilities & resources                    │
+│             • References/Bibliography                   │
+│     KEEP:   • Specific Aims                             │
+│             • Research Strategy (Sig/Innov/Approach)    │
+│                                                         │
+│  2. Structure Verification:                             │
+│     • Must begin with Specific Aims                     │
+│     • 7-15 pages total                                  │
+│                                                         │
+│  3. OCR Processing:                                     │
+│     • Adobe Acrobat Pro DC                              │
+│     • Settings: 300 dpi, JPEG, High quality             │
+│     • Manual verification required                      │
+└───────────────────────┬─────────────────────────────────┘
+                        ↓
+┌─────────────────────────────────────────────────────────┐
+│              MULTI-AGENT SYSTEM CONFIGURATION           │
+├─────────────────────────────────────────────────────────┤
+│  • Copy config_Gutierrez_NIH.json template              │
+│  • Agent 1: Primary reviewer (GPT-4/Claude 3)           │
+│  • Agent 2: Critical analyst (complementary model)      │
+│  • Prompt MUST require weaknesses for each criterion    │
+│  • Blockchain integrity verification enabled            │
+└───────────────────────┬─────────────────────────────────┘
+                        ↓
+┌─────────────────────────────────────────────────────────┐
+│                   INITIAL REVIEW PHASE                  │
+├─────────────────────────────────────────────────────────┤
+│  1. Launch: python grant_review.py config.json          │
+│  2. Upload sanitized PDF (7-15 pages)                   │
+│  3. Agent 1 provides:                                   │
+│     • Detailed strengths per criterion                  │
+│     • Specific weaknesses (REQUIRED)                    │
+│     • Constructive recommendations                      │
+└───────────────────────┬─────────────────────────────────┘
+                        ↓
+┌─────────────────────────────────────────────────────────┐
+│                  ITERATIVE REFINEMENT                   │
+├─────────────────────────────────────────────────────────┤
+│  Repeat until satisfactory:                             │
+│  • "Expand analysis of [section]"                       │
+│  • "Provide specific examples from proposal"            │
+│  • "Identify weaknesses for [criterion]"                │
+│  • "Balance positive and negative assessments"          │
+└───────────────────────┬─────────────────────────────────┘
+                        ↓
+┌─────────────────────────────────────────────────────────┐
+│              VULNERABILITY ANALYSIS PHASE               │
+├─────────────────────────────────────────────────────────┤
+│  1. Click "Vulnerability" button                        │
+│  2. Agent 2 analyzes Agent 1's review for:              │
+│     • Logical inconsistencies                           │
+│     • Unsupported claims                                │
+│     • Overlooked weaknesses                             │
+│     • Reviewer bias                                     │
+│  3. Refine until specific, evidence-based               │
+└───────────────────────┬─────────────────────────────────┘
+                        ↓
+┌─────────────────────────────────────────────────────────┐
+│            REFLECTION AND CONSENSUS PHASE               │
+├─────────────────────────────────────────────────────────┤
+│  1. Click "Reflection" button (NOT "Judgement")         │
+│  2. Agent 1 synthesizes critique:                       │
+│     • Incorporates valid criticisms                     │
+│     • Defends justified assessments                     │
+│     • Modifies based on new insights                    │
+│  3. Produces final balanced review                      │
+└───────────────────────┬─────────────────────────────────┘
+                        ↓
+┌─────────────────────────────────────────────────────────┐
+│              DATA COLLECTION AND STORAGE                │
+├─────────────────────────────────────────────────────────┤
+│  Automatic logging includes:                            │
+│  • Timestamp documentation                              │
+│  • Complete message history                             │
+│  • Blockchain integrity hashes                          │
+│  • JSON-formatted agent files                           │
+│  • Click "Save Conversation" to persist                 │
+└─────────────────────────────────────────────────────────┘
 ```
 
-#### 4.3 Reflection Protocol
-```
-Consider the critique provided by [Agent2]:
-1. Identify valid criticisms to incorporate
-2. Defend original assessments if well-supported
-3. Modify conclusions based on new insights
-4. Maintain professional tone throughout
-
-Produce an updated, balanced review.
-```
-
-### 5. Data Storage and Integrity
-
-#### 5.1 File Naming Convention
-- Agent logs: `[AgentName].json`
-- Blockchain verification: `[AgentName]_blockchain.json`
-- Backup files: `[AgentName]_[timestamp].json.bak`
-
-#### 5.2 JSON Structure
-```json
-{
-  "history": [
-    {
-      "role": "user/assistant",
-      "content": "message content",
-      "timestamp": "ISO 8601 format",
-      "blockchain": {
-        "hash": "SHA256 hash",
-        "previous_hash": "previous block hash",
-        "index": 0
-      }
-    }
-  ],
-  "metadata": {
-    "proposal_id": "identifier",
-    "review_date": "date",
-    "agent_version": "version"
-  }
-}
-```
-
-### 6. Quality Assurance Metrics
-
-#### 6.1 Review Completeness Score
-- Each section addressed: +1 point
-- Strengths identified: +1 point
-- Weaknesses identified: +2 points (required)
-- Specific examples: +1 point
-- Maximum score: 25 points per review
-
-#### 6.2 Balance Assessment
-- Strength-to-weakness ratio: Target 1:1 to 2:1
-- Specificity index: Specific claims / Total claims
-- Citation frequency: References to proposal / Total sentences
-
-### 7. System Requirements
-
-#### 7.1 Hardware
-- Minimum RAM: 8 GB
-- Recommended RAM: 16 GB
-- Storage: 10 GB available space
-- Network: Stable internet for API calls
-
-#### 7.2 Software Dependencies
-```
-Python >= 3.8
-PyQt5 >= 5.15.0
-openai >= 1.0.0
-anthropic >= 0.3.0
-PyPDF2 >= 3.0.0
-json (standard library)
-datetime (standard library)
-hashlib (standard library)
-```
-
-### 8. Workflow Diagram
+## Review Quality Metrics (Per Methods)
 
 ```
-┌─────────────────┐
-│ Proposal PDF    │
-└────────┬────────┘
-         ↓
-┌─────────────────┐
-│ Remove Non-     │
-│ Relevant Pages  │
-└────────┬────────┘
-         ↓
-┌─────────────────┐
-│ OCR Processing  │
-└────────┬────────┘
-         ↓
-┌─────────────────┐
-│ Configuration   │
-│ File Creation   │
-└────────┬────────┘
-         ↓
-┌─────────────────┐
-│ grant_review.py │
-│ Initialization  │
-└────────┬────────┘
-         ↓
-┌─────────────────────────────┐
-│ REVIEW CYCLE                │
-│ ┌─────────────┐             │
-│ │Initial Review│             │
-│ └──────┬──────┘             │
-│        ↓                     │
-│ ┌─────────────┐             │
-│ │  Refinement │ ←───┐       │
-│ └──────┬──────┘     │       │
-│        ↓            │       │
-│ ┌─────────────┐     │       │
-│ │Vulnerability│     │       │
-│ │  Analysis   │     │       │
-│ └──────┬──────┘     │       │
-│        ↓            │       │
-│ ┌─────────────┐     │       │
-│ │ Reflection  ├─────┘       │
-│ └──────┬──────┘             │
-└────────┼────────────────────┘
-         ↓
-┌─────────────────┐
-│ Final Review    │
-│ & Data Storage  │
-└─────────────────┘
+┌─────────────────────────────────────┐
+│         ANALYSIS FRAMEWORK          │
+├─────────────────────────────────────┤
+│ 1. Comprehensiveness                │
+│    □ All NIH criteria covered       │
+│                                     │
+│ 2. Balance                          │
+│    □ Strengths identified           │
+│    □ Weaknesses identified          │
+│                                     │
+│ 3. Specificity                      │
+│    □ Concrete examples              │
+│    □ Proposal citations             │
+│                                     │
+│ 4. Consistency                      │
+│    □ Initial ↔ Final alignment      │
+│                                     │
+│ 5. Constructiveness                 │
+│    □ Actionable improvements        │
+└─────────────────────────────────────┘
 ```
 
-### 9. Troubleshooting Guide
+## NIH Review Criteria Structure
 
-#### 9.1 Common Issues
-- **OCR Errors**: Re-scan at higher DPI, check for skewed pages
-- **API Timeouts**: Implement exponential backoff, check rate limits
-- **Memory Issues**: Process proposals in chunks, clear agent history
-- **Blockchain Errors**: Verify integrity, rebuild from last valid block
+```
+Each criterion MUST include:
+┌────────────────────────┐
+│    OVERALL IMPACT      │
+├────────────────────────┤
+│ Strengths:    [Req'd]  │
+│ Weaknesses:   [Req'd]  │
+│ Recommendations:       │
+└────────────────────────┘
+        ↓ 
+[Repeat for each:]
+• Significance
+• Investigator(s)  
+• Innovation
+• Approach
+• Environment
+```
 
-#### 9.2 Error Codes
-- `E001`: OCR processing failed
-- `E002`: API authentication error
-- `E003`: Configuration file invalid
-- `E004`: Blockchain integrity compromised
-- `E005`: Agent response timeout
+## File Input/Output Flow
 
-This supplementary material provides complete technical specifications for reproducing the multi-agent grant review methodology.
+```
+INPUT                          PROCESS                        OUTPUT
+─────                          ───────                        ──────
+Full_Grant.pdf       →    grant_extractor.py    →    Research_Only.pdf
+(50+ pages)                                            (7-15 pages)
+                                  ↓
+                             grant_ocr.py         →    Research_OCR.txt
+                                  ↓
+                           grant_review.py        →    Agent1.json
+                          + config.json                 Agent2.json
+                                                       (with blockchain)
+```
+
+## Common Workflow Errors to Avoid
+
+❌ Including budget/personnel pages → Only 7-15 research pages
+❌ Missing weakness identification → Explicitly request weaknesses  
+❌ Using "Judgement" button → Use "Reflection" button
+❌ Generic feedback → Demand specific examples
+❌ Skipping vulnerability phase → All phases required
+❌ Not saving conversations → Data lost without JSON export
+
+---
+
+**This workflow exactly implements the methodology from the Methods section of the manuscript.**
