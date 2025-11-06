@@ -1,0 +1,483 @@
+
+============================================================
+Page 1
+============================================================
+
+CoritackPDIPI: Prince, Anya’
+Specific'Aims:
+in the:US;, there:has been a‘polarized:debate:about whether lifé,.long-term:care,,and disability insurers,
+teferred to.as ‘suppléméntall” irisufers, stiould bé:abléto Use ah applicant's:genetic information when. settifig:
+rates:or accepting policies: This ‘debate usually references highly predictive and serious genetic diseases;such
+vas:Huntington’s Disease.or Lynch Syndrome.-In-reality; most.variants havea wide range of predictive.values;
+from unknowh'to'low:to high. There has:been little. debate about:how predictive a-variant must befor’
+supplemental insurers: to usé—or to be legally-allowéd‘to se—the. information. Additionally,.for'some highly.
+‘predictive:variants, medical:interventions:may be available to:minimize‘one’s indicated ,risk,.and the.law does
+‘ot currently shed light‘on how: insurérs should consider this information. Staté.unfair trade practice laws
+generally require: itisurers to have actuarial justification forusing any tisk factor in undétwriting: Under these.
+actuarial laws, to:denyan-application archarge an increased premium, insurers must show:that a:relevant risk
+factor‘is’statistically. associated with increased insurer cost: However, in the US; theré.has been little research
+regarding ‘the application of these standards to’ genétic’and: genomic data. Internationally; several couritries;.
+sUich.as.the UK and Australia, have had actuarial policies for supplemental insurers specific'to genetic:-testing
+‘sincetheearly:2000s: Thus, most:of the academiciand policy discussions in-this:area have.occurred abroad..
+‘Although the: Genetic. Information: Nondiserimination Act (GINA) protects:against-genetic-discrimination:in _
+employment:and:health insurarice; individuals may<fail to. undertake medically recommended:clinical genetic
+testing,.of participate it, génomic:réséarch, due to féars Of discrimination in’supplémental insurance. Policy
+responses:tend to focus on whether supplemental insurérs:should. beable to use:genetic information, but:do
+not‘explore:the broader. criteria that inform: when:and how-such:information:can legally-be used.;Once:studied,.
+‘these. criteria‘can ifforrfi/a more: htianced policy discussion‘of the“should’. This. project has two primary goals:
+‘1)'to systematically:examine the legal-and policy landscapé.of supplemental insurer use. of genetic information
+in:the: US and internationally -with:particular-focus on requirements:of-actuarial justification; and:2) to.use:these:
+réquirements tovoffer‘a variety-of policy,options:for US: state:and federal governments that.seékito-address
+‘genetic discritination'in supplemerital insurance: To meet these goals; | propose three:specific. dims:
+Aim'1.—Analyze: how intérmational.approaches:to ‘actuarial justification; supplemental insurance, and:génetic
+information maybe applicable-to'the-US. Using methods.and analysis techniques. acquired during the
+mentored-phase, Iwill: choose four‘countries:that have robust policies:regarding actuarial justification:and:
+insurer'use‘of genétic:information and conduct:casé.studies' of thesé.examiples. Focus: 6n actuarial‘standards’
+in‘the ‘international privatized supplemental insurance sector ensures.a more direct comparison with the US;
+despite:differences:across. health insurance:sectors: | will’explore why-specific policy options were chosen,
+whether'these:policies:address' issues:related to‘predictive-value or preventive measures, -how‘effective the
+policiés have béeh, ‘and. what lessons were learned. Case-study analysis-will combine both policy analysisand
+targeted ‘interviews,with key’ stakeholders such.as:academic/policy experts, government officials, advocacy’
+-group:representatives,:and insurance: representatives.
+Aim:2 = Interrogate how existing US ‘state: laws-that require: actuarial justification in-supplemental:insurance
+would:apply-to-use of genetic:information. Using multiple:methods, | will:explore how .current:state law:may
+are.interpreting:and enforcing actuarial.and unfair trade, practice laws. (Aim:2a), |:will. combine«this-with legal
+analysis: of statutes, regulations; and:applicable:case. law to:evaluate whether:state law‘has:been:applied'to:the
+‘Context:6f.géhetic information“and how the laws: may be-interpreted afd ’enforéed in this.area:(Aim' 2b). Survey
+responses will inform the’ legal'analysis of how existing legislation may-be enforced or interpreted,
+Aim:3 — Provide policy analysis:and recommendations. for legislative.and regulatory options to address:
+‘concerns about the use of genetic:information.in:supplemental insurance: | will undertake policy analysis:of
+‘options.available to US:governments:to- address. societal:anid individual concerns:about'supplemental.insurer
+use Of genetic’information (Aim '3a).Additional policy analysis will exploré légal anid‘ policy-optioris for the:
+‘threshold evidence levels'needed to meet actuatial.standards (Aim 3b). These-options will incorporate:
+feedback from: policy experts. | will.disseminate recommendations:through policy briefs and:manuscripts.
+Aims:1 and:2a:(K99: phase) will-be:completed.in:concert-with ‘training:‘in qualitative;and quantitative methods:
+For'the:RO0 phase, my goal is to secure:a‘tenured law:position that involves teaching:an.experiential course:
+and researching ELSI topics. Under this model, studerits'will:assistin the research’ goals of Airis 2b'and 3:
+‘By'combining’policy:analysis-and Casé.studies from:the:international:setting with :detailed-legal:and survey’
+‘analysi§ froin thé US,, this: projéct will produce a'robust study of potential policy optioris for legislators..
+
+‘Spetitic Alftis page's
+
+
+============================================================
+Page 2
+============================================================
+
+CoritackPDIRK Prince, Anya’
+Research, Strategy’
+‘Significance:
+Iniagine,an individual who, is: known to have,a genetic variant that Was. réportéd in.a genome-wide ‘association
+study ‘(GWAS)'to: be weakly correlated with:aninereased risk:of'coronary artery disease,.a:leading cause‘of
+death worldwide. Should life, lorig-tern ‘care, or disability insuranéé.compaiies bé:able to use%this information
+in:uhderwriting decisions, ‘even:if the genetic Variant only explains about 1-2% of vafiation.in tisk?’ What if the
+variant.explains'10% of risk? Or'80%?2' Whatiif it:explains.80%:ofrisk, but'there are measures:that:an ‘individual.
+¢an také.to-eliminate:or mitigate‘this risk? -
+There: Hias'beena:long-standing’debate:in the US regarding-whether. life, long-term. care, or'disability-insurers;
+should be’ablé'té use: genétic inforriation in underwriting (Caulfield 2013, Joly:2013, Klitzinan 2014,-Ostrer
+1993,.Rothsteiii'1997). | refer to these insurers:as:supplemental insurers; in‘that:they-aré purchased in addition
+‘to: health:insurance..|:do not referto:health policies, such as a Medicare supplemental policy, ‘that-an individual
+‘acquires in addition to his:or‘her: existing: health insurance. The:supplemental:insurer debates have.often.
+temained ehttenched in‘disctission about whether-or not insurers should; beable to-use: genetic information
+(Mittra2007). There has been little research and'policy discussion of, if supplemental insurers have access to
+genetic:information; when.and:how they:should be able.to-use it in underwriting, This:research project
+examines how law:and policy“address, or’should address;'the thiteshold of statistical ‘sigriificarice between
+‘genetic information:and increased ‘risk necessary for insurers to charge higher premium rates or:deny:a policy.
+‘In, 2008;-in, response to, the-public's-concetnis of genetic discrimination, Congress: passed ‘the Genetic
+Information. Nondiserimination.Act:(GINA).;GINA prevents:employers.and health: insurers from using:genetic
+information:to-discriminate, but does not regulate how ‘supplemental insurers useigenetic information: (McGuire
+2009)::Thése insurers were not included in GINA dué ‘to political compromise’and recognition that the:
+‘economic.models‘and social goals of:'supplemental insurance:raise-different:policy considerations than health
+‘insurance:(Hudson 2008). However; in the’years since GINA’s passage, individuals:remain'fearful of genetic;
+discrifination in‘supplemental insurance (Allain 2042, Laedtke.2012,.Parkrnati:2014). This fear may lead
+individuals hot to undergo recommended clinical: genetic testing of to decline participation in: genomic research
+(Barlow-Stewart 2009, Feldman:2012,.Joly 2010,.Klitzman:2010, Peshkin 2013), potentiallyleadingto =
+detrimental:health effects: for those:who:do-not- undertake ‘clinically beneficial testing (Otlowski:2042)..Failure:to:
+undergo predictive testing for a. medically actisnable’condition due to‘feat-of discriminatory:consequences
+could thwart an individual from preventing or mitigating-disease.
+‘Sinee:federal law does not address supplemental. insurer‘use’of genetic information, any US-based policy: in
+‘this area.currently comes.from state law. Several states:address:insurer‘use:of:genetic'information (NCSL. _
+2008). Three:states.are commonly’cited:as: banning supplemental. insurér‘use*of.genetic: information (Peikoff:
+2014);-in fact, ‘theséstates do not completely ‘prohibit insuter use, but rathér; they prohibit use of family’
+members’.genetic information (O.R:S 2001, V:S:A..1997) or have actuarial requirements for the use:(Cal-GINA:
+2011,:Chabner 2000). Requiring actuarial justification for usecof: genetic information:in:underwriting decisions,
+‘such.as prémium ineréases or denials, is a:cotnmion legislative strategy.- Thésé laws generally require that
+‘insurers:demonstrate:statistical.correlation between’a risk’and an‘increased likelihood:of'cost to the insurer
+(ASOP 2005, Jha.2012,,Landes:2014). The-interpretation,.enforcement, and:implementation of these actuarial
+laws,-however,,hiave:not.been fully’analyzeéd. It.is thérefore’surprisingly unclear how existing’state:laws have:
+‘beeh oF Will be-applied in the Context of the prédictive value and preventive méasurés Of Genetic vatiants.
+Récent technological advances have drastically ‘lowered the cost.of sequencing; making: genomic-analysis’
+categorizing:applicants into risk. classifications:and genetic’information can:provide insight into future:risk.(Van
+Hoyweghen '2007); However, thé use.of genéticirifortnation:also raises sécial coricerns beyond the.business
+‘considerations of insurers (Dubois:2011, Liukko'2010, Morris 2010, Moultrie 1997, Van HoyWeghen 2005; Vah
+Hoyweghen 2012). For:example, some,:including myself, have:argued or:suggested ‘that:in order:torfully:
+‘address. individual.féars’of.genetic: discrimination, supplemental.insurers:should.be*réstricted.from using:
+Genetic information (Ashictott 2007, Gruber 2014, Klitzman 2014, Prince 2013, Wolf.2007)..Others‘have argued.
+that-this:would bankrupt the insurance system:because it-will skew risk classificationand lead toadverse __
+‘selection:(Baker.2002, Dodge 2007, Green:2015, Joly:2010, Radetzki'2003,-Rothstein:2004);:yet there.is little
+
+‘Reséarch ‘Strategy. ‘Pagé:88
+
+
+============================================================
+Page 3
+Section: Innovation
+============================================================
+
+CoritackPDIRK Prince, Anya’
+‘empirical evidence of'any. effects: of’adverse selection following policy:changes (Daykin 2003):and actuarial
+‘modeling hastindicated low-impacts:on ‘premiums (Macdonald:2041; 2010;:2003, Viswanathan 2007): The:
+‘Competing ecohiomic concerns of insuters-and the; privacy and justice coricéfris of. individuals create polarizing.
+interests and-lead:to an entrenched debate.over insurers’ :use:of genetic:information (Joly:2010).
+This proposed project is significant becalsé-it will provide policy-makers. with in-depth analysis:of policy and
+regulatory options and:recommendations ‘for how life,.long-term care,and disability-insurers use:genetic:
+ifformation.. Thé NHGRI has’specifically identified Use ‘of gerietic information by'these:supplériéntal insurance.
+cOmpaniés, determination of actiiatial risk, anid ‘the-impact of Staté laws:as priorities for ELSI.legal, regulatory,
+and public:policy research (NHGRI2014)..Genomic:technologies:will not rise:to:their full:clinical:potential.if-fear:
+‘f'discrimination or‘misunderstanding ‘of existing legal-protections prevents: individuals fromundertaking
+‘genomic testing ‘of participating in research: This projéct higtilights lessons: fron’ intetnational.contéxts;
+analyzes-existing state legislation;:and provides. policy, recommendations:for'future legislatures..Existing: state:
+laws offerzan:opportunity:to: suggest policy ‘changes:through’a variety:of: mechanisms; from:enforeement
+‘strategies to regulatory changes to new legislation. Providing meaningful and feasible policy options-and a.
+better Understanding of how insurers can legally’Usé: genetic information can make several contributions:
+‘assuage fears:of.genetic:discrimination, increase.participation.in:genomic:testing and research,/and.potentially
+‘prevent significant’ barriets in. access'to Supplemental :insurance..In-turn, increased insurancé:coverage:and —
+utilization of Genomic technologies can.lead'to gréater-ecoriomic stability and improved health for individuals.
+Innovation
+This proposal is‘original.in:its approach tothe question.of whéthersupplemental insurers’should be*able’to use:
+‘genetic information. By begining, the inquiry with:how. insurers Can fairly or legally use.Such information, rather
+‘than if they-should:-use it:at-all, this project. can provide new-insight:to:an-entrenched US:debate. Focusing on
+how international.actuarial'standards have been applied to:genetic:and genomic’risk information:allows this
+prdjéct to draw'lessons:from édufitries with di8tinct:socio-histori¢al coritéxts. Additionally; thie. proposed
+research project i innovative in:the,way that'it.combines legal.and policy analysis-with:social:science. empirical
+analysis’in'a law’school setting:.Use of an experiential:course model:increases-the*amount-of research that
+‘an be undertaken With thé samie‘amount:of funding because students’ will provide tésearch’ assistance’as: part:
+of their’experiential learning. Through:.this noVel approach, | can.simultaneously increase.my chances of
+securing a:position.as an independent:researcher, increase:the.impact.of the: project-given‘the.increased.
+research that can:be*completed, anid‘éstablish a‘mechanism‘to train future:ELSI. legal scholars. The. proposal is
+‘also. novel in its recognition’ of the importance of mentorship in the'ROO phase-and the inclusion’of'a specific
+professional:development component on mentorship within:the training plan.
+‘Approach:
+‘Aim1: Analyze How international approaches to actuarial justification;:supplemental'insurance, and: genetic.
+‘information may.be:applicable to‘the:US.
+Aim'1 Rationale: ‘Several countries have long’ established policies: that impose actuarial justification standards
+orregulate supplementalinsurers:in'the.context of, genetic.information..Because these:countries often have
+universal health ‘care:systems that limit:concertns'of discrimination and accéss:in.the health cate’setting, policy:
+‘discussiois regarding corcems.about genetic discrimination have’ focused. on'the:supplemental insurances
+‘thatare often privatized (Anderlik'2001, Knoppers:2004b). Compared to the US, these:countries are.generally:
+morecadvanced in policyimplementation ‘in the:context-of supplemental-insurance:(Van Hoyweghen:2007);
+There:are three primary:avenues ‘that'countties have used to:address:supplemental insurer.use of:genetic. —
+information.(Knoppers:2004a, Lemmens:2003), although within-these broad strategies'thére‘are’a variety'of
+types Of policies (Joly;2010,.Lemke.2013, Otlowski2012, Quinn-2014, Vatga 2012). First, ifisuréts:in some-
+‘countties have:voluntarily‘agreed to:a moratorium on-the use of genetic information for:applications,below:a:
+certain motietary Valueand to a:requirement of‘actuarial justification.for-those:above that:value (Huijgen-2012,,
+‘Soini:2012);.For example, sirice 2001, suppléiiénital instirérs'in ‘the United Kingdom have had a.voluntary.
+moratorium,.which was just recently:extended' to:2019 (HMG 2011, Thomas:2012). Second, some countries:
+‘have:passed: legislation at.the‘federal level requiring actuarial justification in this-area.(Soini:2012,’Van
+Hoyweghen:2012): Utilizing this-stratégy, Australia Has: legislation that requirés:certain supplemental insurers
+to-have‘acttarial justification for'using genetic. information (ALRC-2003, Kéogh'2013, Taylor 2004): Third,.
+
+‘Reséarch'Strategy: ‘Pagé:39
+
+
+============================================================
+Page 4
+Section: Innovation
+============================================================
+
+CoritackPDIPI: Prince, Anya’
+
+‘some:countries_have:informal guidelines:from.a government:advisory:or:regulatory body: (Knhoppers'2004a,
+Lemmens'2004). In these’countriés‘the guidance:may-not be: legally binding onthe insurers: ©
+Exploration of the:effectiveness. of these approaches’in the international context-can. provide lessons ‘for policy:
+itiplementation:iti the:US, Although, US states do-haveractuarial laws,-there has not.beeén fobust policy =
+discussion: regarding how ‘these, laws may'be enforced..As such, examining the-international context first;
+where there:have:been debates; can‘inform:the:nuanced legal analysis of Aim 2: Although the health‘insurance
+systeiis'across international contexts vary; thé privatized:supplemerital insurarice:context provides’a more:
+directly: comparable perspective. to thé US (Rothstein .& Joly 2009). ‘Specific focus. on the.standards:of-actuarial
+justification-and the:threshold levels:of:evidence needed to use genetic information in supplemental insurance
+‘uriderwriting also. allows: foran opportunity:to gather lessons'from internationalcountries that:have“already,
+béen, Stappling with thesé nUances'for many'years; but without insurmountable.concerns:ofapplicability from
+differing:socio-historical contexts, Through qualitative case studies, of international experiences;.Aim:4 will
+provide valuable:information for the US-based’policy:analysis of Aims 2:and 3:of this project. Gase'study’
+Methods Offer rot only in-depth analysis of'the irdividual:cases but-also analytic Strategies for systematically:
+‘comparing patterns observed across cases (Ragin 1999, Ragin-2014, Stake'2013, Yin 2003).
+‘Aim’ Methods: Ain 1 will 'Utilize‘a qualitative; comparative:case:study analysis to‘explore how.actuarial
+justification laws and_policies in-four:countries:have been-applied to'the-use:of genetic information in
+underwriting.: Data’sources:include:semi-structured ‘interviews with.stakeholders‘and.analysis ‘of policy
+docunierits, such: as govérnmerit reports or legislation; législative'histoty, internal gévertimentt of insurance.
+‘communications, legal case documents; and.academic critiques: or manuscripts regarding the: policies. Each
+case:studywill:utilize these multiple:sources of'data:to.allow for-triangulation: (Stake:2013, Yin:2003),
+Initially | plan to conduct a:pilot case study in Canada :in-order to. test my. interview protocol, determinethe.most
+‘efficient:and effective ways: to recruit'stakeholders-and collect data, and to confirm the‘feasibility-of my:case-
+‘study Methods: Canada is’a fittiig:pilot’study due'to the proximity to thé US, the robust:discussions tegarding,
+actuarial justification policies that have occurred in the country:to, date: (Joly'2006; Joly 2014, Lemmens, 2010,
+Pullman:2010),-and the:support:of'a key’stakeholder'to-assist with the:identification and recruitmentofother:
+‘stakéeholders.(See' Joly: Support Letter). Canada has‘ published guidance: on lise of genetic information in life
+insurance:(Knoppers'2004b) and the legislature is. currently-considering:a bill to:ban. insurer use of genetic
+information (Rennie:2013). Additionally, at the:beginning-of the project, |-will undertake:a screening-process to,
+‘selectithe:rémaining threespurposively sampled casés:(Yin 2003)..Thesé countriéswill be chosen to:include’
+tépresenitation of the'thrée primary: policy tactics (moratorium, legislation,.or guideliriés) utilized around the
+world, Cases will be selected that have.had at least.one policy mechanism: in. place for five-years-or more,.have
+‘stakeholders: with English language.skills, and have: similarities to the US ‘for:;comparison.
+d will explore the’following:research questions for each case-study
+
++ Why'was’the:particular policy option’chosen‘in ‘this. country?
+
++ How-effective has ‘the’ policy been, .as jlidged. by the’stakeholdérs? .
+
+* How.has the aciuarial justification:policy:been applied to. genetic information, specifically:regarding:the
+
+prédictive:value of genetic’ Variants. and the: availability of. preventive:measures? ,
++ Have there been any:consequences, unexpected or expectéd,-of the policy,:and if-so, what are they?
+* From the:stakéholders’ perspectives,-has.the policy affected how often. either individuals:undertake
+genetic of genomic testing or-apply for supplemental insurance?’
+Document: Collection: Initially; | will collect:policy documents and: arialysis-available online through government
+Websites and searches of. academic databases such’as. LexisNexis,-JSTOR, and PubMed. The:CGS summer
+legal research:assistant will assist'with.this:task;. However, since’the-availability:of international documents
+‘may: bé limited ‘inthe US, | will:also‘establish meetings with goverhment and-réséarch:librarians:in the’ Gasé:
+Study Counttiés to.gather-additional-relevant documents unavailable: in the US: During €ach interview, | Will.also
+ask‘the:respondents for suggestions:of documents the respondent:thinks: might be: informative to the study.,
+‘Interviews: Employing the skills |-will acquire through focused trainings. on-qualitative-interview design, |'will
+create.and:conduct:semizstructured interviews: with key:stakeholders.(King:2010). Foreach case-study | will.
+‘ihtétview at least.8 Stakéholders representing, pdlicy experts, government officials, advocacy group members),
+‘and insurance tepreséittatives. To:the extent possible in:éach. country. will. speak.to-at least two stakeholders
+Reséarch'Stiateay. Pagé'90
+
+
+============================================================
+Page 5
+Section: Innovation
+============================================================
+
+CoritaictPDIPI: Prince. Anya
+from each category. This'targeted interviewing of:a:diverse-group of stakeholders is important for: minimizing
+‘single-source information bias; maximizing the rahgé.of:perspéctives; arid:collecting differeritial kriowledgé
+(Van‘de Ven.1999). These stakeholders will:bé identified through:help from my. international ‘contacts (See: De
+Paor; Joly,and Macdonald Letters),.policy documents:and research, and suggestions:from individuals who.
+have:agreed to'be:interviewed.-Although this ‘approach:has the: potential to créate:a participant population
+skewed to oné perspective, this-will not be likély sincé:the nature of policy discussions inevitably highlight:
+diverse opinions, Therefore, already identified: policy-makers:and key’stakehiolders:are likely'to know, and:will
+‘'be‘asked-to: identify, individuals with’a.broad range:of perspectives.and opinions: They‘will.beenrolled through
+‘a fecruitment letter and ‘follow-up phone.call. | will pilot: test my data collection protocol and‘semi-structured — .
+interview: guide'in-Canada, and:then conduct the ‘three additional case:studies. Interviews-will be conducted in
+person to.ensure-convenience. for the‘participants, quality of the interview, -minimization:of'technological
+complications,and ease of document’collection. pre:and post-interview: (See:Foreign Justification). ©
+‘Data Analysis: | will undertake.content analysis’ of the interview transcripts utilizing software, such:as‘ATLAS:ti.
+‘thatiaids:in this kind of-analysis. | will bé ‘trained in’ coritetit:arialysis through classes-at the Odum: Institute, :
+‘AALS: Qualitative Workshop, and ResearchTalk. | will‘also pursue my analysis by.comparing ‘the content-of the
+policy.decuments:collected:with:the themes extracted’ from:the: interviews.
+Aim’ Expected-and Alternative Outcomes: For each country studied | will develop a written, overview that
+includes:1).a:descriptive summaty:of the’ policy:method(s) implemented and ‘the context in:which itwas
+implémented,-2):4 description of how actuarial justification standards have been applied to gerieti¢: information;,
+3) anoverview of how effective. the. policy‘has been according to:documents:-and. interview respondents, and:4):
+an’assessment of the: benefits:and. challenges-of each policy..After individual case analysis, | will perform.a_
+‘cross-case afialysis, examining whether'the:application of actuarial justification stanidards’differs.across. policy:
+options. To disseminate these research findings |.will-publish at least’oné manuscript sumimatizing.the case,
+study:research findings. Additionally, |.will present:my findings-at national:conferences:such as :the-American
+‘Society’for.Bioethics'‘and Humanities (ASBH).and the Law ‘and.Society Association (LSA):
+International policy‘analysis‘and recruitment for interviews can be challenging; however, | believe that |.will be
+‘abléto recruit-adequate’numbers of interview. participants: There is robust scholarship regarding actuarial
+justification policies-and genetic:information in the-international setting, ‘making. it likely:that |can‘find willing
+and interested. participants to discuss'the.implications ofthese policies. Additionally, through my-previous. work
+‘arid through.support of my-advisory ¢ommittee members, Drs. De-Paor’and Macdonald, |.have connections to:
+‘thé’ Europeatigerietics communities, and through my:collaborator Dr: Joly,-the Canadian‘community (See
+Support-Letters). Thus, | will be-able to. reach: out:to-a variety of contacts for:'suggestions of key stakeholders.
+By, indertaking'a pilot feasibility case: study and by waiting to-choose:the remaining three case:study countries
+until:the projectis:underway,.] can foresee and-avoid problems:related to:recruitment of’stakeholders:or
+‘conduéting the case’studies. If |-amunable'to'gather‘sufficient research participafit interést in a:country, | will
+‘choose'a different option for the-case-study:. Additionally, if the-Canadian pilot stlidy highlights problems: with,
+‘the initial:case-study design‘! can-rework’the protocol with-support'from: mentors for the:remaining-cases.
+Aim:2 — Interrogate how existing:US'state laws ‘that require-actuarial justification.in supplemental.insurance
+would-apply:to:use of 'genetic;information:
+Aim:2 Rationale: ‘Under-state unfair trade practice:laws, life insurers in all'fifty states:are.required to have
+‘actuarial justification to.use-a risk:factor in-underwriting:(Holmes.1996; McEwen 1993, UTPA.2004):.Some:
+statés have expanded thésé rules-to disability and long-term caré insurer's (Avraham 2014): In addition, eigtit
+states explicitly require-actuarial justification for the use-of. geneétic:irifermation.in underwriting (NCSL 2008):
+These laws’aim to:restrict.supplemental insurers:from basing: underwriting decisions‘on genetic:information
+‘that'is unrelated. to risk. However,the.genétic-specific actuarial justification laws'likély'do. fot provide any
+‘additional: protections for individuals beyond the broader unfair trade’ practice laws (Rothstéin:2007).
+These 'state laws, both the:genétic-spécific.and. general unfair trade. practice laws, have ‘not-been fully explored’
+and further-research is needed to-understand how these rules:will.be applied in:the conitext-of genetic:variants,
+Given the-range‘of predictive value:of genetic variants, it is:uncertain how'many will be‘sufficientlycorrelated to:
+risk to Méetactuarial'standards (Evans:2001 ; Janssens: 2006, Macdonald:2002) aiid how'the preventive
+‘Measures available to mitigate risk will aid-should fit'into. the legal actuaiial.standards (Keogh.2013), Although
+
+Redéarch ‘Sirategy, Pagé'ot
+
+
+============================================================
+Page 6
+Section: Innovation
+============================================================
+
+CoritackPDIPI: Prince, Anya’
+
+‘insight into:these: questions‘ will‘come:fromthe:international data-obtained in Aim 4, itis also:important:to:
+uriderstand:-how:the US state:laws-are being applied, and most.significantly,,could be applied,'in this context:
+Insurance companies, including life; long-ferm:eare,.and-disability insurers, are:regulated ‘through state
+insurance commissionersand in.évery state thé-ihsurance comtnissiofiér has the power to‘enforcé state
+consumers’ ofthese: insurances-through information:and complaint’ systems (NAIC 2041). Through their-work:
+With’ both instirefs‘and Corisumers, the’irisuraficé coiimissioners’are-dn essential Source-of inforniation for how:
+actuatial justification laws arée:being used. Through Surveys:of state insurance:commissioners, and legal
+analysis:of state’ law, regulation,:and.court.cases, Aim:2 will provide an.opportunity:to better understand how.
+‘actuarial justification and unfair-trade practice.laws. are.currently béirig:enforced and.implemented.in:the.US.
+‘Aim‘2 Methods: Aim 2:will employ.multiple methods 'to.analyze US*actuarial justification laws.and will ‘involve:
+‘two'sub*aiins: Aim 2a will survey stateinsurancé cofimissioners'to détermine‘how they are enforcing ‘and
+interpreting actuarial justification laws; baséd on survey results, Aim 2b will undertake'a legal-analysis.of
+‘current:state actuarial justification.and unfair trade ’practice:laws. There are alreadya,handful:of cursory'state.
+law'reviews that.will:inform:the.survey (CLRC:2012, CRG:2014,_NCSL 2008). |-am-proposing to undertake-the.
+in¢depith legal-ahalysis after thé surveys in otder fo conduct a moré nuanced: and detailed legal-analysis.
+‘Survey: For Aim:2a,.| will dévelop.and implement'a‘survey of state-insurance commissioners about actuatial
+and unfair-trade:practice:laws:and how:the commissioners interptet:and enforce these laws. The survey will
+focus.on genetic information, the low:predictive:value:of most.variants, and the. preventive:measures available.
+for Sorne'génetic-Vvariants. Surveys and :interviews%of. insurance ‘commissioners: have béen ‘used ‘in prior'studiés:
+to. understand how hedithand life.insurers could use. génetic information, including @ case-study analysis.
+completed by. my co-mentor. Prof..Hall (Hall,2000a,.Hall 2000b, Hall 2000c, McEwen-1992). Aim:2a survey
+‘questions.will-be:developed in:concert with:feedback from‘menitors.and based’on survey methodology trainings
+undéitakeh through the Odum Ihstitute. In addition to'quéstions’on how currént state laws’ are interpreted and.
+enforced, the survey will include.questions:that-draw, upon policy:themes discovered’ during,Aim 1. It will
+‘include:both’closed:and openended questions:surrounding these themes..The surveys:will.be:sent to:all state:
+‘COmmissionérs.and ‘follow-up letters and phone’ calls will be made.to réach'state:offices:thatihave not:
+responded. In-a prior study:surveying state, commissioners, this method ‘was:fourid to lead to-a remarkably high
+response rate (82:4%) (McEwen 1992)..The CGS legal‘research assistant-will-assist with:survey. analysis and
+follow-up on‘any laws'cited by-the.comiissioners.’To disseminate the-survey results; L-will.publish:findings in
+péertéeviewed jourfials, and'use the information about enforcement and interpretation to-assist with the legal
+analysis:of Aim, 2b, Additionally, | will present.my work-at national:conferences:such as‘ASBH and LSA:
+Legal Analysis: For:Aim 2b; l'will conduct-a‘fifty state review of laws, regulations; and court case.decisions:
+‘(case:law).relating-to:actuarial justification, both.genetic-specific and.broader- unfair trade-practice:laws..1 will
+‘Specifically explore:whether and how actuarial'standards aré:defined and'whether genétic-specific.actuarial
+justification laws Provide, or poteritially provide; protections beyond those the:state unfairtrade practice laws: If
+‘the plain text-of the:statute or regulation is;unclear,.| will employ:statutory. interpretation methodology | learned
+when [:took’the “Lawmaking and Statutory. Interpretation’ Seminar” taught by’ Congrésswoman:Eleanor-Holmes-
+Norton: This:state review will provide a ‘compretiensive guide-to-which state ldws:apply to ‘which supplemental
+‘insurers..Several organizations have:completed:state: guides regarding state laws.-covering genetic information
+‘in‘supplemental.insurance:(CLRC 2012, CRG:2014, NCSL:2008) and other'sources:have:information‘on state:
+unfair tradé practice laws (Avraham.2014,-Holmes 1996); however no:study has:¢ombined:informiation:about
+‘hoWw.all:these laws'may work:in:practice, with specific focus on whether arid ‘how activatial standards are
+defined. These-previous guides. will form my starting data-points,:so my‘initial.data collection will:involve:
+updating-available’cites, rather thai-a new.search. In‘addition to:this:background analysis'of:state:laws and
+tegulations, Ain:2b will. usé legal analysis to éxamine'applicable.case law to'évaluate whéther’state law has
+‘Both.the state statutes:and the:case law will be compiled through’searches of WestlawNext,.a legal.database:
+The-specific:questions:of inquiry in the-case law-analysis-will include:
+
+* is there:any-case law: explicitly-addressing:genetic:information:and actuarial justification-or-unfair trade
+
+practiée: laws?’ oe .
+‘Reséarch'Strategy: Pagé:92
+
+
+============================================================
+Page 7
+Section: Innovation
+============================================================
+
+CoritackPDIRK Prince, Anya’
+* Does:past:case law-define:ordiscuss actuarial:standards or address'what:level of statistical correlation’is:
+riécessaty’for insuréts to.usé tisk factor information in ufidenwriting?
+* How:might:precedential.case law:regarding:medical.information:or:disability: be-applied in:the:context of
+genetic information? ° , .
++ Is: there-any case: law. that discusses: how:supplemental insurers:should-take into-account mitigating risk
+factors,/such:as:available:preventive:measures?
+Aim.2 Expected:and.Alternative Qutcomes: :Aim-2a will culminate.in.atleast‘one published manuscript _
+‘summarizing:the:state: insurance ‘commissioner survey design, methodology, and:results. To disseminate the
+information from, Aim’2b | will completée’a published law réeview article: describing the-findings of the:statute;
+regulation,and case law analysis. |:am-expecting to,find that:the:genetic-spécifie actuarial justification: laws:do-
+not'provideany additional legal, protections: beyond:state unfair trade practice. laws. Additionally;.| am:expecting
+‘that few: casesiwill 6xplicitly addréss genetic information in this arena. HoweVer, bécause’thié.genetic-specific ©
+and unfair trade: practice: laws’are likely-similar, case law regarding how-unfair trade practice. laws-have-applied
+to-other medical.information provides. important legal precedent for‘how: future. courts will apply these’ laws to-
+the contextof:genetic. information:
+‘Analysis-of statutes in‘fifty'states:can be time.consuming to complete:and, depending upon:the volume-of
+applicable‘ or precedential.case law, the case analysis ‘can ‘also be timé consuming, However; these'tasks of
+‘Aim.2b will be: completed during'the ROO phase of the project:.During this phase; my.goal isto have students
+assist with ‘the:data-collection ‘and analysis as part-of their-experiential:class. This model will allow for sufficient
+tesearch ‘supportto. complete:thé full-fifty:-State analysis. If, however, | am:unable'to:secure‘this teaching
+‘opportunity:and/or do-not have sufficient reseatch support to ‘analyze thé case law-and:statlites from all states,
+| plan-to'limit the number.of states: that l.examine to:a-representative:sample.,
+Aim 3'-:Provide policy analysis:and.recommendations for legislative and:regulatory options‘to address:
+concerns about the:use of-genetic information in:supplemental insurance:
+Aim:3 Rationale; Since‘the-passage:of GINA, ‘there has:been:discussion.of whether the federal. government:
+‘should:pass:additional-legislation that:expands:protection. against genetic:discrimination in supplemental
+‘insurances. There’ate.strong competing interésts on both:sides‘of this debate: Individuals fear the misusé-of’
+their genetic information-and supplemental insurers-fear the. economic consequences;and‘adverse-selection in
+their businesses (Daykin:2003, Haidle-2014,-Macdonald 2002, Rothstein & Joly: 2009). These competing views:
+‘create-diffictlt policy decisions ‘for state and fédéral legislators. However, ifitérnational and US'state;
+experiénces to date.can provide valuable:insight into. the-feasibility, implications,.and benefits-of various. policy:
+options. Aim 3.of.this:project:will synthesize:information and data:collected through.Aims 1 and 2 to:create
+policy analysés‘and. reports of various ‘options, including the moratorium; legislative; and*guideline options'from
+‘thé“international ‘conitext..Aims 1 and'2 will Help to better understand’the Varying interpretations of the lévels of
+evidence: needed to meet:actuarial justification and.unfair‘trade practice laws. From:there,:Aim 3 can.provide:
+policy ‘guidance to:state:insurance’commissioners; state legislators, individuals, ‘insurance:companiés, and
+‘advocates about’ enforcement, interpretations,-arid légal uses‘of ‘genetic information if underwriting: —
+Aim:3 Methods: Using policy analysis skills I:developed’during my graduate training if imy Masters'of Public
+Policy, Aim Swill include two.levels of policy analysis:and inquiry: First, Ainy 3a-will be.a policy analysis of: the:
+legislative options:available at-the-federal-and state level to address supplemental insurer use. of genetic
+information, ranging'from status:quo:to‘a.complete ban:on use;.and-otheroptions'in between:.The analysis will
+‘ifclude‘an asséssment of the potential limitations, benefits, and féasibjlity of various policy-options::;
+The policy ‘analysis will explore'the following quéstions:
+< Do-éurrefit'state-policies: effectively address:suppleméntal insurér:use of génetic information?
+¢ Is:additional, or different, enforcement:of current state laws:needed to afford effective protection?’
+* Would any oftthe:policy méchanistiis implemented in the international context be‘optidtis for US ‘federal oF
+¢ Whatiare'the.limitations,,. benefits, and feasibility. of various: policy options?:
+‘Second,:Aim:3b:will assess how ‘both. international.case:studies and the:states:define evidence.thresholds:for
+thé necessary lével of statistical:cortelationto use’genetic’ information in-underwriting. | will conduct policy
+‘Reséarch ‘Strategy. Pagé:93
+
+
+============================================================
+Page 8
+Section: Innovation
+============================================================
+
+CoritaictPDIPI: Prince. Anya
+analysis:of these-varying:interpretations‘and actuarial definitions:to:assess:the implications -of various evidence:
+thresholds: Ifthere have riot-been clear evidence: thresholds ‘or if the:thresholds’are: consistent; |'will-assess.thé
+implications of what the threshold could ‘of’should be. This will provide policy makers, itisurance companies,
+insurance:commissioners;.and individuals, undergoing:genetic.testing:guidance’on whenand how:genetic:
+information:can-and-should legally be-used for-underwriting. In order to:recéive feedback-and suggestioris.on
+vatious policy “options;:! will\vet options with US policy’ experts, such as Dr. Koontz; my advisory confimittee
+member, to discuss, issues of actuarial.justification,.genetic:information,.and supplemental insurance.
+‘As with, Aim,2b, the 'research:of Aim.3 will.be completed within ‘the ROO ’portion.of the, grant; 'therefore-my goal
+is:to.complete-this:research within:the context-of the experiential class:at.a.law.school.. The assistance:of
+‘students in the legal-and.policy-analysis:creates the-ability‘to increase’ the'output of policy analysis to. potential.
+state-specific whitepapers or other in-depth policy analysis given findings from ‘the previous Aim(s).
+‘Aim:3 Expected ‘and Alternative Outcomes: Aim:3 will:cUlriinate in.a ‘séries‘of policy briefs; .or white-papers;
+‘that legislators:at thé federal and:state levels canutilizé, These briefs will. be disseminatéd to the,state,
+insurance.commissioners:who: pa ttici pated.in-Aim 2.in.order-to ‘have maximum.impact. Discussions:and
+feedback from ‘policy:experts will also. be.incorporated. into.the:policy reports as. well as:compiled into‘a
+manuscript summarizing the kéy recommendations ofthe group. Iwill write at least one. law review or peer-
+reviewed journal atticle:summarizing the policy ‘findings :of-the project:in order to disseminate:the information to
+a@'wider-audience: | will also:attend conferences, such as ASBH.and LSA, to presentimy work:
+Although-Aim.3:will.draw:largely-on ‘the.information.gathered:during Aims-1and 2, the-research and analysis of
+‘Aim:3:istnot depéndent uponia certain outcome in‘the previous airns:-Even in'the. unlikély“evenit that there:is:
+little information gathered on the interpretation of'actuatial.and unfair trade’ practice laws, this absénce‘of
+guidance. still provides:a critical.opportunity'to explore possible:options:for the future..
+Since:the policy analysis of. Aim:3 will occur in Years 4 and:5, itis possible that new state. or federal legislation:
+‘may be‘passed before:the:final years’of-the.grant.-| will track:any changes in: policy throughout the grant
+period. If changes occtir,:the’skills:gained-during:the K99 training will allow: tne to-alter thé policy analysis.as
+needed. For'example, if federal legislation’addressing supplemental insurer Use of genetic'information is.
+passed:during:the grant, l:can conduct.a.case-study of the new legislation-to:assess: enforcement: options,
+issues:that can:be:addressed:by ensuing régulation;.and the potential effectiveness of the-law.
+Through detailed:policy.and.case:study analysis from'the international setting and:robust legal and survey:
+‘analysis from the US;:my proposed K99/ROO'will réecominend ‘potential policy: options:for supplemental insurer
+se of genetic. information, thus supporting’and informing an important NHGRI ELSI research priority.
+“Ain2b: Legal/Analysis,of State'Statutes‘and Cases Ls [oel[ni[p[slelmlatuM] sla [al
+| Statutevand Regulation-Analysis. | [| | [J Ty ff - 7 TT
+| Case Law'Coffiparison and-Analysis. | | | TT TT ;
+| ___ross. Comparisan of Case LawiStatules/Survey Restle } {7 {+ ff {ft
+| iissieminationzat Conferences.| [TT [| [— | [| [~— [~ | T[
+— eS SS
+a_i tet tebetate ert
+"Aim Baland:sb: Rolicy:Options:, O[N[ ols fel mit ayTmu [a fa fal
+| sdenttification.of Policy OptionsifromAimsand2 | [|] oT | |
+Po Rlicy'Analysis3a |] CUT CU UT
+| __Rentiipation of Actuarial Ssendards wom Arve tandé f ff Pd
+| CC“‘(‘$CC#OWSSGininationvat Corferéfces | [ T | | [ [ | [| [~[ T | |
+OE) 7 =
+PS Preparation of Policy Briefs) | | |] | | J ft | J 7 [ FC
+eee ee ee
+| issétHinationvat-Conferences.[ [| | [| [ [| [ [| | | |
+| Ss rah. Applications for Continued:lndependentResearch | | [TTT I | OT CT CT CT
+
+Redéarch ‘Sirategy, Pagé!o4

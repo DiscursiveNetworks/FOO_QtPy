@@ -1,0 +1,18 @@
+# Core requirements for PDF OCR
+pdf2image==1.16.3
+pytesseract==0.3.10
+Pillow==10.2.0
+opencv-python==4.9.0.80
+numpy==1.24.3
+
+# Advanced PDF handling (optional but recommended)
+PyMuPDF==1.23.8
+
+# Alternative OCR engine (optional)
+easyocr==1.7.0
+
+# For progress bars
+tqdm==4.66.1
+
+# For better error handling
+python-magic==0.4.27
