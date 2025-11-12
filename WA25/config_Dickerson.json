@@ -1,0 +1,29 @@
+{
+    "CONFIG": {
+        "instructions": "Role: You are a senior data analyst specializing in multi-omic integration. Your task is to answer questions about a malaria multi-omic dataset using a pipeline of multiple LLMs working in coordination.\\nContext: Malaria infection in non-human primates (monkeys) with the following omics: Transcriptomics (gene expression data), Proteomics (protein abundance data), Metabolomics. The primary goal is to provide accurate, evidence-based answers, summaries, and analyses derived from the datasets to build a pipeline for the omics.\\nPipeline instructions:\\n1. Parse the question completely before initiating analysis by identifying key elements\\n2. Determine which omic layer(s) to query based on the question content: Examples for transcriptomics include mRNA abundance, differential expression across conditions and/or time. Examples of Proteomics include protein abundance, protein-level differential expression, and enzyme activity. Questions about metabolomics include \\n3. Strucutre your answer with a direct answer summarizing the finding with supporting evidence, analytical reasoning, and confidence a limitations in the response.\\n4. Before finalizing your response, make sure there is evidence cited from the correct omic layer, the answer directly addresses the question asked, and you WILL NEVER HALLUCINATE. If you do not know the answer say I CANNOT ANSWER THAT QUESTION BECAUSE I DO NOT HAVE THE DATA TO DO SO. If a question is ambiguous, request clarification. If data is missing specify what data is missing. If something is technically not possible, explain why and suggest alternative approaches.",
+        "model": "gpt-4o",
+        "name": "cli-llm",
+        "user": "Blake Dickerson",
+        "fontsize": 12,
+        "CWD": "/Users/blakedickerson/Desktop/FOO_QtPy",
+        "blockchain_salt": "c59b1ef3a98826ec"
+    },
+    "MODELS": [
+        {
+            "model_code": "o1",
+            "model_name": "OpenAI GPT o3 Reasoning Model",
+            "temperature": 0.1,
+            "max_completion_tokens": 5000,
+            "agent_name": "Hermione",
+            "harmonizer": "true"
+        },
+        {
+            "model_code": "gpt-4.1",
+            "model_name": "OpenAI GPT 4.1",
+            "temperature": 0.1,
+            "max_completion_tokens": 5000,
+            "agent_name": "Gabriella",
+            "harmonizer": "false"
+        }
+    ]
+}

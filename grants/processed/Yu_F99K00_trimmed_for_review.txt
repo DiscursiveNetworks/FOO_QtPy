@@ -1,0 +1,902 @@
+
+============================================================
+Page 1
+Section: Background
+============================================================
+
+Contact PD/PI: Yu, Kexin
+Background and Goals for Fellowship Training
+A. Doctoral Dissertation and Research Experience
+
+My research interests in understanding the aging process and improving the quality of life for older adults
+were first developed in the three-year research assistant experience in the lab of aging and cognition at Zhejiang
+University. | applied for the Zhejiang Province Undergraduate Innovation and Entrepreneurship Fellowship and
+was funded to test the reliability and feasibility of using an internet administered 9-item Patient Health
+Questionnaire (PHQ-9) as a depression screening tool for Chinese older adults. Furthermore, we developed a
+cellphone application, integrating the function of self-diagnosis, mood monitoring, and online intervention
+materials. The mobile app encompasses Problem Solving Therapy courses filmed by our team to improve
+patients’ access to therapy resources. | was drawn to explore the potentials of employing information and
+communication technology (ICT) to improve older adults’ quality of lives through the first experience of using
+mobile technology to deliver mental health services. This research experience produced a paper published in
+Asia-Pacific Psychiatry.
+
+As a first-generation college student at Zhejiang University, | seized as many opportunities to get research
+training as | possibly could. | found gratification in building new knowledge and was fascinated by the possibilities
+in making positive change using research. | visited the University of Surabaya to collaborate with researchers in
+Indonesia to conduct cross-culture research. | worked with Dr. Christ Mayhorn on the topic of evaluating the
+social engineering of phishing attacks at North Carolina State University. | was selected as one of the three
+undergraduates at Zhejiang University to work as a paid research intern at the University of Alberta at the School
+of Nursing. During the three-months internship, | worked with Drs. Carole Estabrooks and Matthias Hoben on
+the Translating Research in Elder Care program. | studied how does the working environments of nursing homes
+affect the physical and mental health of its employees. | also participated in a systematic review on the topic of
+the barriers and facilitators of oral health care for older adults residing in nursing homes, which was published in
+the International Journal of Nursing Studies. My experiences at multiple cities in China, Indonesia, Canada, and
+the United States exposed me to the rich cultures at diverse regions of the world, which inspires and empowers
+me to research with populations with diverse backgrounds. Through working on aging-related research topics, |
+realized the vast unmet needs in research and practice with the older adult population in my China and globally.
+| decided to commit my research to this vulnerable group with complex challenges.
+
+By the end of my undergraduate training, | had a strong aspire and a clear vision of becoming an investigator
+in applied science. Therefore, | applied for the MSW/PhD dual degree program at the University of Southern
+California Suzanne Dworak-Peck School of Social Work (USC SSW). Located in central Los Angeles, USC
+provides a unique research environment for studying older adults with diverse cultural backgrounds and linguistic
+preferences. Driven by my interest in employing technology to improve older adults’ health outcomes, |
+participated in the Intergenerational Mobile Technology Opportunities Program (IMTOP) led by Drs. Shinyi Wu
+and Iris Chi. The Intergenerational Mobile Technology Opportunities Program (IMTOP) is a mHealth intervention
+that recruited college-student tutors to help older patients to learn how to use mobile technology and a health
+tracking app to facilitate diabetes self-management. Using the data collected in the IMTOP intervention study,
+my first-authored paper reporting the longitudinal IMTOP intervention effects in rural Taiwan won the 2018 APHA
+Nobuo Maeda International Research Award. The manuscript was submitted to The Diabetes Educator and is
+currently under review. Additionally, | presented more results from the IMTOP study at annual scientific meetings
+of the Society of Social Work and Research and Gerontological Society of America. The hands-on research
+activities conducted with IMTOP not only helped me learn substantial knowledge in designing and implementing
+mobile health (mHealth) interventions but also gained excellent training in theoretical thinking and scientific
+writing. Furthermore, IMTOP study leads to two more research opportunities in which | contributed significantly
+— IMTOP pilot study for immigrant populations in Los Angeles and a feasibility study of an intergenerational
+mHealth program for affordable housing communities (IMPAHC) in Sacramento.
+
+Encouraged by the promising intervention effects found in Taiwan, we decided to adapt the IMTOP
+intervention to meet type 2 diabetes management needs for immigrants in Los Angeles. I led [MTOP pilot study
+to test the feasibility of using the technology-facilitated diabetes self-management intervention to address the
+prevalent problem of type 2 diabetes (T2D) among first generation Chinese and Hispanic immigrants. The
+research project adopts a mixed-method approach, using both survey and individual semi-structured interviews
+to collect data. The research project is a collaboration between USC Edward R. Roybal Institute on Aging and
+four community-based organizations serving recent Chinese and Hispanic immigrants. | paid weekly visits to all
+four community collaborators and communicated with managers and staff members of the organizations to
+formulate our research plan. | supervised 3 MSW students and one undergraduate student and provided training
+in qualitative research methods and questionnaire administration. Working together, we have collected 140
+
+Applicant's Background and Goals for Fellowship Training Page 50
+
+
+============================================================
+Page 2
+Section: Background
+============================================================
+
+Contact PD/PI: Yu, Kexin
+questionnaires with recent immigrants with type 2 diabetes and conducted 24 in-depth individual interviews with
+participants who speak Cantonese, Mandarin, and Spanish. Because of this pilot study, | had the opportunity to
+work closely with community-based organizations and gained experience in data collection and research
+program management. The IMTOP pilot study yields two manuscripts under preparation.
+
+The results of the IMTOP pilot study highlighted the importance of social, cultural environments on health
+outcomes. Collaborating with community-based organizations significantly increased our access to the target
+population of the intervention and provided future avenues for disseminating the research results. Employing
+what we learned in both [MTOP and IMTOP pilot study, Dr. Wu, Dr. Chi, and | submitted a proposal to the USC
+SSW Adult Mental Health and Well-being (AMHW) department and were awarded a pilot funding for exploring
+the feasibility of delivering a mobile health facilitated T2D intervention at affordable retirement communities
+(ImPAHC). I served as a co-investigator on the ImPAHC study. We paid visits to three retirement communities
+and conducted semi-structured interviews with professionals and staff and had focus group discussions with
+older adult residents. | am working with two other graduate students to analyze the qualitative data with thematic
+content analysis methods. Working with retirement housing communities inspires me to investigate the aging
+process and social determinants of health through the lenses of ecological theory, which leads to my decision of
+investigating the physical and social environments in my dissertation research.
+
+Besides research opportunities provided in the doctoral program, the MSW training of the dual degree
+program provided opportunities for me to gain clinical practice experience and work directly with older adults in
+my field placement. [ interned at ABC Adult Day Health Care Center for 20+ hours per week during my first year
+in the MSW/PhD dual degree program. In my clinical practice, | witnessed the prevalent loneliness and social
+isolation among seniors and observed the strong wishes of older adults in getting connected with family and
+friends. Social isolation and loneliness have become the primary outcomes in my research since then. Many
+older adults came to consult me on how to use their mobile phones to contact friends and sharing meaningful
+memories online with their families. My experience working closely with older adults affirm the value of
+addressing social isolation by bringing information technology to older adult’s life.
+
+My clinical practice and research experiences made me aware that the majority of the currently available
+technology tools, such as social media sites, mobile health apps, are not designed with older adults’ unique
+needs in mind. Older people often are not included as part of the intervention/technological tool development
+team, which adds barriers for older people to learn to use technology. To address this issue, | serve as a co-
+investigator on a research project, led by Drs. Wu and Chi, employing a participatory co-design approach to
+develop a caregiver self-management program (CSMP) app for the Chinese immigrant caregivers of older adults.
+The co-design CSMP app proposal was funded by the USC Clinical and Translational Science Institute (CTSI)
+and AMHW pilot awards. We have completed the conceptual design, interactive prototype testing, and internal
+real-life condition testing phases of the co-design process. | am currently working with a graduate student
+colleague to conduct qualitative data analysis and drafting the manuscript reporting the unique needs of the
+Chinese immigrant caregiver population and their acceptance of technology-facilitated interventions. The CSMP
+app co-design study preliminarily supported the feasibility of delivering a traditional in-person intervention with a
+mobile technology platform. | also gained first-hand experience using the co-design process for intervention tool
+development and pilot research.
+
+| pursued my interest in studying social isolation and loneliness in directed research tutorials and my qualifying
+exam project. Using data from the Health and Retirement Study (HRS), | exanimated the longitudinal association
+between internet use and loneliness for older people. The manuscript prepared with this work is currently in
+revision and resubmission. Because of my strong interests in statistical methodology, | sought training in
+structural equation modeling (SEM) and longitudinal data modeling at the Inter-university Consortium for Political
+and Social Research (ICPSR) summer training at the University of Michigan. Learning advanced statistical
+methodology enabled me to model the relationships of key variables of interests in a sophisticated manner. |
+further horned my data management and modeling skills in the process of conducting independent research with
+the qualifying exam. The qualifying exam project examined the longitudinal bidirectional relationship between
+the accumulation of geriatric conditions and loneliness. The study results were rich enough to be reported in two
+separate manuscripts that will be submitted to top gerontology journals.
+
+Socially isolated older adults are at high risk of cognitive decline and the onset of Alzheimer’s disease and
+related dementias (ADRD). My past research experiences shaped the path for me to study the longitudinal
+association between environmental factors, social isolation, and cognitive health. With the awareness that
+cognitive health in later life is a new research field for me, | sought the highly individualized training opportunities
+that could be made possible with the F99/K00 award. If awarded, this funding opportunity will enable me to
+
+Applicant's Background and Goals for Fellowship Training Page 51
+
+
+============================================================
+Page 3
+Section: Background
+============================================================
+
+Contact PD/PI: Yu, Kexin
+receive exceptional training and mentored research, transition my research directions and help me grow into an
+independent investigator conducting social isolation and cognitive health research from an ecological perspective.
+B. Training Goals and Objectives
+
+My research is guided by the overarching goal of promoting long, healthy, and meaningful lives. My long-term
+career development objective is to build substantial knowledge that leads to effective interventions from a social-
+ecological/community engagement perspective to reduce social isolation and prevent cognitive decline. |
+envision myself to be a leading scientist in a renowned research-oriented university and making impacts with my
+research on social isolation and cognitive health. For the F99/K00 award tenure, | aspire to gain knowledge in
+cognitive health and ADRD research, receive training in analyzing high-frequency digital biomarkers longitudinal
+data and neuroimaging methodologies, and expand experience in intervention development, implementation,
+and assessment. Working with my sponsors, | developed the following specific training goals and objectives and
+descried how we plan to collaborate to achieve the training goals.
+
+Training Goal 1: increase knowledge in prevention, intervention, and policy pertaining to cognitive
+decline in normal aging and the development of ADRD. [ will work with my co-sponsors, Dr. Iris Chi, Dr.
+Shinyi Wu, and Dr. Hiroko Dodge, to get immersed in cognitive health research. | will systematically learn the
+protective and risk factors of cognitive decline, currently available treatment, and interventions for ADRD through
+mentored research. | have already been actively engaged in the academic activities at the USC Edward R.
+Roybal Institute on Aging and have been attending research meetings where frontier aging and ADRD related
+research findings are presented. With the receipt of the F99/KOO, | will get involved with the Alzheimer's Disease
+Research Center (ADRC) at USC and the Layton Aging and Alzheimer’s Disease Center at Oregon Health and
+Science University (OADC). Dr. Wu will help me to get connected with researchers at USC ADRC. | will learn
+new progress in ADRD research by getting engaged with USC ADRC and building collaborative relationships for
+future research. Dr. Dodge will be the liaison for the resources at OADC, directing me to the personals and
+research cores according to my learning needs. Dr. Dodge and Dr. Wu will provide directed reading to facilitate
+my learning for substantial topics related to cognitive decline and ADRD. | will present and discuss the papers
+with peers and mentors in our regular journal club hosted by Dr. Wu. Additionally, [ will join through Zoom the
+monthly OADC investigator meeting held at OHSU where researchers present to critique their ongoing research
+and proposals. [ plan to take a course at the USC School of Gerontology dedicated to discussing special issues
+on cognitive decline and ADRD. This course covers cognitive decline for people with Alzheimer’s Disease or
+
+The new knowledge in
+cognitive health gained through the F99 phase will enable me to conduct informed cutting-edge research at the
+KOO phase and beyond.
+
+Training Goal 2: gain skills in analyzing high-frequency digital biomarkers longitudinal data and
+employing neuroimaging methods. Through conducting research with the IMTOP study data, | had some
+experience in utilizing biomarker measures, such as blood pressure and blood glucose, yet | have not
+systematically learned about assessing and analyzing biomarker data in ADRD related research. Cognitive
+health studies often require the use of bio-marker indicators to objectively evaluate the intervention effect or
+longitudinal changes in brain functioning. Neuroimaging methodology is widely used in ADRD related research,
+which allows the researchers to link the variation observed in behavioral testing of cognition with activities in the
+brain. Learning to assess biomarkers as key variables in my research and using neuroimaging methods will
+enable me to have in-depth discussions with a broader scientific audience, including but not limited to
+researchers in fields of Social Work, Neurology, Gerontology, and Engineering. Using biomarker and
+neuroimaging methodology will also equip me to build knowledge on detecting early-stage brain changes related
+to cognitive decline, which can produce scientific evidence that informs social work intervention and practice with
+the socially isolated older adults. | plan to receive training conduct hands-on research in Neuroimaging methods
+in the KOO stage, at the OADC Neuroimaging core. The OADC is also specialized in collecting digital bio-marker
+data. Digital biomarkers are collected using wearable devices in a nonintrusive manner, such as walking speed
+assessed using in-home sensors. Enhancing my capacity of understanding and using digital biomarker data will
+expand the spectrum of outcomes | can investigate, including those indicators that are essential for ADRD
+research.
+
+[ will horn my longitudinal data analysis skills in the process of analyzing four waves of longitudinal data from
+the NHATS study, which prepares me to analyze high-frequency digital biomarker longitudinal data in the KOO
+phase. I will complete a self-directed course on using R programming to handle large longitudinal datasets and
+run sophisticated models that is suitable for answering my research questions, such as multi-level modeling,
+structural equation modeling, and Bayesian inference models.
+
+Applicant's Background and Goals for Fellowship Training Page 52
+
+
+============================================================
+Page 4
+Section: Specific Aims
+============================================================
+
+Contact PD/PI: Yu, Kexin
+Specific Aims
+
+Social well-being and cognitive health are two essential components of successful aging.’ Three decades of
+research have consistently shown that social isolation is associated with the onset of cardiovascular disease,” “
+declines in cognitive function,’ higher risks of depression and anxiety,® and lower overall life satisfaction.’
+Perceived social isolation was associated with a higher cortical Amyloid burden in older adults, supporting the
+crucial role of social isolation in preclinical Alzheimer’s disease and related dementia.’? The potential causes of
+social isolation are multi-faceted. While the existing literature studied individual-level factors that were associated
+with social isolation, such as age, *"’, personality '*"'” and health status, '**' only a few studies have examined
+the extent to which the living environment influences the experience of social isolation among older adults.
+
+The Ecological Theory of Aging (ETA) posits that the living environment profoundly influences the aging
+process.””** The process of personal and environmental resource exchange determines the aging outcomes
+through building their identity, evoking or reducing stress, and maintaining or hindering the autonomy of an older
+person.” Environments not only affect social well-being of older adults, but it also serves as one of the most
+pervasive and complex stimuli to the brain and contribute to shaping cognitive functionality through the
+mechanism of neuroplasticity.* Socially isolated individuals are at higher risk of cognitive decline.”*”* Social
+isolation might mediate the association between environments and cognitive health. The proposed dissertation
+work aspires to investigate the longitudinal effects of multiple dimensions of the living environments on social
+isolation and cognitive health for older adults, including physical environment measured by community and in-
+home disorder and social environment measured by neighborhood cohesion.
+
+Information and Communication Technology (ICT) has brought a revolution to the way people communicate
+and access resources.*””° With increased popularity among older people,”*° ICT provides excellent
+opportunities to address social isolation and promoting cognitive health.*" An increasing amount of research
+investigating the association between ICT use and social isolation have been published, however, whether ICT
+use would interact with the effect of environmental factors on the risk of social isolation has not yet been
+empirically tested.*’ Because ICT increases access to information and resources, adopting ICT possesses the
+potential to mitigate the effect of a disadvantaged living environment.
+
+For the F99 phase, I will examine the longitudinal impact of the environments of living on social isolation and
+cognitive health with four waves of data from the National Health & Aging Trend Study (NHATS). The subjective
+perception of the environmental influence on social well-being will be elicited using focus groups. With the older
+adult participants’ input, | will explore the possible designs of a community-based, technology-facilitated
+approach that could sustainably enhance the social well-being and cognitive health of isolated older adults.
+
+Cognition health is the foundation for independent living and quality of life. The effect of ICT use on cognitive
+health has not been extensively researched. Promoting social interaction using technology-based approaches
+can alleviate the social isolation among older people and prevent cognitive decline at the same time, yet only a
+few randomized controlled intervention studies have been conducted to examine the effectiveness of ICT-
+enhanced tools on cognitive functioning and social isolation.** The existing trial showed positive effects for ICT-
+enhanced intervention.
+
+At the KOO phase, | will use the longitudinal data from the ongoing randomized controlled trial “Internet-based
+Conversational Engagement Clinical Trial (-CONECT)” (NIA RO1AG056102, RO1AG056628 & R56AG051628)
+to investigate the mechanism of conversational engagement on the cognitive functioning. The I-CONECT trial is
+currently collecting digital bio-marker and neuroimaging data, including medication adherence, speech and
+language characteristics, and region-specific structural and functional pre-post changes in the brain. Using this
+rich data set, [ plan to examine why and how social interaction affects the cognitive functioning of older adults,
+which is not well understood in literature, as well as how technology can be used effectively to alleviate isolation
+and improve cognitive functions.
+
+Aim 1: In the F99 phase, | will examine the effect of physical and social environments on social isolation and
+cognitive health using a mixed-methods approach. ICT use is hypothesized to moderate the influence of physical
+and social environments.
+
+Aim 2: [n the KOO phase, | will examine the effectiveness of an [CT-enhanced conversational intervention on
+social isolation and its effect on cognitive health among older adults with normal cognition or mild cognitive
+impairment (MCI). | will explore the potential to co-design a technology-facilitated community-based intervention
+from an ETA perspective for social isolation and cognitive decline with older adult participants.
+
+Successfully achieving the aims of this proposal will produce knowledge on the environmental factors on the
+risk of social isolation among older adult, contribute to the existing literature on the mechanisms of social
+engagement on cognitive health, and lead to the development of a technology-facilitated intervention program
+for social isolation and cognitive decline from the perspective of ETA.
+
+Specific Aims Page 56
+
+
+============================================================
+Page 5
+Section: Research Strategy
+============================================================
+
+Contact PD/PI: Yu, Kexin
+Research Strategy
+1. Significance
+1.1. Environment and Social Isolation
+
+Social isolation is the absence of contact with other individuals and a lack of relationships and social
+integration.** Empirical evidence repeatedly showed that social isolation is associated with death by
+cardiovascular disease and early morbidity among older adults.7* A meta-analysis with 70 studies published
+between 1980 and 2014 showed that socially isolated individuals had a 29% increased likelihood of mortality.’
+The research and practice fields have increasingly recognize the significance of addressing the problem of social
+isolation. AARP estimated that about 4 million older adults enrolled in Medicare are socially isolated, and
+Medicare spends an additional $6.7 billion on isolated individuals than otherwise if they are socially connected.
+Eradicate the problem of social isolation requires a social approach. However, while the current literature has
+explored the individual-level risk and protective factors of social isolation, such as personality and health
+concerns, how does the physical and social characteristics of the living environment affects the experience of
+social isolation has not been well researched.
+
+The Ecological Theory of Aging (ETA) posits environmental factors have significant influences on
+health and social wellbeing.””*>* Living environment provides access to resources, and the settings for social
+interaction as well as an essential source of cognitive simulation.“ Living environments are often assessed
+through diverse dimensions including physical and social aspects of environments.”*"° Physical environments
+refer to the objective aspects of the neighborhood and the facilities, for example, the safety of the neighborhood,
+access to amenities, green open spaces and aesthetics.*” While social environment often been operationalized
+as the social participation and social integration perceived by people, such as participate in social activities,
+sense of community, and trust in people. *°
+
+For the association between physical environmental factors and social isolation, previous research
+reported that older residents of a high-crime neighborhood are more likely to be socially isolated despite their
+strong desire for social integration.®°° The community disorders, which can present itself as litters on the streets,
+deserted buildings, and vandalism, could lead to the perception of lack of safety, thus causes increased likelihood
+of social isolation. Outdoor space & public buildings, and common areas have a critical role in keeping the
+residents living an active social life and contribute to their general wellbeing.*” Although existing literature shed
+light on the role of the physical environment on social isolation, the evidence is built mainly on cross-sectional
+data, the longitudinal association between the two warrants further research. The proposed dissertation work
+aspires to build evidence with longitudinal data, and the following hypothesis was derived based on cross-
+sectional results and theoretical reasoning of ETA.
+
+H1: Negative physical characteristics of the environment, i.e., disorders in the community and at home, predicts
+the increased social isolation in the community.
+
+Social environmental factors like community support & health services, communication & information, civic
+participation, & employment have been empirically supported as protective factors of social isolation.“°*' Sense
+of belongingness, togetherness, and trust were found to be associated with a less sedentary lifestyle and more
+social participation and interpersonal interaction, and thus, predicts a lower extent of social isolation.”
+Residential satisfaction and sense of belonging was found negatively associated with perceived social isolation.”
+H2: Positive social environment factors (e.g., trust neighbors, people in the community, helping each other) are
+associated with less social isolation longitudinally.
+
+One's perception of the social environment is likely to be influenced by the physical characteristics
+of the environment. Sampson and Raudenbush (2004) reported that physical deterioration and disorder has a
+social meaning beyond just the observation of neighborhood disorder.** Physical characteristics of a living
+environment could change an individual's opinions of the social environments, resulting in less perceived
+opportunities in the neighborhood. For example, visible vandalism on the street could prevent residents from
+walking on the streets, which could increase the incidence of social isolation.”
+
+H3: Social environmental factors mediate the longitudinal association between physical environmental factors
+and social isolation.
+
+Why is it that the social and physical aspects of the living environment affect the social wellbeing of
+its older residents? This question remained unanswered with previous research. ETA provided three
+propositional processes for the environment to “get under the skin’, i.e., autonomy defined as the older adult
+take action to change the environment to fit their needs, belonging defined as a sense of security, inclusion and
+connectedness, and stress defined as the “environmental press” to which made the individual suffer.””*° Yet the
+corresponding measures are not available in nationally representative longitudinal studies. A qualitative
+exploratory approach will be employed in this proposed dissertation work to elicit older adults’ own experiences
+
+Research Strategy Page 57
+
+
+============================================================
+Page 6
+Section: Research Strategy
+============================================================
+
+Contact PD/PI: Yu, Kexin
+on the impact of the living environment for the experience of social isolation. ETA will be used to guide the design
+of the interview guide. No hypothesis was derived for the qualitative inquiry with exploratory nature.
+uen F99 phase Kc KOO phase TS
+a a wS aN
+vy Social environements Y “\ \
+° c 3 ‘
+/ 4 2. help each other - ixed-methods: Developing a \
+/ 3. trust-worthiness bs gustainble community-based \
+H i Health 4 frogram for social Isolation \
+f » A | and cognitive health \
+1 q _1, social \ i J
+\ 2. instrumental 1 ii I
+\ 3. medical \ , ; — /
+. nlernet-base'
+\ {community disorder en Se \ p> I 4 ogegement /
+Ny 2. in-home disorder \ , (I-CONECT) /
+~~ N 7 7
+SL ae ae oe
+ts eee wee
+Figure 1. Conceptual framework of the F99 and KOO phases of research
+1.2. Environment, Social Isolation, and Cognitive Health
+
+Physical and social environments not only affect the social wellbeing of older people but also fundamentally
+influences their cognitive health. Environments serve as one of the most pervasive and complex stimuli to the
+brain and contribute to shaping cognitive functionality through the mechanism of neuroplasticity.“ Environmental
+challenges, as simple as daily tasks like shopping, was hypothesized to simulate the brain because it requires
+an older person to remember the route and shopping list despite the distractors in the environments.
+Environmental stimuli, just like education and cognitively-demanding jobs, were theorized to be associated with
+increased cognitive reserve and prevent cognitive decline.“ Considerable amount of research/practice interests
+and effects have been paid to building aging-friendly communities,“°*” however, little is known about the cognitive
+effects of the physical and social environments.” Carefully investigating specific aspects of visual
+simulation in the living environment, such as disorder at home and in the community, is granted.
+
+Community disorder, such as cluttered and unsafe environment, increase the cognitive burden and the
+environmental stressors on the residents. Older adults living in communities with a higher number of adverse
+physical environmental characteristics are more likely to be deprived of health care resources and cognitively
+stimulating activities.** Positive social environments provide the resources and opportunities that are necessary
+for cognitive simulating engagements.***° Social environments were found to be significantly associated with
+cognitive functioning with cross-sectional data.*® Although the theoretical reasons supporting the
+association between specific physical and social environments and cognitive decline is substantial,
+empirical examinations of the relationships are scarce.**°° The proposed research project aspires to
+contribute to the knowledge by building empirical evidence on physical environmental factors and cognitive
+health using longitudinal data. The following hypotheses were derived.
+
+H4: Negative physical environments, i.e., the disorder in community and homes, were longitudinally positively
+associated with deterioration in cognitive function.
+
+H5: Positive social environment, i.e., neighborhood cohesion, longitudinally associated with deterioration in
+cognitive function.
+
+Social isolation could mediate the association between physical and social environments and
+cognitive functioning. The literature review in the previous section established the reasoning for the
+associations between physical and social environments and social isolation. Social isolation was found to predict
+cognitive decline longitudinally.” Perceived social isolation was associated with a higher cortical Amyloid burden
+in older adults, supporting the crucial role of social isolation in preclinical Alzheimer’s disease and related
+dementia.”
+
+H6: Social isolation mediates the longitudinal association between physical and social environments and
+cognitive function.
+
+Although ETA highlights the importance of the environment in the aging process in general, the theory did not
+specifically discuss the effect of environments on cognitive health.”““ The knowledge that will be built in the
+proposed study could enrich the content and expanding the scope of ETA.
+
+Research Strategy Page 58
+
+
+============================================================
+Page 7
+Section: Research Strategy
+============================================================
+
+Contact PD/PI: Yu, Kexin
+1.3. ICT, Social Isolation and Cognitive Health
+
+ICT use has been found associated with reduced social isolation.°’** A systematic review reported that ICT
+alleviates the elderly's social isolation through four mechanisms: connecting to the outside world, gaining social
+support, engaging in activities of interests, and boosting self-confidence.” The ETA hypothesized ICT use
+promotes the wellbeing of older adults through enhancing their agency.*° However, the effect of ICT
+interventions on social isolation were not able to last for more than 6 month after termination.°” Previous research
+noted that the ICT intervention might not work for everyone in the diverse population of older adults with
+heterogonous personal characteristics and life experiences.” Future research are needed to identify how to
+implement and contextualize ICT interventions in the older adult’s daily life so that the population would be more
+likely to benefit from the ICT use.” Additionally, the nature and content of ICT use might result in different effects.
+Internet use for social purposes was reported to be associated with decreased perceived social isolation in the
+following year, while the association between social isolation with instrumental use of internet was insignificant.”
+Contextualizing the effect of ICT use within the ecological living environment of older adults could
+contribute to the literature on what kind of ICT is effective in alleviating social isolation under what
+circumstances.
+
+The impact of ICT use within the context of the living environment will be explored for the first time in the
+proposed dissertation work and postdoctoral research. ICT adoption has the potential to reduce the negative
+influence of disadvantaged physical and social environments by providing a new avenue for older adults who
+suffer health issues to interact with family, peers, and society.2”° ICT users reported that internet made it easier
+to reach people and increased the quantity of communication with others, thus supporting them in feeling less
+isolated.°' ICT corresponds to the information & communication aspect of the community environment, we
+hypothesize the effect of physical and social environment on social isolation is different for [CT users and non-
+ICT users. In the F99 phase, I will investigate the interacted influence of physical and social environments and
+using ICT for different purposes (social, instrumental, and medical) on social isolation.
+
+H7: ICT use will moderate the longitudinal association between physical and social environments and social
+isolation experienced by older adults. More specifically, individuals who use ICT for social purposes are less
+likely to be socially isolated.
+
+The effect of ICT use on cognitive health has not been extensively researched and well-understood.
+Besides, ICT is an umbrella term summarizing a variety of technological tools that could facilitate interpersonal
+interaction. -CONECT intervention employs a Randomized Controlled Trial (RCT) study design to investigate
+the effect of a specific type of ICT use, i.e., Internet-facilitated conversational engagement via video-chat, on
+cognitive functioning among older adults who are cognitively intact or with Mild Cognitive Impairment (MCI). The
+task of conversation is highly cognitively simulating, which requires control of attention, working memory,
+executive functions, and mental interpretation of other’s emotions and intentions.°4°° Linguistic ability is known
+as highly related to cognitive health among older adults.°° In the KOO Phase, I will utilize data collected in the I-
+CONECT project to examine the longitudinal intervention effect of ICT facilitated conversation on the social
+wellbeing and cognitive health of older adults.
+
+The current I-CONECT intervention did not explicitly take into consideration the impact of physical and social
+environments. With the evidence will be built in the longitudinal secondary data analysis and qualitative focus
+groups of in the dissertation, | will explore the possibility of designing a sustainable community-based program
+to offer a technology-facilitated solution to alleviate social isolation and prevent cognitive decline.*” Studying the
+effectiveness of technology in the living environment and explore new approaches of technology-facilitated care
+could transform the older adults’ home to become more than a living space, but also a service platform.*®
+
+Figure 1 illustrates the conceptual framework for both F99 and KOO phases. Examining the physical and social
+environmental impacts on social isolation and cognitive health among older adults, this the proposed research
+has the potential to produce a sustainable solution to the challenge of social isolation among older adults and
+the increased likelihood of cognitive decline and ADRD onset accompanies with it. By contextualizing the role of
+technology in older adults’ living environments, knowledge will be built in the proposed research will address the
+challenges of independent living and aging in place with technology tools that fit the circumstances. Although
+the distinction between physical and social environments was proposed by the ETA, empirical evidence has
+examined the subjective aspect of the living environment (i.e., social environment) less adequately. 22 The
+proposed work will contribute to the literature and expand the scope of ETA by studying both the physical and
+social environments and their relationships with social isolation and cognitive health.
+
+2. Approach
+2.1. F99- predoctoral stage
+2.1.1. Quantitative inquiry using NHATS data
+Research Strategy Page 59
+
+
+============================================================
+Page 8
+Section: Research Strategy
+============================================================
+
+Contact PD/PI: Yu, Kexin
+
+2.1.1a. Dataset
+
+The proposed dissertation will use data from NHATS wave 5 (collected in 2015) to 8 (collected in 2018).
+NHATS is a longitudinal study that annually surveys Medicare beneficiaries aged 65 and above in the contiguous
+United States (excluding Alaska, Hawaii, and Puerto Rico). Medicare beneficiaries constitute more than 98% of
+the US population age 65 and older. NHATS used a stratified three-stage Table 1. wave 5 NHATS sample characteristics
+sample design: 95 individual counties or groups of counties were selected as = _Demosraphicvariables nn %
+primary sampling units (PSUs), and 655 zip codes were sampled from them as — Seezrours 9847 34.16
+secondary sampling units (SSUs). Individuals were sampled from the Medicare 75-84 3124 37.48
+enrollment data bases (EDBs) of the SSUs with oversampling of non-Hispanic 85+ 2067 24.8
+black individuals and the oldest old. The probabilities of sampling at all three Genderfemale 4927 59.12
+stages aimed to create equal probability samples and achieve the goals of Non-Hispanic White © 5703 58.43
+sample sizes by age group and race/ethnicity. The waves 5 to 8 were selected Non-Hispanic Black 1740. 20.52
+because the measures of the physical environment were included since wave Others 244 2.98
+4, and the NHATS sample was replenished in the 5" wave (2015). Starting the spans 467 56
+analysis from wave 5 prevents the problem of having a high percentage of least isolation 3095 37.96
+missing in the baseline of longitudinal analysis. In total, there were 8,334 somewhat isolated 4084 50.08
+complete cases in wave 5 data collection.®° The overall response rate at wave Socially isolated 976 11.97
+was 76%, which consist of 96% of the continuing sample and 63% of the newly = ztiton 5825 70.63
+enrolled sample.®° Table 1 presents the baseline (wave 5) NHATS sample Possible dementia 779 9.45
+composition by race/ethnicity and age groups. Probablydementia 963 11.68
+
+2.1.1a. Measurements .
+
+Physical environments were reported by the interviewers who visited the respondents at their home.
+Standing in front of the respondent’s home/building and looking around, the interviewer rated on a four-
+point scale (1=none, 4=a lot) regarding 1) the amount of litter on the street, 2) graffiti on buildings and walls, 3)
+vacant or deserted houses or stores. The physical condition of the respondent home was rated dichotomously
+(yes/no), in terms of, 1) any broken windows, 2) a crumbling foundation or open holes, 3) missing bricks or siding,
+4) roof problems, 5) uneven walking surface or broken steps, 6) continuous sidewalks in both directions (reverse
+coded). The physical condition inside the responder’s home/apartment was assessed by observing the
+existence of 1) peeling paint, 2) evidence of pests, 3) broken furniture, 4) flooring need of repair, 5) tripping
+hazards, and 6) cluttered room. The scale score of the physical conditions of the community, home/building, and
+inside home/apartmenits will be derived from the sum score of the corresponding items. The use of interviewers’
+observation could provide more accurate information regarding the physical environment of each participant than
+using the census data by zip code, which tends to reduce the complexity of the real-life condition.
+
+Social environments. Respondents reported whether the people in the community know each other very
+well, willing to help each other, and people in the community can be trusted on a three-point scale (1=agree a
+lot, 2=agree a little, 3=do not agree). A sum score of the three items will be used as the scale score for the social
+environment.
+
+ICT use. NHATS assessed three types of ICT use: instrumental internet use, social internet use, and internet
+use for medical purposes. Instrumental internet was measured by asking the respondent’s weather they shop
+online and pay bills or banking with the internet. Social use was measured with one item asking in the last month
+if the respondent went online to visit social network sites (such as Facebook or Linkedin). Use the internet for
+medical purposes had four items: order or refill prescriptions, contact medical providers, handle health insurance
+matters, and get information about one's health conditions. The three aspects of ICT use will be used as
+moderators that are independent of each other.
+
+Social isolation was constructed with six dichotomously coded indicators: no marriage or partnership, no
+family identified to talk with about important things, no friend identified to talk with about important things, never
+meeting in person with family or friends in the past month, no participation in religious service, and no club, class
+or organization activities participation.** All items of social isolation will be coded as a higher indicates a more
+isolated situation. The scale score is the sum of six dichotomous indicators, ranging from 0-6. Scores less than
+1 represent individuals who were least isolation; scale score 2-3 represent who was somewhat isolated, and
+scores equal or above 4 indicates social isolation.
+
+Cognitive Health. For sampled persons self-responded cases, NHATS study assessed 1) memory: using
+immediate and delayed words recall; 2) orientation: date, month, year and day of the week, naming the
+President and Vice President of the United States; and 3) executive function measured by clock drawing test.”
+If the interview were conducted with a proxy, AD-8 Dementia Screening Interview was used to assess memory,
+temporal orientation, judgment, and function.©*?
+
+Research Strategy Page 60
+
+
+============================================================
+Page 9
+Section: Research Strategy
+============================================================
+
+Contact PD/PI: Yu, Kexin
+
+Control variables. Demographics including age, gender, race, education level, marital status, income, and
+self-rated health have been reported in existing literature as predictors for social isolation among older adults
+1320.64 Therefore, the current study includes the variables listed above as control variables.
+
+2.1.1b. Quantitative data analysis strategies
+
+Data management and variable re-coding will be conducted using Stata 15 SE. Prior to model building,
+univariate analysis and correlation of key variables will be run to estimate the effect size and detect any potential
+multicollinearity issues. Latent growth curve modeling (LGCM) will be employed to model the longitudinal
+relationships between physical environments, social environments, social isolation, and cognitive health. LGCM
+allows nested models at hierarchical levels, such as observations of the same individual are nested within the
+person, individuals live in the same neighborhood would have similar physical environments with regard to
+disorder at the community level. As a special case of structural equation modeling (SEM), LGCM is well suited
+for modeling mediation paths (H3, H6). Besides, the LGCM is capable of testing the moderating effects of ICT
+use (H7).° Root mean square error of approximation (RMSEA), comparative fit index (CFI), and Tucker-Lewis
+index (TLI) were used to evaluate the extent to which each model fits the data. RASWEA<0.05, CFI, and TFI >
+0.90 would be considered as an acceptable model fit; CFI and TFI greater than 0.95 indicate good model fit.©°
+LGCM models will be run with Mplus 8. Full Information Maximum Likelihood (FIML) estimation was used to
+handle missing data in models. FIML is a single step maximum likelihood approach that is widely used in
+structural equation modeling.°”®* Sampling weight will be applied to the models to match the representativeness
+of the racial/ethnic groups as designed in the sampling strategies.
+2.1.2. Qualitative inquiry with I-CONECT participants
+
+2.1.2a. Data collection and procedure
+
+Focus group participants will be recruited purposefully among the current [-CONECT participants. Based on
+the strategy of maximum variation,® individuals with diverse living environment conditions will be selected to
+participate in the focus group discussion. Focus group members will be selected from both study sites of I-
+CONECT (OHSU & UM). Two focus groups will be held at each site: one with intervention group participants,
+the other with control group participants. It is targeted for each focus group to have 8 participants (total N=32).
+To avoid contamination of the intervention effect, only participants who have completed the I-CONCET study will
+be invited to join the focus group study. Given the study timeline of the I-CONECT, the qualitative inquiry will
+extend from F99 phase to KOO phase. The interview guide will be developed informed by concepts in ETA and
+in consultation with experts with qualitative/mixed-methods research specialties (Palinkas) and with the best
+knowledge of I-CONECT participants (Dodge). The PD/PI (Yu) will facilitate the focus group discussion at both
+OHSU and UM.
+
+2.1.2b. Qualitative data analysis
+
+Conversations in focus group sessions will be audio-recorded and then transcribe verbatim for analysis. The
+transcripts will be analyzed using inductive content analysis method by at least two trained independent coders.”
+The coders are going to collaborate with qualitative analysis software Nvivo 12. The qualitative data coding team
+will meet regularly to discuss the coding framework, procedure, and to reconcile different opinions and
+interpretations of the quotations in the transcripts. The team will employ Cohen’s kappa coefficient as the
+indicator for inter-rater reliability.”" Themes identified in the coding process will be reorganized and made sense
+of according to the personal and living environmental characteristics of the participants.
+2.1.3. Integration of quantitative and qualitative data
+
+The qualitative and quantitative inquires of the dissertation work will occur concurrently. The main purpose of
+adopting the mixed-methods is using qualitative data to explain why there might be effects of physical and social
+environments on social isolation. The qualitative focus groups expanded the discussions on the findings
+identified in the quantitative analysis.” Meanwhile, participant's insights on designing a sustainable
+environmental-focused technology program to address social isolation and promote cognitive health will be
+elicited. The findings of both qualitative and quantitative components of the dissertation work together as
+foundations for developing an intervention program that can be pilot tested in the postdoctoral training phase
+and beyond.
+2.2. K00- postdoctoral stage
+2.2.1. I-CONECT
+
+2.2.1a. Study design
+
+I-CONECT study is being conducted in collaboration by Oregon Health and Science University (OHSU) and
+the University of Michigan (UM) (ClinicalTrials.gov Identifier: NCT02871921). One hundred sixty socially isolated
+adults aged 75 plus will be recruited at each site (OHSU & UM) and randomized into either the video-chat
+intervention group and the control group. As of October 2019, 105 subjects are already participating in the trial.
+
+Research Strategy Page 61
+
+
+============================================================
+Page 10
+Section: Research Strategy
+============================================================
+
+Contact PD/PI: Yu, Kexin
+
+The inclusion criteria are aged 75 or older, consent to magnetic resonance imaging (MRI) if eligible, socially
+isolated, adequate vision and hearing, understand English, and normal cognition or MCI (based on consensus
+diagnosis). The intervention group participants received computers and internet service during the intervention,
+which ensures the participants can video chat with study staff for 30 minutes/day, 4 times/week for 6 months
+(high does), and 2 times/week for an additional 6 months (maintenance dose). Study staff briefly check-in by
+phone call (approximately 10 minutes) with both intervention and control group participants once per week. [n-
+home neuropsychological assessments will be administered at baseline, 6 months, and 12 months. All
+participants would have MRI scans at baseline and 6 months if MRI were safe for them. All video chat and in-
+home assessment sessions are being recorded for language analysis. Participants at OHSU will have their
+medication compliance tracked using electronic pillboxes. The estimated primary completion date for -CONECT
+study is Oct 2022. The expected study completion date, including the data analysis phase, is Oct 2023.
+
+2.2.1b. Measurements
+
+Cognitive functioning. The primary intervention outcomes are executive and memory functioning assessed
+with cognitive tests using National Alzheimer’s Coordinating Center Uniform Data Set neuropsychological battery
+(UDS V3: https://www.alz.washington.edu/WEB/dataforms_main.html), cross-validated by NIH Toolbox.”
+Region-specific structural and functional pre-post changes in the brain are evaluated with magnetic resonance
+imaging (MRI). Speech and language characteristics are captured during each video chats as well as in-home
+assessments. Medical adherence measured with electronic pillboxes. Compared to traditional self-reported
+medical adherence, the digital biomarker collected with electronic pillboxes can eliminate the social desirability
+bias and record the exact time when the participants opened the pillboxes.” Social Isolation was defined as: i.
+Score <12 on the 6-item Lubben Social Network Scale (LSNS-6);” or ii. Engages in conversations lasting 30
+minutes or longer no more than twice per week, per subject self-report.
+
+2.2.1c. Intervention effects evaluation plan
+
+Among the outcomes measured in I-CONECT, my interests focus on cognitive health and social isolation. |
+will collaborate with IL CONECT team to examine the intervention effects. The high dose (baseline to 6 months)
+and the maintenance dose (6 months to 12 months) will be exanimated separately. Data will be analyzed to
+evaluate the differences in cognitive function change and extent of social isolation from baseline to 6 months
+between the intervention and the control groups. Similar analyses will be conducted for the change between 6
+months to 12 months. Finally, the combined intervention effects of the high dose and the maintenance dose
+intervention on cognition and social isolation will be evaluated.
+
+2.2.2. Co-design a technology-facilitated community-based intervention with older adult participants
+
+Despite the empirically supported benefits of ICT for older adults' wellbeing, the majority of the currently
+available technology tools, such as social media sites, mobile health apps, are not designed with older adults’
+unique needs in mind. Older people often are not included as part of the intervention/technological tool
+development team. It was not until recent years the researchers in the health service and related fields start to
+employ a co-design approach to try to develop programs from the perspective of the populations it aims to
+serve.’*-? On the other hand, anxiety and resistance remains among the older adult population when it comes
+to learn, trust and safely adopt new technologies.” *" | aspire to co-design a technology-facilitated community
+intervention to reduce social isolation and to prevent cognitive decline at the KOO research phase, which can
+lead to future research agenda on pilot testing the potential effects and feasibility of the intervention program
+after | become a tenure-track faculty.
+
+Previous research summarized six steps in developing a quality intervention, which are 1) defining and
+analyzing the problem; 2) identifying modifiable factors; 3) deciding on the intervention mechanism; 4) clarify the
+intervention delivery process; 5) testing and revising the intervention; 6) a more rigorous effectiveness
+evaluation.** The proposed dissertation work will address steps 1 to 4 in intervention development. More
+specifically, the longitudinal quantitative analysis will analyze the problem of social isolation and cognitive decline,
+identifying physical and social environmental factors as modifiable points and potential intervention mechanisms.
+The focus groups with I-CONECT participants will help to collect preliminary information on the participant's
+opinion towards the intervention design and clarify the intervention delivery process that fits the needs of the
+older adults.
+
+In the K00 phase, | plan to synthesize the evidence build with I-CONECT intervention and conduct
+more qualitative co-design sessions with isolated older adults who are at risk of cognitive decline.
+Collaborating with I-CONECT team, my research activities at the postdoctoral stage will further clarify the
+intervention mechanism and intervention delivery process. Experts panels will be formulated to consult the
+development of the intervention, which includes the sponsors of the current proposal and other researchers and
+experts | will meet with in the future.
+
+Research Strategy Page 62
+
+
+============================================================
+Page 11
+Section: Research Strategy
+============================================================
+
+Contact PD/PI: Yu, Kexin
+Sponsor and Co-Sponsor Statements
+A. Research Support Available
+Chi
+|
+———" |
+Wu
+SS
+Dodge
+Phase II (Dodge, PI), 09/01/16 — 05/31/21
+MCI: Phase | (Dodge, PI), 07/01/17 — 03/31/22
+ORCATECH Collaborative Aging (in Place) Research Using Technology (CART)
+(Kaye, PI), 09/01/16 - 08/31/20
+pPains
+Behavior (Brown, PI), 9/1/16 —6/30/21
+01A1 Children, Youth and Families (Hoagwood, PI), 9/21/19 — 4/30/23
+NICHD RO1 HD092489- Dissemination and implementation of the Safe Environment for Every Kid
+01A1 (SEEK) Model for Preventing Child Maltreatment. (Dubowitz, PI), 4/1/19 —
+8/31/23
+B. Sponsor’s/co-sponsor’s Previous Fellows/Trainees
+Chi — has mentored 32 doctoral students and postdoc fellows in total
+Xinming Song 1991-1995 Professor, Peking University
+Vivian Lou 1993-1999 Associate Professor, University of Hong Kong
+Angela Leung 2000-2007 Associate Professor, Hong Kong Polytechnic University
+Man Guo 2005-2011 Associate Professor, University of lowa
+Ling Xu 2007-2012 Assistant Professor, University of Texas, Arlington
+Wu — has mentored 15 doctoral students and postdoc fellows in total
+Irene Vidyanti 2009-2014 Data Scientist, Los Angeles County Chief Information Office
+Magaly Ramirez 2011-2016 Assistant Professor, University of Washington
+Haomiao Jin 2012-2016 Research Assistant Professor, University of Southern California
+Dodge — has mentored 17 doctoral students and postdoc fellows in total
+Adriana Seeley 2014-2017 Assistant Professor, Minnesota VA hospital
+Meysam Asgari 2014-2016 Assistant Professor, Oregon Health and Science University
+Junko Nishihira 2014-2016 Assistant Professor, Ryukyu University
+Jiayu Zhou 2016-2018 Assistant Professor, Michigan State University
+Ming Li 2017-2018 Researcher, Alibaba Seattle
+Sponsor and Co-Sponsor Statements Page 66
+
+
+============================================================
+Page 12
+Section: Research Strategy
+============================================================
+
+Contact PD/PI: Yu, Kexin
+Palinkas — has mentored 70 doctoral students and postdoc fellows in total
+Maxwell Davis 2007-2008 Director of the CALSWEC Mental Health Program,
+University of California, Berkeley
+lan Holloway 2010-2012 Associate Professor, University of California, Los Angeles
+Kim Brimhall 2016-2017 Assistant Professor, Binghamton University
+C. Training Plan, Environment, Research Facilities
+
+Ms. Yu proposes to examine the longitudinal influence of physical and social living environments on social
+isolation and cognitive health among older adults with National Health & Aging Trends (NHATS) data. The
+proposed dissertation will be the known first to contextualize the role of ICT use through examining the interaction
+effects of the physical environment with ICT use and the social environment with ICT use on social isolation and
+cognitive decline. An ecological perspective has rarely been adopted to studying the intertwined relationships
+between social well-being and cognitive health. With the population aging rate continues to increase, Ms. Yu’s
+research will enhance the research field’s understanding of the ecological support system on mental health and
+cognition in the rapidly changing society. Ms. Yu proposes to develop and pilot testing a community-based
+intervention that has the potential to provide a sustainable solution to keep the older adults socially connected
+and prevent the onset of dementia. Her work will be meaningful to address the challenge of social isolation and
+the burden of care brought by the increasingly prevalent ADRD conditions. Ms. Yu’s training plan incorporates
+both coursework, seminars, and mentorship opportunities provided by sponsors with diverse and complementary
+skillsets. The proposed research and training agenda works together to advance Ms. Yu’s research skills and
+scholarship.
+
+With the receipt of this award, Ms. Yu will have the opportunity to receive training from an outstanding
+mentoring team made up of leaders in the fields of Neurology, Engineering, Anthropology, and Social Work.
+Each of the sponsors has influential research works committed to improving the quality of lives for the older adult
+population. The sponsor team members will collaborate to aid Ms. Yu to achieve her long term career goal of
+becoming an independent social scientist and an impactful intervention researcher that dedicated to improve
+social well-being and prevent cognitive decline. Ms. Yu will work with Dr. Wu to further gain expertise in using
+technology-facilitated tools to improve health outcomes and increase access to health care for the populations
+in need. She will work with Dr. Dodge to increase her understanding of cognitive health and dementia research,
+to grow her capacity of neuroimaging methodology and using digital biomarkers in her research. Ms. Yu will work
+with Dr. Palinkas to refine her skills in mixed-methods research and receive consultation on designing and
+implementing community-based health interventions. Ms. Yu will apply the skills developed from the
+individualized training plan to write her dissertation, seek to publish in high-impact journals, and develop a
+research agenda beyond the postdoctoral training stage than leads to her career success.
+
+| serve as the primary sponsor of Ms. Yu’s F99/KO0 application. | will be the coordinator for communication
+among the co-sponsors. Depending on my 30 years of experience in conducting research on health and mental
+health outcomes with the older adult population, | will provide content and professional development expertise
+on: (a) interpretation of the longitudinal analysis and qualitative results; (b) integration of qualitative and
+quantitative findings; (c) developing and/or adapting social isolation and cognitive health intervention in
+collaboration with the target age group and community-based organizations; and (d) scientific writing and
+navigating the peer-review process. Working with the sponsoring team, Ms. Yu has identified the following
+training goals and listed specific plans that lead to achieving these goals.
+
+Training Goal 1: Ms. Yu will increase knowledge in prevention, intervention, and current practice and
+policy pertain cognitive decline in normal aging and the development of ADRD. Dr. Wu is currently
+conducting research with older adults with ADRD and their family caregivers. She will connect Ms. Yu with
+researchers with similar interests at the USC Alzheimer’s Disease Research Center (ADRC). Ms. Yu will work
+with Dr. Wu and myself to develop a literature review database on cognitive health and ADRD research. Dr. Wu
+leads a health system journal club with graduate students under her supervision. At the bi-weekly journal club,
+Ms. Yu will have opportunities to present her learned ADRD related knowledge. She will have interactive
+discussions and receive feedback from peers and Dr. Wu and myself. The journal club and involvement at the
+USC ADRC will formulate an intellectual community and academic support system that will benefit Ms. Yu’s
+professional development and assist her in achieving the training goal 1.
+
+Dr. Dodge is an expert in pharmacological and non-pharmacological intervention strategies are urgently
+needed to delay the onset of dementia and reduce its societal burden. She has contributed to the knowledge of
+distinguishing the normal cognitive aging and pathological cognitive decline. Dr. Dodge is the Principal
+Investigator of Internet-based Conversational Engagement Clinical Trial (I-CONECT, NIA RO1AG056102,
+
+Sponsor and Co-Sponsor Statements Page 67
+
+
+============================================================
+Page 13
+Section: Research Strategy
+============================================================
+
+~. Ph.D. Program
+Suzanne sch! tbs ons
+Associate Professor
+Director of Doctoral Programs and Chair of the PhD Program
+Or. — eC Suzanne Dworak-Peck School of Social Work
+Schoo lof Social Work University of Southern California (USC)
+October 2019
+Hi 4 4
+From: Michael Hurlburt, Ph.D. co
+Associate Professor ees
+Director of Doctoral Programs and Chair of the Ph.D. Program
+Suzanne Dworak-Peck School of Social Work
+University of Southern California (USC)
+RE: Kexin Yu, PhD Candidate-at the University of Southern California, Suzanne _Dworak-
+Peck School of Social Work . ;
+Description of Institutional Environment & Commitment to Training
+Dear Sir/Madame,
+
+Social Work Ph.D. Program. The USC Suzanne Dworak-Peck School of Social Work (USCSSW) established
+the first social work doctoral Program in the western United States in 1953. Today we continue the tradition of
+admitting highly motivated, self-directed individuals interested in university research and teaching. Students
+Pursue an in-depth, Customized course of study in an atmosphere of careful mentoring and respect for
+scholarship. Our doctoral curriculum is highly interdisciplinary with the intent of Producing graduates who are
+Capable of original research and passionate about advancing the profession’s knowledge base. Our program
+fosters early engagement in research and Publication, together with a structured and Sequential experience in
+classroom teaching. Unique developmental opportunities are offered to improve students’ presentation skills,
+networking with other universities, and leadership potential, Our goal is to make students competitive for the
+best available Positions in this country and elsewhere in this world,
+
+Program Structure. Doctoral students at USCSSW are required to complete a minimum of 45 course units
+beyond the master's degree (exclusive of the Doctoral Dissertation). During the first year of the PhD Program,
+Students complete 8 Courses (16 units) in social work policy practice and research and Participate in faculty-
+directed research Projects. Core Substantive Courses include: Theories of Human Behavior in the Context of
+Social Environments; Explanatory Theories for Larger Social Systems; Theories for Practice with Small and Large
+Systems. Core Research/Statistics Courses include: Introduction to Social Work Statistics; Multiple Regression
+in Social Work Research; Advanced Social Work Research Methods. During the second year of the PhD Program,
+Students are required to enroll in advanced multivariate statistics and at least three courses (per semester) in
+other departments or schools within the university. At least eight of these 12 units must be in courses with a
+substantive rather than a research methodology or statistics focus. Additional second year requirements include
+three student-directed tutorials (2-unit) under the mentorship of a social work faculty member. Tutorials provide
+
+greater understanding of the student's chosen specialty through a closer examination of relevant practice
+theories, explanatory theories, and research methodologies. Each tutorial is designed to Produce a study of
+publishable quality. In the third year of the PhD Program, students must pass a qualifying examination in their
+research area, which consists of a written Paper of publishable quality and includes an Oral defense. After Passing
+the qualifying exam, students are advanced to candidacy. Year Four and Beyond- Dissertation: Before
+proceeding with the dissertation, students must establish a dissertation committee approved by the Graduate
+School and submit a dissertation Proposal for approval. Students submit their completed dissertation to their
+dissertation committee and orally defend it.
+University of Southern California
+oS eee—EeeEeEeE
+Page 77
+CP

@@ -1,0 +1,201 @@
+SECTION: BACKGROUND
+============================================================
+
+
+[Page 1]
+Contact PD/PI: Yu, Kexin
+Background and Goals for Fellowship Training
+A. Doctoral Dissertation and Research Experience
+
+My research interests in understanding the aging process and improving the quality of life for older adults
+were first developed in the three-year research assistant experience in the lab of aging and cognition at Zhejiang
+University. | applied for the Zhejiang Province Undergraduate Innovation and Entrepreneurship Fellowship and
+was funded to test the reliability and feasibility of using an internet administered 9-item Patient Health
+Questionnaire (PHQ-9) as a depression screening tool for Chinese older adults. Furthermore, we developed a
+cellphone application, integrating the function of self-diagnosis, mood monitoring, and online intervention
+materials. The mobile app encompasses Problem Solving Therapy courses filmed by our team to improve
+patients’ access to therapy resources. | was drawn to explore the potentials of employing information and
+communication technology (ICT) to improve older adults’ quality of lives through the first experience of using
+mobile technology to deliver mental health services. This research experience produced a paper published in
+Asia-Pacific Psychiatry.
+
+As a first-generation college student at Zhejiang University, | seized as many opportunities to get research
+training as | possibly could. | found gratification in building new knowledge and was fascinated by the possibilities
+in making positive change using research. | visited the University of Surabaya to collaborate with researchers in
+Indonesia to conduct cross-culture research. | worked with Dr. Christ Mayhorn on the topic of evaluating the
+social engineering of phishing attacks at North Carolina State University. | was selected as one of the three
+undergraduates at Zhejiang University to work as a paid research intern at the University of Alberta at the School
+of Nursing. During the three-months internship, | worked with Drs. Carole Estabrooks and Matthias Hoben on
+the Translating Research in Elder Care program. | studied how does the working environments of nursing homes
+affect the physical and mental health of its employees. | also participated in a systematic review on the topic of
+the barriers and facilitators of oral health care for older adults residing in nursing homes, which was published in
+the International Journal of Nursing Studies. My experiences at multiple cities in China, Indonesia, Canada, and
+the United States exposed me to the rich cultures at diverse regions of the world, which inspires and empowers
+me to research with populations with diverse backgrounds. Through working on aging-related research topics, |
+realized the vast unmet needs in research and practice with the older adult population in my China and globally.
+| decided to commit my research to this vulnerable group with complex challenges.
+
+By the end of my undergraduate training, | had a strong aspire and a clear vision of becoming an investigator
+in applied science. Therefore, | applied for the MSW/PhD dual degree program at the University of Southern
+California Suzanne Dworak-Peck School of Social Work (USC SSW). Located in central Los Angeles, USC
+provides a unique research environment for studying older adults with diverse cultural backgrounds and linguistic
+preferences. Driven by my interest in employing technology to improve older adults’ health outcomes, |
+participated in the Intergenerational Mobile Technology Opportunities Program (IMTOP) led by Drs. Shinyi Wu
+and Iris Chi. The Intergenerational Mobile Technology Opportunities Program (IMTOP) is a mHealth intervention
+that recruited college-student tutors to help older patients to learn how to use mobile technology and a health
+tracking app to facilitate diabetes self-management. Using the data collected in the IMTOP intervention study,
+my first-authored paper reporting the longitudinal IMTOP intervention effects in rural Taiwan won the 2018 APHA
+Nobuo Maeda International Research Award. The manuscript was submitted to The Diabetes Educator and is
+currently under review. Additionally, | presented more results from the IMTOP study at annual scientific meetings
+of the Society of Social Work and Research and Gerontological Society of America. The hands-on research
+activities conducted with IMTOP not only helped me learn substantial knowledge in designing and implementing
+mobile health (mHealth) interventions but also gained excellent training in theoretical thinking and scientific
+writing. Furthermore, IMTOP study leads to two more research opportunities in which | contributed significantly
+— IMTOP pilot study for immigrant populations in Los Angeles and a feasibility study of an intergenerational
+mHealth program for affordable housing communities (IMPAHC) in Sacramento.
+
+Encouraged by the promising intervention effects found in Taiwan, we decided to adapt the IMTOP
+intervention to meet type 2 diabetes management needs for immigrants in Los Angeles. I led [MTOP pilot study
+to test the feasibility of using the technology-facilitated diabetes self-management intervention to address the
+prevalent problem of type 2 diabetes (T2D) among first generation Chinese and Hispanic immigrants. The
+research project adopts a mixed-method approach, using both survey and individual semi-structured interviews
+to collect data. The research project is a collaboration between USC Edward R. Roybal Institute on Aging and
+four community-based organizations serving recent Chinese and Hispanic immigrants. | paid weekly visits to all
+four community collaborators and communicated with managers and staff members of the organizations to
+formulate our research plan. | supervised 3 MSW students and one undergraduate student and provided training
+in qualitative research methods and questionnaire administration. Working together, we have collected 140
+
+Applicant's Background and Goals for Fellowship Training Page 50
+
+
+[Page 2]
+Contact PD/PI: Yu, Kexin
+questionnaires with recent immigrants with type 2 diabetes and conducted 24 in-depth individual interviews with
+participants who speak Cantonese, Mandarin, and Spanish. Because of this pilot study, | had the opportunity to
+work closely with community-based organizations and gained experience in data collection and research
+program management. The IMTOP pilot study yields two manuscripts under preparation.
+
+The results of the IMTOP pilot study highlighted the importance of social, cultural environments on health
+outcomes. Collaborating with community-based organizations significantly increased our access to the target
+population of the intervention and provided future avenues for disseminating the research results. Employing
+what we learned in both [MTOP and IMTOP pilot study, Dr. Wu, Dr. Chi, and | submitted a proposal to the USC
+SSW Adult Mental Health and Well-being (AMHW) department and were awarded a pilot funding for exploring
+the feasibility of delivering a mobile health facilitated T2D intervention at affordable retirement communities
+(ImPAHC). I served as a co-investigator on the ImPAHC study. We paid visits to three retirement communities
+and conducted semi-structured interviews with professionals and staff and had focus group discussions with
+older adult residents. | am working with two other graduate students to analyze the qualitative data with thematic
+content analysis methods. Working with retirement housing communities inspires me to investigate the aging
+process and social determinants of health through the lenses of ecological theory, which leads to my decision of
+investigating the physical and social environments in my dissertation research.
+
+Besides research opportunities provided in the doctoral program, the MSW training of the dual degree
+program provided opportunities for me to gain clinical practice experience and work directly with older adults in
+my field placement. [ interned at ABC Adult Day Health Care Center for 20+ hours per week during my first year
+in the MSW/PhD dual degree program. In my clinical practice, | witnessed the prevalent loneliness and social
+isolation among seniors and observed the strong wishes of older adults in getting connected with family and
+friends. Social isolation and loneliness have become the primary outcomes in my research since then. Many
+older adults came to consult me on how to use their mobile phones to contact friends and sharing meaningful
+memories online with their families. My experience working closely with older adults affirm the value of
+addressing social isolation by bringing information technology to older adult’s life.
+
+My clinical practice and research experiences made me aware that the majority of the currently available
+technology tools, such as social media sites, mobile health apps, are not designed with older adults’ unique
+needs in mind. Older people often are not included as part of the intervention/technological tool development
+team, which adds barriers for older people to learn to use technology. To address this issue, | serve as a co-
+investigator on a research project, led by Drs. Wu and Chi, employing a participatory co-design approach to
+develop a caregiver self-management program (CSMP) app for the Chinese immigrant caregivers of older adults.
+The co-design CSMP app proposal was funded by the USC Clinical and Translational Science Institute (CTSI)
+and AMHW pilot awards. We have completed the conceptual design, interactive prototype testing, and internal
+real-life condition testing phases of the co-design process. | am currently working with a graduate student
+colleague to conduct qualitative data analysis and drafting the manuscript reporting the unique needs of the
+Chinese immigrant caregiver population and their acceptance of technology-facilitated interventions. The CSMP
+app co-design study preliminarily supported the feasibility of delivering a traditional in-person intervention with a
+mobile technology platform. | also gained first-hand experience using the co-design process for intervention tool
+development and pilot research.
+
+| pursued my interest in studying social isolation and loneliness in directed research tutorials and my qualifying
+exam project. Using data from the Health and Retirement Study (HRS), | exanimated the longitudinal association
+between internet use and loneliness for older people. The manuscript prepared with this work is currently in
+revision and resubmission. Because of my strong interests in statistical methodology, | sought training in
+structural equation modeling (SEM) and longitudinal data modeling at the Inter-university Consortium for Political
+and Social Research (ICPSR) summer training at the University of Michigan. Learning advanced statistical
+methodology enabled me to model the relationships of key variables of interests in a sophisticated manner. |
+further horned my data management and modeling skills in the process of conducting independent research with
+the qualifying exam. The qualifying exam project examined the longitudinal bidirectional relationship between
+the accumulation of geriatric conditions and loneliness. The study results were rich enough to be reported in two
+separate manuscripts that will be submitted to top gerontology journals.
+
+Socially isolated older adults are at high risk of cognitive decline and the onset of Alzheimer’s disease and
+related dementias (ADRD). My past research experiences shaped the path for me to study the longitudinal
+association between environmental factors, social isolation, and cognitive health. With the awareness that
+cognitive health in later life is a new research field for me, | sought the highly individualized training opportunities
+that could be made possible with the F99/K00 award. If awarded, this funding opportunity will enable me to
+
+Applicant's Background and Goals for Fellowship Training Page 51
+
+
+[Page 3]
+Contact PD/PI: Yu, Kexin
+receive exceptional training and mentored research, transition my research directions and help me grow into an
+independent investigator conducting social isolation and cognitive health research from an ecological perspective.
+B. Training Goals and Objectives
+
+My research is guided by the overarching goal of promoting long, healthy, and meaningful lives. My long-term
+career development objective is to build substantial knowledge that leads to effective interventions from a social-
+ecological/community engagement perspective to reduce social isolation and prevent cognitive decline. |
+envision myself to be a leading scientist in a renowned research-oriented university and making impacts with my
+research on social isolation and cognitive health. For the F99/K00 award tenure, | aspire to gain knowledge in
+cognitive health and ADRD research, receive training in analyzing high-frequency digital biomarkers longitudinal
+data and neuroimaging methodologies, and expand experience in intervention development, implementation,
+and assessment. Working with my sponsors, | developed the following specific training goals and objectives and
+descried how we plan to collaborate to achieve the training goals.
+
+Training Goal 1: increase knowledge in prevention, intervention, and policy pertaining to cognitive
+decline in normal aging and the development of ADRD. [ will work with my co-sponsors, Dr. Iris Chi, Dr.
+Shinyi Wu, and Dr. Hiroko Dodge, to get immersed in cognitive health research. | will systematically learn the
+protective and risk factors of cognitive decline, currently available treatment, and interventions for ADRD through
+mentored research. | have already been actively engaged in the academic activities at the USC Edward R.
+Roybal Institute on Aging and have been attending research meetings where frontier aging and ADRD related
+research findings are presented. With the receipt of the F99/KOO, | will get involved with the Alzheimer's Disease
+Research Center (ADRC) at USC and the Layton Aging and Alzheimer’s Disease Center at Oregon Health and
+Science University (OADC). Dr. Wu will help me to get connected with researchers at USC ADRC. | will learn
+new progress in ADRD research by getting engaged with USC ADRC and building collaborative relationships for
+future research. Dr. Dodge will be the liaison for the resources at OADC, directing me to the personals and
+research cores according to my learning needs. Dr. Dodge and Dr. Wu will provide directed reading to facilitate
+my learning for substantial topics related to cognitive decline and ADRD. | will present and discuss the papers
+with peers and mentors in our regular journal club hosted by Dr. Wu. Additionally, [ will join through Zoom the
+monthly OADC investigator meeting held at OHSU where researchers present to critique their ongoing research
+and proposals. [ plan to take a course at the USC School of Gerontology dedicated to discussing special issues
+on cognitive decline and ADRD. This course covers cognitive decline for people with Alzheimer’s Disease or
+
+The new knowledge in
+cognitive health gained through the F99 phase will enable me to conduct informed cutting-edge research at the
+KOO phase and beyond.
+
+Training Goal 2: gain skills in analyzing high-frequency digital biomarkers longitudinal data and
+employing neuroimaging methods. Through conducting research with the IMTOP study data, | had some
+experience in utilizing biomarker measures, such as blood pressure and blood glucose, yet | have not
+systematically learned about assessing and analyzing biomarker data in ADRD related research. Cognitive
+health studies often require the use of bio-marker indicators to objectively evaluate the intervention effect or
+longitudinal changes in brain functioning. Neuroimaging methodology is widely used in ADRD related research,
+which allows the researchers to link the variation observed in behavioral testing of cognition with activities in the
+brain. Learning to assess biomarkers as key variables in my research and using neuroimaging methods will
+enable me to have in-depth discussions with a broader scientific audience, including but not limited to
+researchers in fields of Social Work, Neurology, Gerontology, and Engineering. Using biomarker and
+neuroimaging methodology will also equip me to build knowledge on detecting early-stage brain changes related
+to cognitive decline, which can produce scientific evidence that informs social work intervention and practice with
+the socially isolated older adults. | plan to receive training conduct hands-on research in Neuroimaging methods
+in the KOO stage, at the OADC Neuroimaging core. The OADC is also specialized in collecting digital bio-marker
+data. Digital biomarkers are collected using wearable devices in a nonintrusive manner, such as walking speed
+assessed using in-home sensors. Enhancing my capacity of understanding and using digital biomarker data will
+expand the spectrum of outcomes | can investigate, including those indicators that are essential for ADRD
+research.
+
+[ will horn my longitudinal data analysis skills in the process of analyzing four waves of longitudinal data from
+the NHATS study, which prepares me to analyze high-frequency digital biomarker longitudinal data in the KOO
+phase. I will complete a self-directed course on using R programming to handle large longitudinal datasets and
+run sophisticated models that is suitable for answering my research questions, such as multi-level modeling,
+structural equation modeling, and Bayesian inference models.
+
+Applicant's Background and Goals for Fellowship Training Page 52
+

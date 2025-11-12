@@ -260,6 +260,20 @@ class MultiAgentOrchestrator:
                 print(f"Error from {agent.name}: {error_msg}")
         
         return responses
+
+    def send_message_to_agent(self, agent_name, message):
+        """Send a message to a specific agent by name with blockchain integrity."""
+        agent = self.get_agent_by_name(agent_name)
+        if not agent:
+            return f"Error: Agent '{agent_name}' not found"
+        
+        if not agent.active:
+            return f"Error: Agent '{agent_name}' is not active"
+        
+        try:
+            return self.send_message_with_integrity(agent, message)
+        except Exception as e:
+            return f"Error sending message to {agent_name}: {e}"
     
     def send_vulnerability_analysis(self, source_agent_name):
         """

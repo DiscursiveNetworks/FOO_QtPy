@@ -76,46 +76,69 @@ class AgentTextEdit(QTextEdit):
 
 
 class AgentWorker(QThread):
-    """Worker thread for agent message processing"""
+    """Worker thread for agent message processing using orchestrator"""
     result_ready = pyqtSignal(str)
     
-    def __init__(self, agent, message):
+    def __init__(self, orchestrator, agent_name, message):
         super().__init__()
-        self.agent = agent
+        self.orchestrator = orchestrator
+        self.agent_name = agent_name
         self.message = message
     
     def run(self):
         try:
-            response = self.agent.send_message(self.message)
+            # Use orchestrator's send_message_to_agent which handles history
+            response = self.orchestrator.send_message_to_agent(self.agent_name, self.message)
             self.result_ready.emit(response)
         except Exception as e:
             self.result_ready.emit(f"Error: {e}")
 
 
-class VulnerabilityWorker(QThread):
-    """Worker thread for vulnerability analysis"""
-    result_ready = pyqtSignal(str, str)  # (request, response)
+class BroadcastWorker(QThread):
+    """Worker thread for broadcast messages using orchestrator"""
+    results_ready = pyqtSignal(dict)
     
-    def __init__(self, source_agent, target_agent):
+    def __init__(self, orchestrator, message):
         super().__init__()
-        self.source_agent = source_agent
-        self.target_agent = target_agent
+        self.orchestrator = orchestrator
+        self.message = message
     
     def run(self):
         try:
-            if not self.source_agent.latest_response:
+            # Use orchestrator's broadcast_message which handles history
+            responses = self.orchestrator.broadcast_message(self.message)
+            self.results_ready.emit(responses)
+        except Exception as e:
+            self.results_ready.emit({"Error": str(e)})
+
+
+class VulnerabilityWorker(QThread):
+    """Worker thread for vulnerability analysis using orchestrator"""
+    result_ready = pyqtSignal(str, str)  # (request, response)
+    
+    def __init__(self, orchestrator, source_agent_name, target_agent_name):
+        super().__init__()
+        self.orchestrator = orchestrator
+        self.source_agent_name = source_agent_name
+        self.target_agent_name = target_agent_name
+    
+    def run(self):
+        try:
+            source_agent = self.orchestrator.get_agent_by_name(self.source_agent_name)
+            if not source_agent or not source_agent.latest_response:
                 self.result_ready.emit("", "No response available from the other agent to analyze")
                 return
             
             # Create vulnerability analysis prompt
             request_message = (
-                f"The other agent ({self.source_agent.name}) provided the following response. "
+                f"The other agent ({self.source_agent_name}) provided the following response. "
                 f"Your task is to critically analyze this response and identify any flaws, "
                 f"weaknesses, unsupported claims, logical inconsistencies, or areas that need improvement:\n\n"
-                f"{self.source_agent.latest_response}"
+                f"{source_agent.latest_response}"
             )
             
-            response = self.target_agent.send_message(request_message)
+            # Use orchestrator to send message (which handles history)
+            response = self.orchestrator.send_message_to_agent(self.target_agent_name, request_message)
             self.result_ready.emit(request_message, response)
             
         except Exception as e:
@@ -123,30 +146,33 @@ class VulnerabilityWorker(QThread):
 
 
 class ReflectionWorker(QThread):
-    """Worker thread for reflection analysis"""
+    """Worker thread for reflection analysis using orchestrator"""
     result_ready = pyqtSignal(str, str)  # (request, response)
     
-    def __init__(self, source_agent, target_agent):
+    def __init__(self, orchestrator, source_agent_name, target_agent_name):
         super().__init__()
-        self.source_agent = source_agent  # Agent providing critique
-        self.target_agent = target_agent  # Agent reflecting on its own work
+        self.orchestrator = orchestrator
+        self.source_agent_name = source_agent_name  # Agent providing critique
+        self.target_agent_name = target_agent_name  # Agent reflecting on its own work
     
     def run(self):
         try:
-            if not self.source_agent.latest_response:
+            source_agent = self.orchestrator.get_agent_by_name(self.source_agent_name)
+            if not source_agent or not source_agent.latest_response:
                 self.result_ready.emit("", "No critique available from the other agent")
                 return
             
             # Create reflection prompt
             request_message = (
-                f"The other agent ({self.source_agent.name}) has provided the following observations "
+                f"The other agent ({self.source_agent_name}) has provided the following observations "
                 f"and critique of your previous response. Please reflect on this feedback and regenerate "
                 f"your response, addressing the valid concerns while explaining why you might disagree "
                 f"with any points you find incorrect:\n\n"
-                f"{self.source_agent.latest_response}"
+                f"{source_agent.latest_response}"
             )
             
-            response = self.target_agent.send_message(request_message)
+            # Use orchestrator to send message (which handles history)
+            response = self.orchestrator.send_message_to_agent(self.target_agent_name, request_message)
             self.result_ready.emit(request_message, response)
             
         except Exception as e:
@@ -214,6 +240,7 @@ class PDFWorker(QThread):
                 
         except Exception as e:
             self.result_ready.emit(f"Error processing PDF: {str(e)}")
+
 
 class AgentPanel(QGroupBox):
     """Panel for a single agent with controls"""
@@ -323,27 +350,21 @@ class AgentPanel(QGroupBox):
         self.vulnerability_btn.setEnabled(False)
         self.reflection_btn.setEnabled(False)
         
-        self.worker = AgentWorker(self.agent, message)
+        # Use orchestrator worker
+        self.worker = AgentWorker(self.orchestrator, self.agent.name, message)
         self.worker.result_ready.connect(self.on_response_ready)
         self.worker.start()
     
-    def send_broadcast_message(self, message):
-        """Receive broadcast message"""
-        if not self.agent:
-            return
-        
-        self.output_area.append(f"\n{'='*60}")
-        self.output_area.append(f"📢 Broadcast → {self.agent.name}:")
-        self.output_area.append(message)
-        self.output_area.append(f"{'='*60}\n")
-        
-        self.input_area.setEnabled(False)
-        self.vulnerability_btn.setEnabled(False)
-        self.reflection_btn.setEnabled(False)
-        
-        self.worker = AgentWorker(self.agent, message)
-        self.worker.result_ready.connect(self.on_response_ready)
-        self.worker.start()
+    def receive_broadcast_response(self, agent_name, response):
+        """Receive broadcast response for this agent"""
+        if self.agent and self.agent.name == agent_name:
+            self.output_area.append(f"💬 {agent_name} responds:")
+            self.output_area.append(response)
+            self.output_area.append("\n")
+            
+            self.input_area.setEnabled(True)
+            self.vulnerability_btn.setEnabled(True)
+            self.reflection_btn.setEnabled(True)
     
     def on_response_ready(self, response):
         """Handle agent response"""
@@ -376,8 +397,12 @@ class AgentPanel(QGroupBox):
         self.other_panel.output_area.append(f"Analyzing {self.agent.name}'s response for flaws...")
         self.other_panel.output_area.append(f"{'='*60}\n")
         
-        # Start vulnerability analysis in the OTHER agent
-        self.vulnerability_worker = VulnerabilityWorker(self.agent, self.other_panel.agent)
+        # Start vulnerability analysis in the OTHER agent using orchestrator
+        self.vulnerability_worker = VulnerabilityWorker(
+            self.orchestrator, 
+            self.agent.name, 
+            self.other_panel.agent.name
+        )
         self.vulnerability_worker.result_ready.connect(self.on_vulnerability_ready)
         self.vulnerability_worker.start()
     
@@ -415,8 +440,12 @@ class AgentPanel(QGroupBox):
         self.output_area.append(f"Using {self.other_panel.agent.name}'s critique to improve response...")
         self.output_area.append(f"{'='*60}\n")
         
-        # Start reflection analysis for THIS agent using OTHER agent's critique
-        self.reflection_worker = ReflectionWorker(self.other_panel.agent, self.agent)
+        # Start reflection analysis for THIS agent using OTHER agent's critique via orchestrator
+        self.reflection_worker = ReflectionWorker(
+            self.orchestrator,
+            self.other_panel.agent.name,
+            self.agent.name
+        )
         self.reflection_worker.result_ready.connect(self.on_reflection_ready)
         self.reflection_worker.start()
     
@@ -451,6 +480,7 @@ class GrantReviewGUI(QWidget):
 
         # Store reference to PDF worker to prevent garbage collection
         self.pdf_worker = None
+        self.broadcast_worker = None
         
         self.init_ui()
     
@@ -540,9 +570,38 @@ class GrantReviewGUI(QWidget):
         self.setLayout(main_layout)
     
     def broadcast_to_agents(self, message):
-        """Broadcast message to both agents"""
-        self.panel1.send_broadcast_message(message)
-        self.panel2.send_broadcast_message(message)
+        """Broadcast message to both agents using orchestrator"""
+        # Display broadcast message in both panels
+        self.panel1.output_area.append(f"\n{'='*60}")
+        self.panel1.output_area.append(f"📢 Broadcast → {self.panel1.agent.name if self.panel1.agent else 'Agent'}:")
+        self.panel1.output_area.append(message)
+        self.panel1.output_area.append(f"{'='*60}\n")
+        
+        self.panel2.output_area.append(f"\n{'='*60}")
+        self.panel2.output_area.append(f"📢 Broadcast → {self.panel2.agent.name if self.panel2.agent else 'Agent'}:")
+        self.panel2.output_area.append(message)
+        self.panel2.output_area.append(f"{'='*60}\n")
+        
+        # Disable inputs
+        self.panel1.input_area.setEnabled(False)
+        self.panel1.vulnerability_btn.setEnabled(False)
+        self.panel1.reflection_btn.setEnabled(False)
+        
+        self.panel2.input_area.setEnabled(False)
+        self.panel2.vulnerability_btn.setEnabled(False)
+        self.panel2.reflection_btn.setEnabled(False)
+        
+        # Use orchestrator's broadcast_message
+        self.broadcast_worker = BroadcastWorker(self.orchestrator, message)
+        self.broadcast_worker.results_ready.connect(self.on_broadcast_responses)
+        self.broadcast_worker.start()
+    
+    def on_broadcast_responses(self, responses):
+        """Handle broadcast responses from orchestrator"""
+        for agent_name, response in responses.items():
+            # Send response to appropriate panel
+            self.panel1.receive_broadcast_response(agent_name, response)
+            self.panel2.receive_broadcast_response(agent_name, response)
     
     def upload_pdf(self):
         """Handle PDF upload"""
@@ -600,6 +659,7 @@ class GrantReviewGUI(QWidget):
         """Save conversation to file"""
         try:
             # Save each agent's conversation
+            # The orchestrator has been updating history throughout
             for agent in self.orchestrator.agents:
                 agent.save_conversation()
             

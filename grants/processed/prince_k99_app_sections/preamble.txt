@@ -1,0 +1,117 @@
+SECTION: PREAMBLE
+============================================================
+
+
+[Page 1]
+CoritackPDIPI: Prince, Anya’
+Specific'Aims:
+in the:US;, there:has been a‘polarized:debate:about whether lifé,.long-term:care,,and disability insurers,
+teferred to.as ‘suppléméntall” irisufers, stiould bé:abléto Use ah applicant's:genetic information when. settifig:
+rates:or accepting policies: This ‘debate usually references highly predictive and serious genetic diseases;such
+vas:Huntington’s Disease.or Lynch Syndrome.-In-reality; most.variants havea wide range of predictive.values;
+from unknowh'to'low:to high. There has:been little. debate about:how predictive a-variant must befor’
+supplemental insurers: to usé—or to be legally-allowéd‘to se—the. information. Additionally,.for'some highly.
+‘predictive:variants, medical:interventions:may be available to:minimize‘one’s indicated ,risk,.and the.law does
+‘ot currently shed light‘on how: insurérs should consider this information. Staté.unfair trade practice laws
+generally require: itisurers to have actuarial justification forusing any tisk factor in undétwriting: Under these.
+actuarial laws, to:denyan-application archarge an increased premium, insurers must show:that a:relevant risk
+factor‘is’statistically. associated with increased insurer cost: However, in the US; theré.has been little research
+regarding ‘the application of these standards to’ genétic’and: genomic data. Internationally; several couritries;.
+sUich.as.the UK and Australia, have had actuarial policies for supplemental insurers specific'to genetic:-testing
+‘sincetheearly:2000s: Thus, most:of the academiciand policy discussions in-this:area have.occurred abroad..
+‘Although the: Genetic. Information: Nondiserimination Act (GINA) protects:against-genetic-discrimination:in _
+employment:and:health insurarice; individuals may<fail to. undertake medically recommended:clinical genetic
+testing,.of participate it, génomic:réséarch, due to féars Of discrimination in’supplémental insurance. Policy
+responses:tend to focus on whether supplemental insurérs:should. beable to use:genetic information, but:do
+not‘explore:the broader. criteria that inform: when:and how-such:information:can legally-be used.;Once:studied,.
+‘these. criteria‘can ifforrfi/a more: htianced policy discussion‘of the“should’. This. project has two primary goals:
+‘1)'to systematically:examine the legal-and policy landscapé.of supplemental insurer use. of genetic information
+in:the: US and internationally -with:particular-focus on requirements:of-actuarial justification; and:2) to.use:these:
+réquirements tovoffer‘a variety-of policy,options:for US: state:and federal governments that.seékito-address
+‘genetic discritination'in supplemerital insurance: To meet these goals; | propose three:specific. dims:
+Aim'1.—Analyze: how intérmational.approaches:to ‘actuarial justification; supplemental insurance, and:génetic
+information maybe applicable-to'the-US. Using methods.and analysis techniques. acquired during the
+mentored-phase, Iwill: choose four‘countries:that have robust policies:regarding actuarial justification:and:
+insurer'use‘of genétic:information and conduct:casé.studies' of thesé.examiples. Focus: 6n actuarial‘standards’
+in‘the ‘international privatized supplemental insurance sector ensures.a more direct comparison with the US;
+despite:differences:across. health insurance:sectors: | will’explore why-specific policy options were chosen,
+whether'these:policies:address' issues:related to‘predictive-value or preventive measures, -how‘effective the
+policiés have béeh, ‘and. what lessons were learned. Case-study analysis-will combine both policy analysisand
+targeted ‘interviews,with key’ stakeholders such.as:academic/policy experts, government officials, advocacy’
+-group:representatives,:and insurance: representatives.
+Aim:2 = Interrogate how existing US ‘state: laws-that require: actuarial justification in-supplemental:insurance
+would:apply-to-use of genetic:information. Using multiple:methods, | will:explore how .current:state law:may
+are.interpreting:and enforcing actuarial.and unfair trade, practice laws. (Aim:2a), |:will. combine«this-with legal
+analysis: of statutes, regulations; and:applicable:case. law to:evaluate whether:state law‘has:been:applied'to:the
+‘Context:6f.géhetic information“and how the laws: may be-interpreted afd ’enforéed in this.area:(Aim' 2b). Survey
+responses will inform the’ legal'analysis of how existing legislation may-be enforced or interpreted,
+Aim:3 — Provide policy analysis:and recommendations. for legislative.and regulatory options to address:
+‘concerns about the use of genetic:information.in:supplemental insurance: | will undertake policy analysis:of
+‘options.available to US:governments:to- address. societal:anid individual concerns:about'supplemental.insurer
+use Of genetic’information (Aim '3a).Additional policy analysis will exploré légal anid‘ policy-optioris for the:
+‘threshold evidence levels'needed to meet actuatial.standards (Aim 3b). These-options will incorporate:
+feedback from: policy experts. | will.disseminate recommendations:through policy briefs and:manuscripts.
+Aims:1 and:2a:(K99: phase) will-be:completed.in:concert-with ‘training:‘in qualitative;and quantitative methods:
+For'the:RO0 phase, my goal is to secure:a‘tenured law:position that involves teaching:an.experiential course:
+and researching ELSI topics. Under this model, studerits'will:assistin the research’ goals of Airis 2b'and 3:
+‘By'combining’policy:analysis-and Casé.studies from:the:international:setting with :detailed-legal:and survey’
+‘analysi§ froin thé US,, this: projéct will produce a'robust study of potential policy optioris for legislators..
+
+‘Spetitic Alftis page's
+
+
+[Page 2]
+CoritackPDIRK Prince, Anya’
+Research, Strategy’
+‘Significance:
+Iniagine,an individual who, is: known to have,a genetic variant that Was. réportéd in.a genome-wide ‘association
+study ‘(GWAS)'to: be weakly correlated with:aninereased risk:of'coronary artery disease,.a:leading cause‘of
+death worldwide. Should life, lorig-tern ‘care, or disability insuranéé.compaiies bé:able to use%this information
+in:uhderwriting decisions, ‘even:if the genetic Variant only explains about 1-2% of vafiation.in tisk?’ What if the
+variant.explains'10% of risk? Or'80%?2' Whatiif it:explains.80%:ofrisk, but'there are measures:that:an ‘individual.
+¢an také.to-eliminate:or mitigate‘this risk? -
+There: Hias'beena:long-standing’debate:in the US regarding-whether. life, long-term. care, or'disability-insurers;
+should be’ablé'té use: genétic inforriation in underwriting (Caulfield 2013, Joly:2013, Klitzinan 2014,-Ostrer
+1993,.Rothsteiii'1997). | refer to these insurers:as:supplemental insurers; in‘that:they-aré purchased in addition
+‘to: health:insurance..|:do not referto:health policies, such as a Medicare supplemental policy, ‘that-an individual
+‘acquires in addition to his:or‘her: existing: health insurance. The:supplemental:insurer debates have.often.
+temained ehttenched in‘disctission about whether-or not insurers should; beable to-use: genetic information
+(Mittra2007). There has been little research and'policy discussion of, if supplemental insurers have access to
+genetic:information; when.and:how they:should be able.to-use it in underwriting, This:research project
+examines how law:and policy“address, or’should address;'the thiteshold of statistical ‘sigriificarice between
+‘genetic information:and increased ‘risk necessary for insurers to charge higher premium rates or:deny:a policy.
+‘In, 2008;-in, response to, the-public's-concetnis of genetic discrimination, Congress: passed ‘the Genetic
+Information. Nondiserimination.Act:(GINA).;GINA prevents:employers.and health: insurers from using:genetic
+information:to-discriminate, but does not regulate how ‘supplemental insurers useigenetic information: (McGuire
+2009)::Thése insurers were not included in GINA dué ‘to political compromise’and recognition that the:
+‘economic.models‘and social goals of:'supplemental insurance:raise-different:policy considerations than health
+‘insurance:(Hudson 2008). However; in the’years since GINA’s passage, individuals:remain'fearful of genetic;
+discrifination in‘supplemental insurance (Allain 2042, Laedtke.2012,.Parkrnati:2014). This fear may lead
+individuals hot to undergo recommended clinical: genetic testing of to decline participation in: genomic research
+(Barlow-Stewart 2009, Feldman:2012,.Joly 2010,.Klitzman:2010, Peshkin 2013), potentiallyleadingto =
+detrimental:health effects: for those:who:do-not- undertake ‘clinically beneficial testing (Otlowski:2042)..Failure:to:
+undergo predictive testing for a. medically actisnable’condition due to‘feat-of discriminatory:consequences
+could thwart an individual from preventing or mitigating-disease.
+‘Sinee:federal law does not address supplemental. insurer‘use’of genetic information, any US-based policy: in
+‘this area.currently comes.from state law. Several states:address:insurer‘use:of:genetic'information (NCSL. _
+2008). Three:states.are commonly’cited:as: banning supplemental. insurér‘use*of.genetic: information (Peikoff:
+2014);-in fact, ‘theséstates do not completely ‘prohibit insuter use, but rathér; they prohibit use of family’
+members’.genetic information (O.R:S 2001, V:S:A..1997) or have actuarial requirements for the use:(Cal-GINA:
+2011,:Chabner 2000). Requiring actuarial justification for usecof: genetic information:in:underwriting decisions,
+‘such.as prémium ineréases or denials, is a:cotnmion legislative strategy.- Thésé laws generally require that
+‘insurers:demonstrate:statistical.correlation between’a risk’and an‘increased likelihood:of'cost to the insurer
+(ASOP 2005, Jha.2012,,Landes:2014). The-interpretation,.enforcement, and:implementation of these actuarial
+laws,-however,,hiave:not.been fully’analyzeéd. It.is thérefore’surprisingly unclear how existing’state:laws have:
+‘beeh oF Will be-applied in the Context of the prédictive value and preventive méasurés Of Genetic vatiants.
+Récent technological advances have drastically ‘lowered the cost.of sequencing; making: genomic-analysis’
+categorizing:applicants into risk. classifications:and genetic’information can:provide insight into future:risk.(Van
+Hoyweghen '2007); However, thé use.of genéticirifortnation:also raises sécial coricerns beyond the.business
+‘considerations of insurers (Dubois:2011, Liukko'2010, Morris 2010, Moultrie 1997, Van HoyWeghen 2005; Vah
+Hoyweghen 2012). For:example, some,:including myself, have:argued or:suggested ‘that:in order:torfully:
+‘address. individual.féars’of.genetic: discrimination, supplemental.insurers:should.be*réstricted.from using:
+Genetic information (Ashictott 2007, Gruber 2014, Klitzman 2014, Prince 2013, Wolf.2007)..Others‘have argued.
+that-this:would bankrupt the insurance system:because it-will skew risk classificationand lead toadverse __
+‘selection:(Baker.2002, Dodge 2007, Green:2015, Joly:2010, Radetzki'2003,-Rothstein:2004);:yet there.is little
+
+‘Reséarch ‘Strategy. ‘Pagé:88
+
