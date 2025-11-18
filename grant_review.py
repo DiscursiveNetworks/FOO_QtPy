@@ -1,6 +1,6 @@
 """
-grant_review.py
-Side-by-side two-agent interface for collaborative grant proposal review.
+grant_review_v2.py
+Two-agent interface for collaborative analysis with improved layout and controls.
 Supports vulnerability analysis and reflection between agents.
 
 Based on the "Flaws of Others" methodology for grant review consensus.
@@ -9,6 +9,8 @@ By Juan B. Gutiérrez, Professor of Mathematics
 University of Texas at San Antonio.
 
 License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+VERSION 2: Updated layout with proportional sizing and font controls
 """
 
 import os
@@ -19,10 +21,11 @@ from datetime import datetime
 from PyQt5.QtWidgets import (
     QApplication, QWidget, QTextEdit, QVBoxLayout, QHBoxLayout,
     QPushButton, QLabel, QComboBox, QFileDialog, QMessageBox, QSplitter,
-    QGroupBox, QScrollArea
+    QGroupBox, QScrollArea, QSizePolicy
 )
-from PyQt5.QtCore import QThread, pyqtSignal, Qt
-from PyQt5.QtGui import QFont
+from PyQt5.QtCore import QThread, pyqtSignal, Qt, QTimer
+from PyQt5.QtGui import QFont, QPixmap, QImage
+from PyQt5.QtMultimedia import QSound
 
 from cls_foo import MultiAgentOrchestrator
 from cls_openai import OpenAIAgent
@@ -35,7 +38,6 @@ class BroadcastTextEdit(QTextEdit):
     def __init__(self, parent=None):
         super().__init__(parent)
         self.parent_widget = parent
-        self.setMaximumHeight(100)
         self.setPlaceholderText("Type your question/message to broadcast to both agents (Shift+Enter for new line, Enter to send)")
         
     def keyPressEvent(self, event):
@@ -58,7 +60,6 @@ class AgentTextEdit(QTextEdit):
     def __init__(self, parent=None):
         super().__init__(parent)
         self.agent_panel = parent
-        self.setMaximumHeight(80)
         self.setPlaceholderText("Type message for this agent (Shift+Enter for new line, Enter to send)")
         
     def keyPressEvent(self, event):
@@ -87,9 +88,13 @@ class AgentWorker(QThread):
     
     def run(self):
         try:
-            # Use orchestrator's send_message_to_agent which handles history
-            response = self.orchestrator.send_message_to_agent(self.agent_name, self.message)
-            self.result_ready.emit(response)
+            # Get the agent directly and use send_message_with_integrity
+            agent = self.orchestrator.get_agent_by_name(self.agent_name)
+            if agent:
+                response = self.orchestrator.send_message_with_integrity(agent, self.message)
+                self.result_ready.emit(response)
+            else:
+                self.result_ready.emit(f"Error: Agent {self.agent_name} not found")
         except Exception as e:
             self.result_ready.emit(f"Error: {e}")
 
@@ -137,9 +142,13 @@ class VulnerabilityWorker(QThread):
                 f"{source_agent.latest_response}"
             )
             
-            # Use orchestrator to send message (which handles history)
-            response = self.orchestrator.send_message_to_agent(self.target_agent_name, request_message)
-            self.result_ready.emit(request_message, response)
+            # Use send_message_with_integrity with the agent object
+            target_agent = self.orchestrator.get_agent_by_name(self.target_agent_name)
+            if target_agent:
+                response = self.orchestrator.send_message_with_integrity(target_agent, request_message)
+                self.result_ready.emit(request_message, response)
+            else:
+                self.result_ready.emit("", f"Error: Agent {self.target_agent_name} not found")
             
         except Exception as e:
             self.result_ready.emit("", f"Error: {e}")
@@ -171,86 +180,126 @@ class ReflectionWorker(QThread):
                 f"{source_agent.latest_response}"
             )
             
-            # Use orchestrator to send message (which handles history)
-            response = self.orchestrator.send_message_to_agent(self.target_agent_name, request_message)
-            self.result_ready.emit(request_message, response)
+            # Use send_message_with_integrity with the agent object
+            target_agent = self.orchestrator.get_agent_by_name(self.target_agent_name)
+            if target_agent:
+                response = self.orchestrator.send_message_with_integrity(target_agent, request_message)
+                self.result_ready.emit(request_message, response)
+            else:
+                self.result_ready.emit("", f"Error: Agent {self.target_agent_name} not found")
             
         except Exception as e:
             self.result_ready.emit("", f"Error: {e}")
 
 
-class PDFWorker(QThread):
-    """Worker thread for PDF processing"""
-    result_ready = pyqtSignal(str)
+class FileProcessorWorker(QThread):
+    """Worker thread for processing various file types"""
+    result_ready = pyqtSignal(str, bool)  # (content/message, should_broadcast)
     
-    def __init__(self, pdf_path, agent):
+    def __init__(self, file_path):
         super().__init__()
-        self.pdf_path = pdf_path
-        self.agent = agent
+        self.file_path = file_path
     
     def run(self):
         try:
-            # Check if PyPDF2 is available
-            try:
-                import PyPDF2
-            except ImportError:
-                self.result_ready.emit(
-                    "Error: PyPDF2 not installed. Install with: pip install PyPDF2"
-                )
-                return
+            ext = os.path.splitext(self.file_path)[1].lower()
+            filename = os.path.basename(self.file_path)
             
-            # Check if file exists
-            if not os.path.exists(self.pdf_path):
-                self.result_ready.emit(f"Error: File not found: {self.pdf_path}")
-                return
-            
-            # Try to extract text from PDF
-            text_content = []
-            try:
-                with open(self.pdf_path, 'rb') as file:
-                    pdf_reader = PyPDF2.PdfReader(file)
+            if ext == '.pdf':
+                # Try to extract text from PDF
+                try:
+                    import PyPDF2
+                    with open(self.file_path, 'rb') as file:
+                        pdf_reader = PyPDF2.PdfReader(file)
+                        total_pages = len(pdf_reader.pages)
+                        pdf_text = f"[PDF: {filename}, {total_pages} pages]\n\n"
+                        
+                        text_found = False
+                        for page_num, page in enumerate(pdf_reader.pages, 1):
+                            text = page.extract_text()
+                            if text.strip():
+                                text_found = True
+                                pdf_text += f"\n--- Page {page_num} ---\n{text}\n"
+                        
+                        if not text_found:
+                            self.result_ready.emit(
+                                f"❌ No text could be extracted from PDF: {filename}\n"
+                                "This might be a scanned document or contain only images.",
+                                False
+                            )
+                        else:
+                            self.result_ready.emit(pdf_text, True)
+                            
+                except ImportError:
+                    self.result_ready.emit(
+                        "Error: PyPDF2 not installed. Please install it with:\n"
+                        "pip install PyPDF2",
+                        False
+                    )
+                except Exception as e:
+                    self.result_ready.emit(f"Error processing PDF: {str(e)}", False)
                     
-                    # Check if PDF is encrypted
-                    if pdf_reader.is_encrypted:
-                        self.result_ready.emit("Error: PDF is encrypted. Please provide an unencrypted version.")
-                        return
+            elif ext == '.txt':
+                # Load text file
+                try:
+                    with open(self.file_path, 'r', encoding='utf-8') as file:
+                        content = file.read()
+                    self.result_ready.emit(f"[Text file: {filename}]\n\n{content}", True)
+                except Exception as e:
+                    self.result_ready.emit(f"Error reading text file: {str(e)}", False)
                     
-                    for page_num, page in enumerate(pdf_reader.pages):
-                        page_text = page.extract_text()
-                        if page_text and page_text.strip():
-                            text_content.append(f"--- Page {page_num + 1} ---\n{page_text}")
-            
-            except Exception as e:
-                self.result_ready.emit(f"Error reading PDF: {str(e)}")
-                return
-            
-            if text_content:
-                full_text = "\n\n".join(text_content)
-                # Limit text length to avoid overwhelming the API
-                if len(full_text) > 50000:
-                    full_text = full_text[:50000] + "\n\n[... Document truncated due to length ...]"
-                self.result_ready.emit(f"Successfully extracted text from PDF:\n\n{full_text}")
+            elif ext in ['.png', '.jpg', '.jpeg', '.gif', '.bmp']:
+                # Handle image files
+                try:
+                    # Convert to base64 for potential OCR or image analysis
+                    with open(self.file_path, 'rb') as file:
+                        img_data = base64.b64encode(file.read()).decode()
+                    
+                    # For now, just inform that image was loaded
+                    self.result_ready.emit(
+                        f"[Image file: {filename}]\n"
+                        f"Image loaded successfully. Size: {os.path.getsize(self.file_path) / 1024:.1f} KB\n"
+                        f"Note: Image analysis capabilities depend on agent configuration.",
+                        True
+                    )
+                except Exception as e:
+                    self.result_ready.emit(f"Error processing image: {str(e)}", False)
+                    
+            elif ext in ['.mp3', '.wav', '.ogg', '.m4a']:
+                # Handle sound files
+                try:
+                    self.result_ready.emit(
+                        f"[Audio file: {filename}]\n"
+                        f"Audio file detected. Size: {os.path.getsize(self.file_path) / 1024:.1f} KB\n"
+                        f"Note: Audio transcription capabilities depend on agent configuration.",
+                        True
+                    )
+                except Exception as e:
+                    self.result_ready.emit(f"Error processing audio: {str(e)}", False)
+                    
             else:
-                # If no text extracted, likely a scanned PDF
                 self.result_ready.emit(
-                    "PDF appears to be scanned (no extractable text found). "
-                    "OCR processing would be needed for this document. "
-                    "Please provide a text-based PDF or use an OCR tool first."
+                    f"Unsupported file type: {ext}\n"
+                    f"Supported types: PDF, TXT, PNG, JPG, JPEG, GIF, BMP, MP3, WAV, OGG, M4A",
+                    False
                 )
                 
         except Exception as e:
-            self.result_ready.emit(f"Error processing PDF: {str(e)}")
+            self.result_ready.emit(f"Error processing file: {str(e)}", False)
 
 
 class AgentPanel(QGroupBox):
-    """Panel for a single agent with controls"""
+    """Panel for individual agent interaction with vulnerability/reflection controls"""
     
-    def __init__(self, orchestrator, agent=None, other_panel=None, parent=None):
-        super().__init__(parent)
-        self.orchestrator = orchestrator
+    def __init__(self, agent, orchestrator, panel_number, parent_gui):
+        super().__init__()
         self.agent = agent
-        self.other_panel = other_panel
-        self.parent_window = parent
+        self.orchestrator = orchestrator
+        self.panel_number = panel_number
+        self.parent_gui = parent_gui
+        self.other_panel = None
+        
+        # Worker references
         self.worker = None
         self.vulnerability_worker = None
         self.reflection_worker = None
@@ -258,41 +307,38 @@ class AgentPanel(QGroupBox):
         self.init_ui()
     
     def init_ui(self):
-        """Initialize the agent panel UI"""
+        """Initialize the UI for the agent panel"""
         layout = QVBoxLayout()
         
-        # Agent selector (if multiple agents available)
+        # Agent selector
         selector_layout = QHBoxLayout()
-        selector_layout.addWidget(QLabel("Agent:"))
+        self.agent_label = QLabel("Agent:")
+        selector_layout.addWidget(self.agent_label)
         self.agent_selector = QComboBox()
         self.populate_agent_selector()
         self.agent_selector.currentIndexChanged.connect(self.on_agent_changed)
-        selector_layout.addWidget(self.agent_selector)
-        selector_layout.addStretch()
+        selector_layout.addWidget(self.agent_selector, 1)
         layout.addLayout(selector_layout)
         
         # Output area
         self.output_area = QTextEdit()
         self.output_area.setReadOnly(True)
-        self.output_area.setMinimumHeight(300)
-        layout.addWidget(QLabel("Agent Output:"))
-        layout.addWidget(self.output_area)
+        layout.addWidget(self.output_area, 3)
         
-        # Individual input area
-        layout.addWidget(QLabel("Individual Message:"))
+        # Individual message input
         self.input_area = AgentTextEdit(self)
-        layout.addWidget(self.input_area)
+        layout.addWidget(self.input_area, 1)
         
-        # Action buttons
+        # Control buttons
         button_layout = QHBoxLayout()
         
         self.vulnerability_btn = QPushButton("🔍 Vulnerability")
-        self.vulnerability_btn.setToolTip("Ask the other agent to find flaws in this agent's response")
+        self.vulnerability_btn.setToolTip("Have the other agent critique this agent's response")
         self.vulnerability_btn.clicked.connect(self.on_vulnerability_clicked)
         button_layout.addWidget(self.vulnerability_btn)
         
         self.reflection_btn = QPushButton("🔄 Reflection")
-        self.reflection_btn.setToolTip("Use the other agent's critique to improve this agent's response")
+        self.reflection_btn.setToolTip("Have this agent reflect on the other's critique and improve response")
         self.reflection_btn.clicked.connect(self.on_reflection_clicked)
         button_layout.addWidget(self.reflection_btn)
         
@@ -300,6 +346,7 @@ class AgentPanel(QGroupBox):
         
         self.setLayout(layout)
         self.update_title()
+        self.update_fonts()
     
     def populate_agent_selector(self):
         """Populate the agent selector dropdown"""
@@ -319,10 +366,54 @@ class AgentPanel(QGroupBox):
                     break
     
     def on_agent_changed(self, index):
-        """Handle agent selection change"""
+        """Handle agent selection change - load that agent's log"""
         self.agent = self.agent_selector.itemData(index)
         self.update_title()
         self.output_area.clear()
+        
+        if self.agent:
+            # Load the agent's conversation history
+            self.load_agent_history()
+    
+    def load_agent_history(self):
+        """Load and display the selected agent's conversation history"""
+        if not self.agent:
+            return
+            
+        try:
+            # Check if agent has history
+            if hasattr(self.agent, 'display_history') and self.agent.display_history:
+                self.output_area.append("=== LOADING CONVERSATION HISTORY ===\n")
+                
+                for entry in self.agent.display_history:
+                    if isinstance(entry, dict):
+                        role = entry.get('role', 'unknown')
+                        content = entry.get('content', '')
+                        timestamp = entry.get('timestamp', '')
+                        
+                        # Skip initial system messages
+                        if role == 'user' and 'Introduce yourself as' in content:
+                            continue
+                        
+                        time_str = f" ({timestamp})" if timestamp else ""
+                        
+                        if role == 'user':
+                            self.output_area.append(f"\n📤 User{time_str}:")
+                            self.output_area.append(content)
+                        elif role == 'assistant':
+                            self.output_area.append(f"\n💬 {self.agent.name}{time_str}:")
+                            self.output_area.append(content)
+                        
+                        self.output_area.append("")
+                
+                message_count = len([e for e in self.agent.display_history 
+                                   if e.get('role') in ['user', 'assistant']])
+                self.output_area.append(f"\n=== HISTORY LOADED ({message_count} messages) ===\n")
+            else:
+                self.output_area.append("No conversation history for this agent.\n")
+                
+        except Exception as e:
+            self.output_area.append(f"Error loading history: {str(e)}\n")
     
     def update_title(self):
         """Update panel title"""
@@ -355,65 +446,55 @@ class AgentPanel(QGroupBox):
         self.worker.result_ready.connect(self.on_response_ready)
         self.worker.start()
     
-    def receive_broadcast_response(self, agent_name, response):
-        """Receive broadcast response for this agent"""
-        if self.agent and self.agent.name == agent_name:
-            self.output_area.append(f"💬 {agent_name} responds:")
-            self.output_area.append(response)
-            self.output_area.append("\n")
-            
-            self.input_area.setEnabled(True)
-            self.vulnerability_btn.setEnabled(True)
-            self.reflection_btn.setEnabled(True)
-    
     def on_response_ready(self, response):
         """Handle agent response"""
-        self.output_area.append(f"💬 {self.agent.name} responds:")
+        self.output_area.append(f"💬 {self.agent.name}:")
         self.output_area.append(response)
         self.output_area.append("\n")
         
+        # Re-enable inputs
         self.input_area.setEnabled(True)
         self.vulnerability_btn.setEnabled(True)
         self.reflection_btn.setEnabled(True)
     
     def on_vulnerability_clicked(self):
-        """Handle vulnerability button click"""
-        if not self.agent or not self.other_panel or not self.other_panel.agent:
-            QMessageBox.warning(self, "Error", "Both agents must be selected")
+        """Request vulnerability analysis from the other agent"""
+        if not self.other_panel or not self.other_panel.agent:
+            self.output_area.append("\n❌ No other agent available for analysis\n")
             return
         
         if not self.agent.latest_response:
-            QMessageBox.warning(self, "Error", f"No response available from {self.agent.name} to analyze")
+            self.output_area.append("\n❌ No response available to analyze\n")
             return
         
-        # Disable buttons during processing
+        self.output_area.append(f"\n🔍 Requesting vulnerability analysis from {self.other_panel.agent.name}...")
+        
+        # Disable buttons during analysis
         self.vulnerability_btn.setEnabled(False)
         self.reflection_btn.setEnabled(False)
         self.input_area.setEnabled(False)
         
-        # Show in other panel that vulnerability analysis is starting
-        self.other_panel.output_area.append(f"\n{'='*60}")
-        self.other_panel.output_area.append(f"🔍 Vulnerability Analysis Request:")
-        self.other_panel.output_area.append(f"Analyzing {self.agent.name}'s response for flaws...")
-        self.other_panel.output_area.append(f"{'='*60}\n")
-        
-        # Start vulnerability analysis in the OTHER agent using orchestrator
+        # Start vulnerability worker
         self.vulnerability_worker = VulnerabilityWorker(
-            self.orchestrator, 
-            self.agent.name, 
-            self.other_panel.agent.name
+            self.orchestrator,
+            self.agent.name,  # source agent (this agent)
+            self.other_panel.agent.name  # target agent (other agent)
         )
         self.vulnerability_worker.result_ready.connect(self.on_vulnerability_ready)
         self.vulnerability_worker.start()
     
     def on_vulnerability_ready(self, request, response):
         """Handle vulnerability analysis results"""
+        # Show in the OTHER panel (where the analysis was performed)
         if self.other_panel:
-            self.other_panel.output_area.append(f"📋 Request sent to {self.other_panel.agent.name}:")
+            self.other_panel.output_area.append(f"\n{'='*60}")
+            self.other_panel.output_area.append(f"🔍 Vulnerability Analysis Request:")
             self.other_panel.output_area.append(request[:200] + "..." if len(request) > 200 else request)
-            self.other_panel.output_area.append(f"\n💬 {self.other_panel.agent.name}'s vulnerability analysis:")
+            self.other_panel.output_area.append(f"\n💬 {self.other_panel.agent.name}'s analysis:")
             self.other_panel.output_area.append(response)
-            self.other_panel.output_area.append("\n")
+            self.other_panel.output_area.append(f"{'='*60}\n")
+        
+        self.output_area.append("✅ Vulnerability analysis complete. Check other agent's panel.")
         
         # Re-enable buttons
         self.vulnerability_btn.setEnabled(True)
@@ -421,30 +502,27 @@ class AgentPanel(QGroupBox):
         self.input_area.setEnabled(True)
     
     def on_reflection_clicked(self):
-        """Handle reflection button click"""
-        if not self.agent or not self.other_panel or not self.other_panel.agent:
-            QMessageBox.warning(self, "Error", "Both agents must be selected")
+        """Request this agent to reflect on the other agent's critique"""
+        if not self.other_panel or not self.other_panel.agent:
+            self.output_area.append("\n❌ No other agent available\n")
             return
         
         if not self.other_panel.agent.latest_response:
-            QMessageBox.warning(self, "Error", f"No critique available from {self.other_panel.agent.name}")
+            self.output_area.append("\n❌ No critique available from other agent\n")
             return
         
-        # Disable buttons during processing
+        self.output_area.append(f"\n🔄 Reflecting on {self.other_panel.agent.name}'s critique...")
+        
+        # Disable buttons during reflection
         self.vulnerability_btn.setEnabled(False)
         self.reflection_btn.setEnabled(False)
         self.input_area.setEnabled(False)
         
-        self.output_area.append(f"\n{'='*60}")
-        self.output_area.append(f"🔄 Reflection Request:")
-        self.output_area.append(f"Using {self.other_panel.agent.name}'s critique to improve response...")
-        self.output_area.append(f"{'='*60}\n")
-        
-        # Start reflection analysis for THIS agent using OTHER agent's critique via orchestrator
+        # Start reflection worker
         self.reflection_worker = ReflectionWorker(
             self.orchestrator,
-            self.other_panel.agent.name,
-            self.agent.name
+            self.other_panel.agent.name,  # source agent (providing critique)
+            self.agent.name  # target agent (this agent, reflecting)
         )
         self.reflection_worker.result_ready.connect(self.on_reflection_ready)
         self.reflection_worker.start()
@@ -461,15 +539,52 @@ class AgentPanel(QGroupBox):
         self.vulnerability_btn.setEnabled(True)
         self.reflection_btn.setEnabled(True)
         self.input_area.setEnabled(True)
+    
+    def update_fonts(self):
+        """Update fonts for all elements in this panel"""
+        if hasattr(self.parent_gui, 'current_font_size'):
+            font_size = self.parent_gui.current_font_size
+            
+            # Update all widgets
+            font = QFont()
+            font.setPointSize(font_size)
+            
+            self.agent_label.setFont(font)
+            self.agent_selector.setFont(font)
+            self.output_area.setFont(font)
+            self.input_area.setFont(font)
+            self.vulnerability_btn.setFont(font)
+            self.reflection_btn.setFont(font)
+            
+            # Update group box title font
+            self.setStyleSheet(f"QGroupBox {{ font-size: {font_size}pt; font-weight: bold; }}")
 
 
 class GrantReviewGUI(QWidget):
     """Main window for grant review with two agents side-by-side"""
     
-    def __init__(self, config_file="config.json"):
+    def __init__(self, config_file=None):
         super().__init__()
+        
+        # If no config file provided, show file dialog
+        if not config_file:
+            config_file, _ = QFileDialog.getOpenFileName(
+                None,
+                "Select Configuration File",
+                "",
+                "JSON files (*.json)"
+            )
+            if not config_file:
+                QMessageBox.critical(None, "Error", "No configuration file selected")
+                sys.exit(1)
+        
         self.config_file = config_file
         self.orchestrator = MultiAgentOrchestrator(config_file)
+        
+        # Font size management
+        self.current_font_size = 10
+        self.min_font_size = 8
+        self.max_font_size = 20
         
         # Get active agents
         active_agents = [a for a in self.orchestrator.agents if a.active]
@@ -478,96 +593,170 @@ class GrantReviewGUI(QWidget):
         self.agent1 = active_agents[0] if len(active_agents) > 0 else None
         self.agent2 = active_agents[1] if len(active_agents) > 1 else active_agents[0] if len(active_agents) > 0 else None
 
-        # Store reference to PDF worker to prevent garbage collection
-        self.pdf_worker = None
+        # Store reference to workers to prevent garbage collection
+        self.file_worker = None
         self.broadcast_worker = None
         
         self.init_ui()
     
     def init_ui(self):
-        """Initialize the main UI"""
-        self.setWindowTitle("Grant Review - Collaborative Agent Analysis")
+        """Initialize the main UI with proportional sizing"""
+        self.setWindowTitle("Two Agent Collaborative Analysis")
         self.setGeometry(100, 100, 1400, 800)
         
         main_layout = QVBoxLayout()
+        main_layout.setContentsMargins(10, 10, 10, 10)  # Padding around edges
         
-        # Title
-        title = QLabel("Grant Review: Two-Agent Collaborative Analysis")
-        title_font = QFont()
-        title_font.setPointSize(16)
-        title_font.setBold(True)
-        title.setFont(title_font)
-        title.setAlignment(Qt.AlignCenter)
-        main_layout.addWidget(title)
+        # Top button bar
+        button_bar = QHBoxLayout()
         
-        # Instructions
-        instructions = QLabel(
-            "Broadcast messages to both agents below. Use Vulnerability to find flaws, "
-            "and Reflection to improve responses based on critique."
-        )
-        instructions.setWordWrap(True)
-        instructions.setAlignment(Qt.AlignCenter)
-        instructions.setStyleSheet("color: #666; padding: 10px;")
-        main_layout.addWidget(instructions)
+        # File operations buttons
+        upload_btn = QPushButton("📄 Upload")
+        upload_btn.clicked.connect(self.upload_file)
+        button_bar.addWidget(upload_btn)
         
-        # Broadcast area
-        broadcast_group = QGroupBox("Broadcast Message to Both Agents")
-        broadcast_layout = QVBoxLayout()
-        self.broadcast_input = BroadcastTextEdit(self)
-        broadcast_layout.addWidget(self.broadcast_input)
+        load_btn = QPushButton("📁 Load Config")
+        load_btn.clicked.connect(self.load_config)
+        button_bar.addWidget(load_btn)
         
-        # PDF upload button
-        pdf_button_layout = QHBoxLayout()
-        self.upload_pdf_btn = QPushButton("📄 Upload PDF/Document")
-        self.upload_pdf_btn.clicked.connect(self.upload_pdf)
-        pdf_button_layout.addWidget(self.upload_pdf_btn)
-        pdf_button_layout.addStretch()
-        broadcast_layout.addLayout(pdf_button_layout)
-        
-        broadcast_group.setLayout(broadcast_layout)
-        main_layout.addWidget(broadcast_group)
-        
-        # Splitter for two agent panels
-        splitter = QSplitter(Qt.Horizontal)
-        
-        # Create agent panels
-        self.panel1 = AgentPanel(self.orchestrator, self.agent1, None, self)
-        self.panel2 = AgentPanel(self.orchestrator, self.agent2, None, self)
-        
-        # Set cross-references
-        self.panel1.set_other_panel(self.panel2)
-        self.panel2.set_other_panel(self.panel1)
-        
-        splitter.addWidget(self.panel1)
-        splitter.addWidget(self.panel2)
-        splitter.setSizes([700, 700])
-        
-        main_layout.addWidget(splitter, 1)
-        
-        # Control buttons
-        control_layout = QHBoxLayout()
-        
-        save_btn = QPushButton("💾 Save Conversation")
-        save_btn.clicked.connect(self.save_conversation)
-        control_layout.addWidget(save_btn)
-        
-        load_btn = QPushButton("📂 Load Conversation")
-        load_btn.clicked.connect(self.load_conversation)
-        control_layout.addWidget(load_btn)
-        
-        clear_btn = QPushButton("🗑️ Clear All")
+        clear_btn = QPushButton("🗑️ Clear")
         clear_btn.clicked.connect(self.clear_all)
-        control_layout.addWidget(clear_btn)
+        button_bar.addWidget(clear_btn)
         
-        control_layout.addStretch()
+        button_bar.addStretch()
+        
+        # Font size controls
+        font_label = QLabel("Font:")
+        button_bar.addWidget(font_label)
+        
+        self.font_minus_btn = QPushButton("-")
+        self.font_minus_btn.setMaximumWidth(30)
+        self.font_minus_btn.clicked.connect(self.decrease_font)
+        button_bar.addWidget(self.font_minus_btn)
+        
+        self.font_size_label = QLabel(str(self.current_font_size))
+        self.font_size_label.setMinimumWidth(30)
+        self.font_size_label.setAlignment(Qt.AlignCenter)
+        button_bar.addWidget(self.font_size_label)
+        
+        self.font_plus_btn = QPushButton("+")
+        self.font_plus_btn.setMaximumWidth(30)
+        self.font_plus_btn.clicked.connect(self.increase_font)
+        button_bar.addWidget(self.font_plus_btn)
+        
+        button_bar.addStretch()
         
         exit_btn = QPushButton("❌ Exit")
         exit_btn.clicked.connect(self.close)
-        control_layout.addWidget(exit_btn)
+        button_bar.addWidget(exit_btn)
         
-        main_layout.addLayout(control_layout)
+        main_layout.addLayout(button_bar)
+        
+        # Title
+        self.title_label = QLabel("Two Agent Collaborative Analysis")
+        self.title_label.setAlignment(Qt.AlignCenter)
+        self.title_font = QFont()
+        self.title_font.setPointSize(16)
+        self.title_font.setBold(True)
+        self.title_label.setFont(self.title_font)
+        main_layout.addWidget(self.title_label)
+        
+        # Instructions
+        self.instructions_label = QLabel(
+            "Broadcast messages to both agents below. Use Vulnerability to find flaws, "
+            "and Reflection to improve responses based on critique."
+        )
+        self.instructions_label.setAlignment(Qt.AlignCenter)
+        main_layout.addWidget(self.instructions_label)
+        
+        # Content area with proportional sizing
+        content_splitter = QSplitter(Qt.Vertical)
+        
+        # Broadcast area (30% of height)
+        self.broadcast_group = QGroupBox("Broadcast to Both Agents")
+        broadcast_layout = QVBoxLayout()
+        self.broadcast_input = BroadcastTextEdit(self)
+        broadcast_layout.addWidget(self.broadcast_input)
+        self.broadcast_group.setLayout(broadcast_layout)
+        
+        # Agent panels area (65% of height)
+        agent_splitter = QSplitter(Qt.Horizontal)
+        
+        # Create agent panels
+        self.panel1 = AgentPanel(self.agent1, self.orchestrator, 1, self)
+        self.panel2 = AgentPanel(self.agent2, self.orchestrator, 2, self)
+        
+        # Cross-reference panels
+        self.panel1.set_other_panel(self.panel2)
+        self.panel2.set_other_panel(self.panel1)
+        
+        agent_splitter.addWidget(self.panel1)
+        agent_splitter.addWidget(self.panel2)
+        agent_splitter.setSizes([700, 700])
+        
+        # Add to content splitter with proportional sizes
+        content_splitter.addWidget(self.broadcast_group)
+        content_splitter.addWidget(agent_splitter)
+        
+        # Set initial proportions (30% broadcast, 65% agents, 5% padding implicit)
+        total_height = 800 - 100  # Approximate height minus buttons and padding
+        content_splitter.setSizes([int(total_height * 0.30), int(total_height * 0.65)])
+        
+        main_layout.addWidget(content_splitter)
         
         self.setLayout(main_layout)
+        
+        # Store references to widgets that need font updates
+        self.all_buttons = [upload_btn, load_btn, clear_btn, exit_btn, 
+                           self.font_minus_btn, self.font_plus_btn]
+        self.all_labels = [font_label, self.font_size_label, 
+                          self.title_label, self.instructions_label]
+
+        # Apply initial font size
+        self.update_all_fonts()        
+    
+    def increase_font(self):
+        """Increase font size across all elements"""
+        if self.current_font_size < self.max_font_size:
+            self.current_font_size += 1
+            self.update_all_fonts()
+    
+    def decrease_font(self):
+        """Decrease font size across all elements"""
+        if self.current_font_size > self.min_font_size:
+            self.current_font_size -= 1
+            self.update_all_fonts()
+    
+    def update_all_fonts(self):
+        """Update fonts for all elements in the application"""
+        font = QFont()
+        font.setPointSize(self.current_font_size)
+        
+        # Update all buttons
+        if hasattr(self, 'all_buttons'):
+            for btn in self.all_buttons:
+                btn.setFont(font)
+        
+        # Update all labels (except title which is larger)
+        for label in self.all_labels:
+            if label == self.title_label:
+                title_font = QFont()
+                title_font.setPointSize(self.current_font_size + 6)
+                title_font.setBold(True)
+                label.setFont(title_font)
+            else:
+                label.setFont(font)
+        
+        # Update font size display
+        self.font_size_label.setText(str(self.current_font_size))
+        
+        # Update broadcast area
+        self.broadcast_input.setFont(font)
+        self.broadcast_group.setStyleSheet(f"QGroupBox {{ font-size: {self.current_font_size}pt; font-weight: bold; }}")
+        
+        # Update agent panels
+        self.panel1.update_fonts()
+        self.panel2.update_fonts()
     
     def broadcast_to_agents(self, message):
         """Broadcast message to both agents using orchestrator"""
@@ -593,143 +782,127 @@ class GrantReviewGUI(QWidget):
         
         # Use orchestrator's broadcast_message
         self.broadcast_worker = BroadcastWorker(self.orchestrator, message)
-        self.broadcast_worker.results_ready.connect(self.on_broadcast_responses)
+        self.broadcast_worker.results_ready.connect(self.on_broadcast_ready)
         self.broadcast_worker.start()
     
-    def on_broadcast_responses(self, responses):
-        """Handle broadcast responses from orchestrator"""
-        for agent_name, response in responses.items():
-            # Send response to appropriate panel
-            self.panel1.receive_broadcast_response(agent_name, response)
-            self.panel2.receive_broadcast_response(agent_name, response)
+    def on_broadcast_ready(self, responses):
+        """Handle broadcast responses"""
+        # Display responses in respective panels
+        if self.panel1.agent and self.panel1.agent.name in responses:
+            self.panel1.output_area.append(f"💬 {self.panel1.agent.name}:")
+            self.panel1.output_area.append(responses[self.panel1.agent.name])
+            self.panel1.output_area.append("\n")
+        
+        if self.panel2.agent and self.panel2.agent.name in responses:
+            self.panel2.output_area.append(f"💬 {self.panel2.agent.name}:")
+            self.panel2.output_area.append(responses[self.panel2.agent.name])
+            self.panel2.output_area.append("\n")
+        
+        # Re-enable inputs
+        self.panel1.input_area.setEnabled(True)
+        self.panel1.vulnerability_btn.setEnabled(True)
+        self.panel1.reflection_btn.setEnabled(True)
+        
+        self.panel2.input_area.setEnabled(True)
+        self.panel2.vulnerability_btn.setEnabled(True)
+        self.panel2.reflection_btn.setEnabled(True)
     
-    def upload_pdf(self):
-        """Handle PDF upload"""
+    def upload_file(self):
+        """Upload and process a file with multi-modal capabilities"""
         file_path, _ = QFileDialog.getOpenFileName(
             self,
-            "Select PDF or Document",
+            "Select file to upload",
             "",
-            "PDF Files (*.pdf);;All Files (*)"
+            "All Supported (*.pdf *.txt *.png *.jpg *.jpeg *.gif *.bmp *.mp3 *.wav *.ogg *.m4a);;"
+            "PDF files (*.pdf);;"
+            "Text files (*.txt);;"
+            "Image files (*.png *.jpg *.jpeg *.gif *.bmp);;"
+            "Audio files (*.mp3 *.wav *.ogg *.m4a)"
         )
         
-        if not file_path:
-            return
-        
-        # Display in broadcast that file is being processed
-        filename = os.path.basename(file_path)
-        self.broadcast_input.setText(f"[Processing: {filename}]")
-        
-        # Disable upload button while processing
-        self.upload_pdf_btn.setEnabled(False)
-        
-        # Process PDF - store reference to prevent garbage collection
-        self.pdf_worker = PDFWorker(file_path, None)
-        self.pdf_worker.result_ready.connect(self.on_pdf_processed)
-        self.pdf_worker.finished.connect(self.on_pdf_worker_finished)
-        self.pdf_worker.start()
-        
-    def on_pdf_worker_finished(self):
-        """Clean up after PDF worker completes"""
-        # Re-enable upload button
-        self.upload_pdf_btn.setEnabled(True)
-        
-        # Clean up worker reference
-        if self.pdf_worker:
-            self.pdf_worker.deleteLater()
-            self.pdf_worker = None    
-            
-    def on_pdf_processed(self, result):
-        """Handle processed PDF content"""
-        # Check if processing was successful
-        if result.startswith("Error") or result.startswith("PDF appears to be scanned"):
-            QMessageBox.warning(self, "PDF Processing", result)
-            self.broadcast_input.clear()
-            return
-        
-        # Create a message with the PDF content
-        message = f"Please analyze the following document:\n\n{result}"
-        
-        # Broadcast to both agents
-        self.broadcast_to_agents(message)
-        
-        # Clear the processing message
-        self.broadcast_input.clear()
+        if file_path:
+            # Process file in worker thread
+            self.file_worker = FileProcessorWorker(file_path)
+            self.file_worker.result_ready.connect(self.on_file_processed)
+            self.file_worker.start()
     
-    def save_conversation(self):
-        """Save conversation to file"""
-        try:
-            # Save each agent's conversation
-            # The orchestrator has been updating history throughout
-            for agent in self.orchestrator.agents:
-                agent.save_conversation()
-            
-            QMessageBox.information(self, "Success", "Conversations saved successfully")
-        except Exception as e:
-            QMessageBox.critical(self, "Error", f"Failed to save conversations: {e}")
+    def on_file_processed(self, content, should_broadcast):
+        """Handle processed file content"""
+        if should_broadcast:
+            # Add content to broadcast input for user to review/edit before sending
+            self.broadcast_input.setPlainText(content)
+        else:
+            # Just show the error/info message in both panels
+            self.panel1.output_area.append(f"\n{content}")
+            self.panel2.output_area.append(f"\n{content}")
     
-    def load_conversation(self):
-        """Load conversation from file"""
-        folder = QFileDialog.getExistingDirectory(self, "Select Folder with Agent Files")
+    def load_config(self):
+        """Load a configuration file"""
+        file_path, _ = QFileDialog.getOpenFileName(
+            self,
+            "Load Configuration File",
+            "",
+            "JSON files (*.json)"
+        )
         
-        if not folder:
-            return
-        
-        try:
-            results = self.orchestrator.load_agent_files(folder)
-            
-            # Display results
-            result_text = "\n".join([f"{name}: {result}" for name, result in results.items()])
-            QMessageBox.information(self, "Load Results", result_text)
-            
-        except Exception as e:
-            QMessageBox.critical(self, "Error", f"Failed to load conversations: {e}")
+        if file_path:
+            try:
+                # Reload orchestrator with new config
+                self.orchestrator = MultiAgentOrchestrator(file_path)
+                self.config_file = file_path
+                
+                # Update agent panels
+                self.panel1.orchestrator = self.orchestrator
+                self.panel2.orchestrator = self.orchestrator
+                self.panel1.populate_agent_selector()
+                self.panel2.populate_agent_selector()
+                
+                # Clear displays
+                self.panel1.output_area.clear()
+                self.panel2.output_area.clear()
+                self.broadcast_input.clear()
+                
+                QMessageBox.information(self, "Success", f"Configuration loaded: {os.path.basename(file_path)}")
+            except Exception as e:
+                QMessageBox.critical(self, "Error", f"Failed to load configuration: {str(e)}")
     
     def clear_all(self):
-        """Clear all output areas"""
+        """Clear all conversation history"""
         reply = QMessageBox.question(
             self,
-            "Clear All",
-            "Are you sure you want to clear all output areas?",
-            QMessageBox.Yes | QMessageBox.No
+            "Confirm Clear",
+            "This will clear all conversation history. Continue?",
+            QMessageBox.Yes | QMessageBox.No,
+            QMessageBox.No
         )
         
         if reply == QMessageBox.Yes:
+            # Reset through orchestrator
+            self.orchestrator.reset_all_agents()
+            
+            # Clear displays
             self.panel1.output_area.clear()
             self.panel2.output_area.clear()
             self.broadcast_input.clear()
-    
+            
+            # Show reset messages
+            self.panel1.output_area.append("✅ Agent reset complete")
+            self.panel2.output_area.append("✅ Agent reset complete")
+
+
 def main():
-    """Main entry point"""
+    """Main entry point for grant review GUI"""
     app = QApplication(sys.argv)
     
-    # File selection dialog for configuration
-    config_file = None
-    
-    # Check if config file provided via command line
-    if len(sys.argv) > 1:
-        config_file = sys.argv[1]
-        if not os.path.exists(config_file):
-            QMessageBox.critical(None, "Error", f"Config file not found: {config_file}")
-            sys.exit(1)
-    else:
-        # Show file selection dialog
-        config_file, _ = QFileDialog.getOpenFileName(
-            None,
-            "Select Configuration File",
-            "",
-            "Config Files (config*.json);;JSON Files (*.json);;All Files (*)"
-        )
-        
-        if not config_file:
-            QMessageBox.information(None, "No Config Selected", "No configuration file selected. Exiting.")
-            sys.exit(0)
+    # Check if config file is provided as argument
+    config_file = sys.argv[1] if len(sys.argv) > 1 else None
     
     try:
         window = GrantReviewGUI(config_file)
         window.show()
         sys.exit(app.exec_())
     except Exception as e:
-        QMessageBox.critical(None, "Error", f"Failed to initialize application:\n{str(e)}")
+        QMessageBox.critical(None, "Error", f"Failed to start: {str(e)}")
         sys.exit(1)
 
 

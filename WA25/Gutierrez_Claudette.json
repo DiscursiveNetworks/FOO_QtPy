@@ -86,13 +86,5 @@
     }
   ],
   "seeded": true,
-  "chat_id": "7bf79465-a3b7-4c49-b933-04650472caa7",
-  "blockchain_metadata": {
-    "total_blocks": 7,
-    "genesis_hash": "901191f4aab31e052fedd1e362cdfa5350aadf437a0aa69ee034803f10505a37",
-    "last_hash": "471195f3de5f67c6243c17961cadf7e192e60b7eeca798083a76bedb6c112e24",
-    "agent": "Gutierrez_Claudette",
-    "salt": "c59b1ef3a98826ec",
-    "integrity_verified": true
-  }
+  "chat_id": "7bf79465-a3b7-4c49-b933-04650472caa7"
 }

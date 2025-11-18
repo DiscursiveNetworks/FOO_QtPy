@@ -1,0 +1,2217 @@
+
+==================================================
+Page 1
+==================================================
+
+The text of this grant applications is copyrighted.
+Investigators and others may use the text from
+these same applications only for nonprofit
+educational purposes provided the content remains
+unchanged and the Principal Investigator(s), their
+organization(s), and the NHGRI are credited.
+
+
+==================================================
+Page 2
+==================================================
+
+PI: SIMON, CHRISTIAN MICHAEL
+Received: 07/15/2011
+Competition ID: ADOBE-FORMS-B1
+
+1 R21 HG006293-01A1
+IPF: 3972901
+
+Former Number:
+
+Title: Interactive Multimedia and Biorepository Informed Consent
+
+FOA: PA11-182
+
+Council: 01/2012
+
+FOA Title: RESEARCH ON ETHICAL ISSUES IN BIOMEDICAL, SOCIAL, AND
+
+Accessian Number: 3410651
+
+BEHAVIORAL RESEARCH (R21)
+Dual:
+Organization: UNIVERSITY OF IOWA
+
+Department: Internal Medicine
+
+IRG/SRG: SEIR
+
+Subtotal Direct Casts
+(excludes consortium F&A)
+Year1: 150,000
+Year2: 125,000
+
+AIDS: N
+
+Animals: N
+
+Humans: ¥
+
+Clinical Trial: N
+Current HS Code: 30
+HESC: N
+
+Expedited: N
+
+New Investigator: N
+Early Stage Investigator: N
+
+Senior/Key Personnel:
+
+Organization:
+
+Role Category:
+
+Christian Simon PhD
+
+University of lowa
+
+PD/PI
+
+David Klein PhD
+Helen Schartz PhD,
+
+University of lowa
+
+University of lowa
+
+MPI
+MPI
+
+Murray Brilliant PhD
+Jennifer McCormick PhD,
+
+Marshfield Clinic Research Foundation
+
+Mayo Clinic Rochester
+
+Consultant
+
+Consultant
+
+Jamie L'Heureux MS
+
+Appendices
+
+University of lowa
+
+Co-Investigator
+
+ui_biorepository_description1006976206,irb_approved_consenti006976208 recruitment_diagram1006976210,heuristics_eval1
+006976212, participat_decision_form1006976214 participant_questionnaire1006976216,summary_sheet100697620
+
+
+==================================================
+Page 3
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+424 R&R and PHS-398 Specific
+Table Of Contents
+
+Page Numbers
+
+SF 424 R&R Face Page---—------------------—------------n-nnnnemnnnnnenenwenencnrnmncncnenswnenemencnmencnen 1
+Table of Contents-------------------—----------ec-nenennnnnncncnncncnensnmnenenennnnnncncncnmmecnanenenmon 3
+Performance SiteS-------—------------------—-----------n0nnnnn a nnnnnnnnnnnnnnnnnmncnnnnmamnnnnnnemmnnnnn 4
+Research & Related Other Project Information-------------—------------------—----------nonenonennnnnnnnnnne 5
+Project Summary/Abstract (Description)----------------—------------------—-- 6
+Public Health Relevance Statement (Narrative attachment)}-------------—------------------—----- 7
+Facilities & Other Resources------------—------------------—------ 8
+Research & Related Senior/Key Person-------—------------------—-----------nnnnnnnnnnnnnmnmnnnenenenmnnnnn 12
+Biographical Sketches for each listed Senior/Key Person------—------------------—------------ 15
+PHS 398 Specific Cover Page Supplement------------—------------------—-----nnnnnnnnnnnnnnnenenenennnnnnnnnn 34
+PHS 398 Specific Modular Budget-------------------—------------------ ann nn nnn nnnnnnnnnnnnnenenennnncnnnnn 36
+Personnel Justification-------------—------------------—----- 39
+Additional Narrative Justification-----------------—------------------—- 41
+PHS 398 Specific Research Plan-------------------—-----------------0—a-nnnnnnnnonennnnnnnnnnnnnnnananannnn 42
+Introduction------—------------------—------------ 43
+Specific Aims---------------—------------------—--- 44
+Research Strategy----—------------------—-----------0-- 45
+Human Subjects Sections-------—------------------—----------- 51
+Protection of Human Subjects-----------------—------------------—- 51
+Women &Minorities----------------—------------------—-- 53
+Planned Enrollment Table--------------—------------------—---- 54
+Children-----—------------------—------------- 55
+Multiple Pl Leadership Plan----------------—------------------—-- 56
+Bibliography & References Cited----—------------------—-------------- 5?
+Letters of Support--—------------------—---------------- 61
+Resource Sharing Plan-----------—------------------—------- 75
+PHS 398 Checklist-----—----------------0-—annnnennnnenenencennnnennennenennnnnmcnnenennnnnmnnnnenmnenens 76
+Appendix
+
+Number of Attachments in Appendix: 7
+
+Table of Contents Page 3
+
+
+==================================================
+Page 4
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+Interactive Multimedia and Biorepository Informed Consent
+
+The long-term goal of this research is to develop multimedia technology and interactive
+instructional strategies to improve the effectiveness and efficiency of obtaining informed consent
+for human DNA and tissue biorepositories. Studies suggest that individuals do not sufficiently
+understand the information presented during biorepository consent processes, and that
+traditional consent processes pose resource challenges for large-scale biorepositories. Based
+on experiments testing multimedia presentations for patient education purposes, multimedia has
+the potential to improve the effectiveness and efficiency of obtaining biorepository informed
+consent by increasing participant understanding and recollection of information presented. Yet,
+this potential has not been systematically investigated in the unique context of biorepository
+consent. In particular, there is a need to understand the separate effects of interactivity (i.e.,
+question asking, feedback provided to subjects) and multimedia {i.e., multiple information
+delivery formats) on participant knowledge, understanding, and decision to participate.
+
+This study will compare a standard paper-based consent process (control) to multimedia
+and interactive consent processes, using an experimental design with random assignment,
+integrated into actual recruitment at the University of lowa Hospitals and Clinics’ (UIHC)
+comprehensive DNA and tissue biorepository. To assess the separate effects of interactivity and
+multimedia, low and high interactivity conditions will be tested for both the paper and the
+multimedia conditions. In the high interactivity conditions, participants will be asked questions
+about the information presented and provided feedback on their responses. Interactivity and
+multimedia are expected to significantly improve subject knowledge and understanding when
+compared to the paper-based control. High interactive multimedia is expected to decrease staff
+time devoted to obtaining informed consent. Two hundred (200) patients will participate in the
+study from the Dermatology and Immunology/Rheumatology Clinics at the UIHC. Participants
+will be enrolled into the UIHC biorepository via one of the four study conditions. Results of the
+study will be used to develop a multisite comparative study designed to demonstrate the
+effectiveness and efficiency of interactivity and multimedia consent under different
+environments, forms of media, and informed consent protocols. This research has the potential
+to improve on current paper-based informed consent processes and to establish the feasibility
+of alternative, and more effective, multimedia consent processes for human DNA and tissue
+biorepositories and other research-driven efforts in genetics and genomics.
+
+Project Description Page 6
+
+
+==================================================
+Page 5
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+Interactive Multimedia and Biorepository Informed Consent
+
+Biorepositories may ask thousands of people a year to donate biological samples, allow
+access to their health information, and participate in research. Yet, there is little research
+on the best ways to deliver informed consent information to individuals so that they can
+make an informed decision about participating in biorepositories. This study will test an
+interactive, multimedia tool for delivering informed consent information about
+biorepositories to individuals in an understandable and effective way.
+
+Public Health Relevance Statement Page 7
+
+
+==================================================
+Page 6
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+Resources
+
+The University of lowa is a research extensive university with all the necessary infrastructure and resources
+that would be expected at such an institution. All study personnel have direct access to the full range of library
+and computer facilities at the University of lowa. Therefore, only those specific university entities most directly
+relevant to this application are noted here.
+
+Office
+
+All University of lowa study personnel have secured, private offices at the University of lowa within a 5-15
+minute walk from each other. All study personne! at the University of lowa have adequate space for secure
+data storage, office support {photocopy machines, fax, etc.), and conference rooms.
+
+Program in Bioethics and Humanities Offices
+
+The Program in Bioethics and Humanities is located within the University of lowa Carver College of Medicine.
+The Program's mission is to advance a rigorous understanding of human health and healthcare through
+knowledge gained from bioethics, the medical humanities, and related disciplines. The Program occupies
+roughly 1400 square feet of office and conference space. The space consists of two individual faculty offices
+(this includes the contact PI's office), one shared faculty office, one research associate office (Shinkunas), one
+student/research staff office, one administrative secretary office, a copy/work room adjoining the central office
+area, and a program conference room that houses the program library and work stations for research staff or
+students. Research meetings will occur in the conference room of the Program in Bioethics and Humanities at
+the University of lowa.
+
+Law, Health Policy & Disability Center (LHPDC} Offices
+
+A division of the University of lowa College of Law, the Law, Health Policy & Disability Center (LHPDC} is an
+interdisciplinary unit dedicated to social science, health and disability policy, and legal research. LHPDC’s
+mission is to improve the quality of life for lowans and others living with health issues and disabilities. In
+support of this mission, LHPDC maintains two offices in lowa City. One facility houses office space with private
+offices for all staff, and additional space for interns, meetings and small conferences. A separate office houses
+University Survey Services, LHPDC's survey research unit. Offices have accessible meeting and conference
+space. LHPDC offices are located in accessible buildings. Administrative and other support is available as-
+needed from College of Law staff and the University of lowa according to its policies, including grant
+accounting, travel, accounts payable, and other standard support. The College of Law provides research
+assistants according to the needs of individual projects.
+
+Computers
+
+All study personnel have personal computers in their offices with word processing and high-speed internet
+connections.
+
+Program in Bioethics and Humanities Computers
+
+The Program in Bioethics and Humanities has 2 Windows workstations available to students and staff. Both
+are located within accessible office space and available to the project. An additional 2 Windows workstations
+are used for specific staff, who will be working on this project. Any of these may be configured to individual
+user needs. SPSS, Microsoft Office, and other software are available through the University site licensing.
+Nvivo 8 qualtitative software is installed on Ms. Shinkunas’ personal computer as well as the computer in the
+student/research staff office.
+
+Law, Health Policy & Disability Center (LHPDC) Computers
+
+LHPDC's central office has 3 Windows systems available to students, clients and staff, all are located within
+accessible office space and available to the project. An additional 4 Windows and 2 Macintosh workstations
+are used for specific staff. Any of these may be configured to individual user needs. SPSS, Microsoft Office,
+and other software are available through the University site licensing. Several workstations have assistive
+
+Facilities Page 8
+
+
+==================================================
+Page 7
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+technology in place for testing, evaluation needs, and as accommodations for Center staff, students, or
+partners.
+
+Research Services (RS) is an information technology resource set up to assist and collaborate with University
+of lowa faculty and research support groups in a variety of fields and activities. RS staff is available to consult
+with Ul researchers on a number of application areas. Services are offered in high performance computing,
+scientific consulting, training and consultations, and explorations into new technologies.
+
+College of Law Library
+
+As part of the College of Law, LHPDC staff have access to the University of lowa Law Library. The University
+of lowa Law Library has the second largest collection of volumes and microform volume equivalents and the
+second largest number of unique individually cataloged titles in all formats including electronic among all law
+school libraries. As of June 2010, the collection of the Law Library contained more than 1.26 million volumes
+and microform volume equivalents and over 948,000 unique individually cataloged titles in all formats including
+electronic. According to the ABA/AALS Annual Survey for 1999-00, the Law Library contains the seventh
+largest collection of bound volumes and microform volume equivalents among all law school libraries in the
+United States. In March 2010, The National Jurist ranked the University of lowa's Law Library first in the nation
+among law school libraries (Carter, 2010).
+
+References
+
+Carter, K. (2010). What makes a great library. The National Jurist, 19 (6), pgs. 22-24.
+
+Kyrillidou, M., & Bland, L. (2009). ARL Statistics 2007-2008. Association of Research Libraries: Washington,
+D.C. Available at: http:/Awww.arlorg/om~doc/arlstat08. pdf
+
+The University of lowa Health Center
+
+The Health Center comprises the facilities and activities of the University’s four health science colleges:
+Medicine, Dentistry, Nursing, and Pharmacy; and University Hospitals and Clinics, Psychiatric Hospital,
+Hospital School, University Hygienic Laboratory, Speech and Hearing Clinic, and Oakdale Campus. The
+University Hospitals and Clinics and the buildings of the College of Medicine are located on the health science
+campus which is part of the 1300 acre main campus of the University.
+
+Health Science Library
+In the center of the Health Colleges and Hospitals, the Hardin Health Sciences Library provides books,
+
+journals, study facilities and computer facilities (Health Sciences Arcade) to health professionals and other
+scientists on campus, and physicians and other professionals throughout the state. This building occupies
+60,000 square feet, has 211,038 volumes and subscribes to 3,434 journals. A facility for searches by
+MEDLINE, SIDLINE and CANCERLINE is provided and a staff operator is available for assisting patrons in
+designing and executing searches. The newest library service is Health Net, an expanded search capacity
+available from the Campus Computer Network or from a modem.
+
+National Networking for Information Sharing
+As do most major research and educational institutions in the United States, the University of lowa provides
+
+free access to the Internet to all faculty, staff, and students. Such access allows on-line communication (e-mail)
+throughout the world and the transmission of large data sets economically. The only cost to users is for log-in
+{CPU} time on the WEEG computer, for which rates are set at a very low and extremely reasonable level.
+
+Facilities Page 9
+
+
+==================================================
+Page 8
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+The University of lowa Hospitals and Clinics (UIHC)
+
+The University of lowa Hospitals and Clinics, the largest university-owned teaching hospital in the United
+States, provides the clinical base for study in the health disciplines, which include medicine, nursing, as well as
+dentistry, pharmacy, hospital administration, physical therapy, public health, social work, and vocational
+training.
+
+UIHC Mission
+
+The UIHC, in compliance with the Code of lowa, serves as the teaching hospital and comprehensive health
+care center for the State of lowa, thereby promoting the health of the citizens of lowa. The UIHC, in concert
+with the University of lowa health science colleges, functions in support of health care professionals and
+organizations in lowa and other states by: 1} offering a broad spectrum of clinical services to all patients cared
+for within the Center and through its outreach programs; 2) serving as the primary teaching hospital for the
+University; and, 3) providing a base for innovative research to improve health care.
+
+Department of Dermatology (recruitment clinic for study and UIHC biorepository)
+
+The Department of Dermatology is located in the UIHC and is recognized nationally and internationally for
+excellence in patient care, teaching and research. The Department provides full medical and surgical
+dermatologic services at the UIHC. The Department provides general dermatology care and specialty services
+to patients with skin diseases that include acne vulgaris, autoimmune blistering diseases, cancer of the skin,
+cancer of the skin, Dermatitis or eczema, cutaneous infections, hematologic/oncologic skin disease, psoriasis,
+rheumatic skin disease (lupus erythematosus, dermatomyositis, scleroderma), rosacea, and
+vasculitis/vasculopathies.
+
+Division of Immunology (recruitment clinic for study and UIHC biorepositor
+
+The Division of Immunology is located in Department of Internal Medicine at the UIHC and is recognized
+nationally and internationally for excellence in patient care, teaching and research. In its 135-year history, the
+Department of Internal Medicine has sustained a tradition of robust achievement and growth in research,
+patient care, teaching, and service. The Department includes 230 active faculty (and nearly 400 professional
+and clerical support staff). The Division of Immunclogy encompasses Rheumatology and provides care for
+patients with a range of primary immunodeficiency and autoimmunity conditions. The Division cares for
+approximately 800 new allergy/immunology and 1200 new rheumatology patients a year.
+
+Institute for Clinical and Translational Science
+
+University of lowa Institute for Clinical and Translational Science is an overarching structure for all clinical and
+translational research at the UI. Approved by the Board of Regents, State of lowa in December 2006, the
+Institute includes researchers from the colleges of dentistry, nursing, pharmacy, public health, engineering and
+liberal arts and sciences, as well as medicine. The Institute for Clinical and Translational Science will advance
+research at the UI in several ways: through organizing research efforts across the Ul campus, bringing
+together researchers from multiple disciplines to share knowledge and ideas that may lead to new or better
+treatments; creating a cohesive infrastructure for new training programs specifically designed to prepare
+students and junior faculty for careers in clinical and translational science; and it engaging the State of lowa as
+a partner in clinical and translational research. The Institute builds on a strong tradition of community outreach
+by creating a statewide network of community practitioners to help facilitate clinical research being performed
+by the Ul and bringing cutting-edge treatments to patients in outlying communities. These partnerships bring
+cutting-edge treatments to a wider population and at the same time enhance community trust in clinical and
+translational research. Greater community involvement gives community practitioners the opportunity be
+involved in research. Finally, findings from investigators involved in the Institute provide important health
+information to improve the lives of lowans as well as people across the country and world.
+
+Institute for Clinical and Translation Research Core
+
+The Institute for Clinical and Translation Research Core was established to assist University of lowa Principal
+Investigators with pilot grants, industry and NIH clinical trials. To date, the Clinical Research Core staff has
+assisted in the clinical trial process with over 45 Principal Investigators and over 65 clinical research studies.
+
+Facilities Page 10
+
+
+==================================================
+Page 9
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+The Core currently consists of a regulatory office, 6 Coordinators and 7 research assistants. Assistance is
+given to the PI as requested. This may include protocol development, Institutional Review Board submissions,
+completion of regulatory documents, budget development/negotiation, consenting and coordination of clinical
+trial enrolling, data collection, data entry, and ensuring billing compliance.
+
+Patient Education Institute (PEI)
+
+The Patient Education Institute, located in Coralville, lowa, is a private, for-profit business that develops
+interactive patient education software, implements it in healthcare settings, and evaluates it to provide clients
+with metrics.
+
+PEI main quarters are located at 2000 James Street, Coralville, lowa. The offices were built according to PEI’s
+design specifications to accommodate the organization's needs. This includes an insulated recording room.
+PEI has 6,200 square feet of office/development area. PEI’s facilities can accommodate 40 employees with 13
+private offices and a large conference rcom.
+
+PEI has 40 computer stations and a server room. On-site servers are used for development and testing. Client
+servers are offsite. PE] hosts its servers at various geographical locations in the U.S. in order to achieve
+maximum availability and maximum redundant routes. The PEI infrastructure is designed to be able to switch
+data operation from one location to another and restore full normal service in a matter of less than five minutes.
+PEI currently hosts its client servers (a total of 11 servers) at Raleigh, North Carolina; Louisville, Kentucky; and
+Secaucus, New Jersey. They selected data centers that meet regulatory compliance and that are fully
+redundant. Up-time has consistently been more than 99.93% over the past three years {the majority of the
+balance being for scheduled maintenance; the unplanned downtime was 0.012%).
+
+PEl’s development includes 3 proprietary systems: a content management system (Flash, ASP, XML, SQL},
+an online learning management system (Flash, asp, XML, SQL), and an online update management system
+(Flash, asp, XML, SQL). The content management system is an online system that allows PEI to (a) manage
+master medical content and documents; {b) receive simultaneous edits from medical contributors; and (c)
+search 60,000 pages of medical information for medical content. The online learning management system is a
+proprietary PEI system developed to deliver and manage online patient education. It is a full online learning
+management system to the degree that it was licensed and adapted by Honeywell and the Police Legal
+Services to train thousands of hospital staff and police officers, respectively, every month. The online clients
+can receive automatic updates of their software. The online update system is integrated with the online
+learning management system.
+
+Facilities Page 11
+
+
+==================================================
+Page 10
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+PHS 398 Modular Budget, Periods 1 and 2
+
+OMB Number: 0925-0001
+
+Budget Period: 1
+
+Start Date: |"1/0-/20-2 End Date: |°2/21/2613
+
+A. Direct Costs * Funds Requested ($)
+* Direct Cost less Consortium F&A
+
+Consortium F&A
+* Total Direct Costs
+
+B. Indirect Costs Indirect Cost _—s Indirect Cost
+
+Indirect Cost Type Rate (%)} Base ($) * Funds Requested ($)
+
+1. JOn_Camsus Research 5. 150, SoG |
+
+Cognizant Agency (Agency Name, POC Name and Phone Number}|PAAS, Taecdcre Fester, (4214) 767-5441
+
+Indirect Cost Rate Agreement Date [04/22 /20- Total Indirect Costs |
+
+C. Total Direct and Indirect Costs (A + B) Funds Requested (8)|
+
+Budget Period: 2
+
+Start Date: [04/07 4207: End Date:
+
+A. Direct Costs * Funds Requested ($
+* Direct Cost less Consortium F&A 25,900 00
+
+Consortium F&A g. a]
+
+* Total Direct Costs 225, 059.05]
+
+B. Indirect Costs
+ndirect Cost Indirect Cost
+Indirect Cost Type Rate (%)} Base ($) * Funds Requested ($}
+
+Cognizant Agency (Agency Name, POC Name and Phone Number) |-:HHS, Thecdcre Fester, (214) 767-3441
+
+Indirect Cost Rate Agreement Date JU /21/2616 Total Indirect Casts
+
+C. Total Direct and Indirect Costs {A + B) Funds Requested ($)
+
+Modular Budget Page 36
+
+Tracking Number:GRANT 10924713 Funding Opportunity Number:PA- 11-182 Received Date:2011-07-15T13:09:24-04:00
+
+
+==================================================
+Page 11
+==================================================
+
+Tracking Number:GRANT 10924713
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+PHS 398 Modular Budget, Periods 3 and 4
+
+Budget Period: 3
+
+A. Direct Costs
+
+B. Indirect Costs
+Indirect Cost Type
+
+* Direct Cost less Consortium F&A
+
+Indirect Cost
+Rate (%)
+
+* Funds Requested ($)
+
+Indirect Cost
+
+Base ($) * Funds Requested ($)
+
+Cognizant Agency (Agency Name, POC Name and Phone Number)
+
+Indirect Cost Rate Agreement Date
+
+Total Indirect Costs |
+
+C. Total Direct and Indirect Costs (A + B)
+
+Funds Requested ($) |
+
+Budget Period: 4
+
+A. Direct Costs
+
+* Funds Requested (5)
+* Direct Cost less Consortium F&A
+
+Consortium F&A
+
+* Total Direct Costs|
+
+B. Indirect Costs
+
+Indirect Cast Type
+
+Indirect Cost
+Rate (%)
+
+Indirect Cost
+
+Base ($) * Funds Requested ($)
+
+Cognizant Agency (Agency Name, POC Name and Phone Number)
+
+Indirect Cost Rate Agreement Datel |
+
+€. Total Direct and Indirect Costs (A + B)
+
+Modular Budget
+
+Total Indirect Casts fo
+
+Page 37
+
+Funding Opportunity Number:PA- 11-182 Received Date:2011-07-15T13:09:24-04:00
+
+
+==================================================
+Page 12
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+PHS 398 Modular Budget, Periods 5 and Cumulative
+
+Budget Period: 5
+
+A. Direct Costs * Funds Requested ($}
+
+* Direct Cost less Consortium F&A
+
+ConsortumF&a{ |
+* Total Direct Costs| |
+
+Indirect Cost Indirect Cost
+Indirect Cast Type Rate (%) Base ($) * Funds Requested ($)
+
+B. Indirect Costs
+
+Cognizant Agency (Agency Name, POC Name and Phone Number)
+
+Indirect Cost Rate Agreement Date Total Indirect Costs
+
+C. Total Direct and Indirect Costs (A + B) Funds Requested ($)
+
+Cumulative Budget Information
+
+1. Total Costs, Entire Project Period
+
+*Section A, Total Direct Cost less Consortium F&A for Entire Project Period 275, 00.36
+
+Section A, Total Consortium F&A for Entire Project Period a.o9
+
+*Section A, Total Direct Costs for Entire Project Period 2fs, 080,08
+
+*Section B, Total Indirect Costs for Entire Project Period Val, 250.90
+
+*Section C, Total Direct and Indirect Costs (A+B) for Entire Project Period $25,250.06
+
+2. Budget Justifications
+
+Personnel Justification Personnel_custificationlLIaegie Delete Attachment! View Attachment
+
+Additional Narrative Justification
+
+Addl _Narralive_Cusliiicalienl: Delete Attachment| View Attachment
+
+Modular Budget Page 38
+
+Tracking Number:GRANT 10924713 Funding Opportunity Number:PA- 11-182 Received Date:2011-07-15T13:09:24-04:00
+
+
+==================================================
+Page 13
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+Personnel Justification
+Senior/Key Personnel
+
+Christian Simon, PhD, Associate Professor of Bioethics and Humanities in the Department of Internal
+Medicine at the University of lowa, will be a Principal Investigator on this project. He will devote 15% effort per
+year for a total of two years {1.8 calendar months/yr, for a total of 3.6 calendar months for the duration of the
+project}. Dr. Simon is the contact PI for this study. He provides expertise in bioethics for the project. Dr. Simon
+will be responsible for the development and implementation of the data collection tools and measures. He will
+also coordinate the summative workshop in Year 2 of the grant. Dr. Simon will coordinate communication
+among Pls and the NIH and initiate progress reports. He will oversee research activities of team personnel and
+timely completion of group activities according to the project timeline. He will oversee management of the
+budget and maintain weekly communication with the project RAs and Investigators, maintenance of project
+records, storage of study data, and development of reports.
+
+Helen Schartz, PhD, JD, Associate Research Scientist and Director of Research in the Law, Health Policy
+& Disability Center at the University of lowa be a Principal Investigator on this project. She will devote 15%
+effort per year for a total of two years {1.8 calendar months/yr, for a total of 3.6 calendar months for the
+duration of the project). Dr. Helen Schartz provides expertise in social science research and law for the project.
+She will oversee the experiment design, sampling, and implementation of the design. Dr. Schartz will work
+with Dr. Simon to complete the application for and process of obtaining approval for the study from the
+University of lowa's IRB. She will collaborate with Drs. Simon and Klein in the data analysis and write-up
+phases of the project. Dr. Schartz will be the contact person for any concerns that participants may raise during
+the experiment.
+
+David Klein, PhD, Director of Technology in the Law, Health Policy & Disability Center at the University of
+lowa will be a Principal Investigator on this project. He will devote 50% effort per year for a total of two years (6
+calendar months/yr, for a total of 12 calendar months for the duration of the project}. Dr. Klein will provide
+expertise in instructional design, educational psychology, and technology. Dr. David Klein provides expertise
+in instructional design, educational psychology, and technology. He will be responsible for the instructional
+design and development of the modules for the research, including the organization of information and the
+selection of graphics or other media components. Dr. Klein will also oversee the heuristic evaluation of the
+multimedia delivery system. He will work directly with and oversee the Patient Education Institute (PEI) for their
+implementation of the multimedia modules. He will be responsible for addressing any technology issues that
+arise during the implementation of the research and with data collection during the experiment. He will oversee
+the training and supervision of the research assistants. Dr. Klein will collaborate with Drs. Simon and Schartz
+in the data collection, analysis, and write-up phases of the project.
+
+Jamie L’Heureux, MS, Biorepository Development Leader in the Department of Pediatrics at the University of
+lowa Hospitals and Clinics will be a Co-Investigator on this project. She will devote 10% effort per year {1.2
+calendar months/yr for a total of 2.4 calendar months for the duration of the project). Ms. L’Heureux will help
+refine the project instruments; assist in organizing the heuristic evaluation of the multimedia modules; and help
+train the clinic staff and research assistants in the conduct of the experiment. Ms. L'Heureux will also assist in
+the data analysis and interpretation phases from the perspective of her leadership role in the University of lowa
+biorepository and background in genetic counseling.
+
+Consultants
+
+Jennifer B McCormick, PhD, MPP, Assistant Professor of Biomedical Ethics in the
+
+Divisions of Internal Medicine & Health Care Policy Research at the Mayo Clinic in Rochester, Minnesota, will
+be a consultant on this project. Dr. McCormick will provide initial suggestions and advise on the design of the
+multimedia too! that will be used in the proposed research. She will review and make suggestions for refining
+the project's data collection instruments, including those that will be used to measure knowledge and
+understanding. This work will be conducted via conference calls and email correspondence. Dr. McCormick
+will also participate in a summative workshop in Year 2 of the grant, designed to strategize data dissemination
+and logical future research opportunities, including a regional lowa/Marshfield/Mayo (R01) collaboration on
+multimedia biorepository consent.
+
+Personnel Justification Page 33
+
+
+==================================================
+Page 14
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+Murray Brilliant, Ph.D., Senior Research Scientist, Director, Center for Human Genetics and Marshfield
+Clinic Research Foundation, Institute for Clinical and Translational Research's Translational Technologies and
+Resources Core at the Marshfield Clinic will be a consultant on this project. Together with Ms. Wendy Foth, Dr.
+Brilliant will draw on Marshfield Clinic’s study of computer-based biorepository consent to provide initial
+suggestions and advise on the design of the multimedia tool that will be used in the proposed research. He will
+help identify barriers that may need to be negotiated in our longer term effort to incorporate and routinize
+multimedia into multiple biorepository environments regionally and nationally. He will participate in a
+summative workshop in Year 2 of the grant, designed to strategize data dissemination and logical future
+research opportunities, including a regional lowa/Marshfield/Mayo (R01) collaboration on multimedia
+biorepository consent.
+
+Other Personnel
+
+Laura Shinkunas, BA, Research Associate in the Program for Bioethics and Humanities at the University of
+lowa, will be a Research Assistant on the project. She will devote 15% effort per year (1.8 calendar months/yr
+for a total of 3.6 calendar months for the duration of the project). Ms. Shinkunas will be one of two individuals
+supporting Ms. L'Heureux in the training of clinic staff; supporting the clinic staff in the conduct of the
+experiment; retrieving paperwork from clinic personnel and processing parking vouchers on a case-by-case
+basis. Ms. Shinkunas will assist with IRB paperwork, qualitative data analysis, preparation of project progress
+reports, conducting literature searches for manuscripts, and other manuscript preparation activities (e.g.,
+formatting}. Ms. Shinkunas is a member of the Institutional Review Board at the University of lowa.
+
+Jill Smith, PhD, Project Supervisor in the Law, Health Policy & Disability Center at the University of lowa will
+be a Research Assistant on the project. She will devote 25% effort during year 1 only (3 calendar months
+total). Dr. Smith assisted with the development of modules, instruments and data collection on Schartz and
+Klein's pilot study (Interactive, Multimedia Informed Consent Pilot Study); thus, she is very familiar with the
+development of modules, instruments and the data collection process. In collaboration with Dr. Klein, Dr. Smith
+will assist in the development of the multimedia modules and the interactivity component of the high
+interactivity, paper-based process. She will conduct the pilot testing of the modules with volunteers and assist
+with the formative review. She will develop the training materials for the research assistants. During the
+beginning of the data collection process, she will support Ms. L'Heureux in the training of clinic staff;
+supporting the clinic staff in the conduct of the experiment; setting up the computers for running subjects;
+retrieving paperwork from clinic personnel on a case-by-case basis; and checking the data for completeness.
+
+Research Assistants (TBD) Currently, the UIHC biorepository utilizes research assistants to recruit
+participants. Two research assistants in the first year and four additional assistants in the second year will be
+trained on integration of the study into the current, IRB-approved biorepository informed consent process. By
+integrating the study into the biorepository recruitment process, experiment duties will be added to the
+research assistants’ current obligations (¢.g., informed consent for the experiment, random assignment of
+participants to a biorepository informed consent condition, high interactivity component for high interactivity,
+paper-based process, administration of experiment questionnaire on knowledge and demographics, tracking
+time spent with each participant, etc.) Therefore, the budget proposal includes 7 hours of experiment training
+per research assistant and up to 45 minutes of research assistants’ time per research participant (for a total
+study sample of 200 participants, with flexibility to oversample by an additional 20 participants) for the duration
+of data collection.
+
+Year 1 7 hours of training for two research assistants; data collection for approximately 50 participants
+at 45 minutes/participant
+
+Year 2 7 hours of training tor four additional research assistants; data collection for approximately 150
+participants at 45 minutes/participant
+
+Personnel Justification Page 40
+
+
+==================================================
+Page 15
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+Additional Narrative Justification
+
+Additional $25,000 module in Year 1 for purchasing of touchscreen tablets for data collection, additional staff
+time and payment to PEI for development of multimedia modules.
+
+Additional Justification Page 41
+
+
+==================================================
+Page 16
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+OMB Number; 0925-0001
+
+PHS 398 Research Plan
+
+1. Application Type:
+
+From SF 424 (R&R} Cover Page. The response provided on that page, regarding the type of application being submitted, is repeated for your
+reference, as you attach the appropriate sections of the Research Plan.
+
+*Type of Applicatian:
+
+[|New [X]Resubmission [_]Renewal [ ]Continuation [_] Revision
+
+. Research Plan Attachments:
+
+Please attach applicable sections of the research plan, below.
+
+1, Introduction to Application Inbroducl ion lOd69 76143. pdL Delete Attachment| View Attachment |
+{for RESUBMISSION or REVISION anly}
+
+2. Specific Aims Specific_Aixs1906976174 pdt Delete Attachment| View Attachment |
+
+3. “Research Strategy Research _Strategyldvo9!oZ18 Delete Attachment| View Attachment
+
+4. Inclusion Enrollment Report Add Attachment
+
+§. Progress Report Publication List Add Attachment
+
+Human Subjects Sections
+
+6. Protection of Human Subjects Human_Subtects1006976136. pal Delete Attachment| View Attachment
+7. Inclusion of Women and Minorities lnclus_Woren_Minoritiesl3o6 | Delete Attachment| View Attachment
+
+8. Targeted/Planned Enrollment Table PPE rorw 1006976219 pdt | | Delete Attachment| View Attachment |
+
+9. Inclusion of Children Tnelas Dhaildrenl$996976196,. »| | Delete Attachment| View Attachment |
+
+Other Research Plan Sections
+
+10. Vertebrate Animals Add Attachment |
+
+11. Select Agent Research Add Attachment | | |
+
+12. Multiple PD/PI Leadership Plan Yultiple?l_Planlvve9'e10y opal | Delete Attachment | View Attachment |
+
+13. Consortium/Contractual Arrangements Add Attachment
+
+14, Letters of Support Letters of Suppert19969761 af | Delete Attachment | View Attachment |
+
+15. Resource Sharing Plan(s) Resource_Sharing_Flanltts3' Delete Attachment| View Attachment
+
+16. Appendix Add Attachments | Remove Attachments] View Attachments
+
+List of Research Plan Attachments Page 42
+
+Tracking Number:GRANT 10924713 Funding Opportunity Number:PA- 11-182 Received Date:2011-07-15T13:09:24-04:00
+
+
+==================================================
+Page 17
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+INTRODUCTION TO RESUBMISSION
+
+Responses to the Resume and individual Critiques (C) are summarized below. Ma-
+jor changes include a substantively reworked Significance (S}, innovation (1) and
+Approach (A) section. Bolded brackets preceded by the number of the response
+(e.g. R1) demarcate these changes in the research strategy. RESUME: The origi-
+nal was considered significant because it assessed patient understanding of bio- Innovation
+banking, innovative for being theoretically driven, and appropriate in approach be- Approach
+cause of its broad assessment of outcomes. Summary weaknesses were 1. fack Of | Environment
+thorough review of other multimedia (m-media} tools. An expert (D. Klein) in m-
+media and computer-based instruction wrote the original, extensive review of the literature in this field. We
+have added to the review of m-media tools, including details on tools being used at Marshfield and Mayo bio-
+repositories (see A7 in /&A). Total m-media related citations now number 42. 2. greater detail needed on spe-
+cifics of proposed m-media tool. We clarified the structure and content of the m-media tool and integrated a
+visual exemplar (see R2 in A). 3. A minor weakness was need to evaluate barriers to tool adoption. We in-
+cluded a senior consultant (M. Brilliant, MD, Marshfield Clinic) to help identify potential adoption barriers. We
+also secured financial support from our CTSA (see Rosenthal letter) for a summative workshop to plan for
+adoption barriers, strategize data dissemination, and outline a collaborative (lowa/Mayo/Marshfield) R01 for
+evaluating and testing a composite m-media tool in a randomized way (see R3 in A, “Future Directions’).
+IMPACT: Critique 1 (C1): lack of aggressive exploration of other m-media tools leaves unique contribution of
+study unclear. We reworked the literature review (see above) and reorganized /nnovation to highlight the sepa-
+ration of interactivity and m-media as a leading innovative element of our study (see R1 in / & A). We added
+pilot data to support our study hypotheses and claims to innovation (see R8, “Preliminary Data” in A). C1: fittle
+detail about parameters of m-media too! provided (see response in Resume, above). C1: omission of return of
+results issues disappointing. We integrated a focus on return of results (see R4 in S & /) and modified study
+instruments accordingly {see Appendix, “Questionnaire’).
+
+SIGNIFICANCE: C1 and C3: actual biorepository candidates/focus on decision to consent would add value.
+We secured Institutional Review Board {IRB) support (see Bertolaius fetter) for integrating the study into the
+biorepository recruitment process. The study will measure actual, rather than simulated, behavior, exploring
+possible relationships between participant comprehension and decision to participate (see R5 in Aims, | & A).
+INVESTIGATORS: The investigators were considered well qualified and no weaknesses were noted.
+INNOVATION: C7: overall idea of creating and evaluating m-media presentations for consent is not so innova-
+tive. We clarified that m-media has been used to improve consent, including among some biorepositories, but
+that no efforts have controlled for separate and combined effects of interactivity and m-media (see AT in! & A).
+Pilot data we collected (see A, “Preliminary Data’) suggest that interactivity and m-media enhance each other's
+effectiveness, but do not reveal their separate contributions, thus supporting need for this research {see A7 in
+/). Where the original application included an extensive review of theory-based research of m-media in /nnova-
+fion, we moved the bulk of the theory to Approach (see R6 in A). We also clarified that efficiency and return of
+results, both of which this study addresses, are understudied variables in m-media/consent research.
+APPROACH: C7 and C3: study lacks outcome measure for decision to participate in biorepository. This meas-
+ure is now included (see R7 in S, | & Appendix, Decision to Participate in Biobank Form). C1: Have many re-
+sources available through m-media arm. Where adding content may improve the experience of participants, for
+this feasibility study we chose to control for content, using only IRB-approved content in all arms. Our pilot data
+indicated that m-media content was well received (See R8 in A). C7: do not adequately address downside of
+becoming “more efficient” by reducing human element. We clarified that consent efficiency/human element of
+consent is a key but complex issue, allowing for only limited consideration of a core efficiency metric, staff time,
+and added citations to support this point. We included pilot data to demonstrate that use of m-media consent
+tools are not onerous to participants. We broadened measurement ot staff time to all 4 conditions (previously
+restricted to high-interactivity conditions) (R9 in Aims, | & A). C1: Collection/scoring of outcome data should be
+conducted by blinded staff. Blinding recruiters is not possible because they are administering the conditions.
+However, nearly all questionnaire data are numeric, except for a few open-ended questions, and therefore not
+subject to bias (see Appenaix, “Participant Questionnaire’). Data will also be collected with recruiters out of the
+room. C3: study lacks consideration of literacy issues/effect on intervention. We cited this as a limitation of the
+study, and have included plans to address literacy issues in future (R01) research {see R10 in A, “Limitations’).
+ENVIRONMENT: The environment was adequate and no weaknesses were noted.
+
+HUMAN SUBJECTS: The plan for protecting human subjects was acceptable, steps have been taken to ac-
+count for the integrated nature of the revised study design (see revised Protection of Human Subjects).
+
+Previous
+Score (31)
+
+Significance
+
+Investigators
+
+Intreduction Page 43
+
+
+==================================================
+Page 18
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+Specific Aims
+
+The long-term goal of this research is to use multimedia technology and interactive instructional
+strategies to improve the effectiveness and efficiency of obtaining informed consent for human DNA and tissue
+biorepositories. Using an experimental design with random assignment [R5 integrated into actual recruitment
+for a biorepository /R5], we expect interactivity and multimedia to significantly improve subject knowledge and
+understanding and multimedia to decrease staff time devoted to obtaining consent, when compared to a
+standard, paper-based informed consent process (e.g., control group}. Studies suggest that many individuals
+do not sufficiently understand the information presented during informed consent processes, and that
+traditional informed consent processes pose resource-related challenges for large-scale biorepositories.
+
+This study will demonstrate the feasibility of integrating interactivity and multimedia to efficiently
+enhance and standardize biorepository consent processes. Biorepository consent must address a spectrum of
+issues, including the nature, purpose, future use, and potential risks and benefits of participating in tissue and
+DNA biorepositories, as well as the prospect of returning research results and confidentiality issues. Using a
+theory-driven approach based on principles of human learning and cognition, the study will compare a
+standard, IRB (Institutional Review Board) approved paper-based consent process (control) to interactive and
+multimedia consent processes. The multimedia consent process will present information using multiple media
+{text, audio, relevant graphics, and content specific, simple animations). To demonstrate the effects of
+interactivity, separate from multimedia, low and high interactivity conditions will be tested for both the paper
+and the multimedia conditions. In the high interactivity conditions, participants will be asked questions about
+the information presented and provided feedback on their responses to enhance understanding and correct
+misunderstanding. A formative evaluation of the interactive and multimedia consent processes will precede the
+experiment and include input from a bioethics expert, a genomics researcher and biorepository director, an IRB
+Chair, a genetic counselor, researchers at other biorepositories, and a panel of community representatives.
+
+The informed consent processes will be tested in a four group experimental design with (1} the current,
+IRB-approved standard, paper-based informed consent (low interactivity) as the control (PBLI), compared to
+{2) paper-based with high interactivity (PBHI), (3) multimedia with low interactivity (MMLI), and (4) multimedia
+with high interactivity (MMHI). [R5 The study will be integrated into the current, IRB-approved informed consent
+process for the comprehensive DNA and tissue biorepository at the University of lowa Hospitals and Clinics
+{UIHC). Two hundred (200) patients being seen at the UIHC Dermatology (n=100) and Immunology/
+Rheumatology (n=100) Clinics, which are currently enrolling patients into the UIHC Biorepository, will
+participate in the study. /R5) Participants will be enrolled into the UIHC Biorepository via one of the four study
+conditions. Results of the study will be used to develop a multisite comparative study designed to demonstrate
+the effectiveness and efficiency of interactive and multimedia consent under different environments, forms of
+media, and informed consent protocols. This research has the potential to improve on current paper-based
+informed consent processes and to establish the feasibility of alternative, and more effective, multimedia
+consent processes for human DNA and tissue biorepositories and other research-driven efforts in qenetics and
+genomics.
+
+Specific Aim: Systematically develop and test the use of multimedia and interactivity to (1) improve participant
+knowledge and understanding and (2) reduce staff time devoted to obtaining informed consent, using
+an experiment with random assignment of participants integrated into live recruitment processes for a
+biorepository.
+
+Hypothesis 1: Multimedia Will Result in Improved Participant Knowledge and Understanding — Participants
+learning about informed consent from multimedia (MMHI and MMLI) will demonstrate better knowledge
+and understanding of biorepository consent information, compared to participants in the paper-based
+(PBLI and PBHI} conditions.
+
+Hypothesis 2: Interactivity Will Result in Improved Participant Knowledge and Understanding — Participants in
+the high interactivity conditions (MMHI & PBHI) will demonstrate better knowledge and understanding,
+compared to participants in the low interactivity conditions (MMLI & PBLI).
+
+Hypothesis 3: Multimedia Will Result in Reduced Staff Time for Informed Consent — [R9 Staff time will be
+lower in the multimedia (MMHI & MHLI) conditions, when compared to the paper-based (PBHI & PBLI)
+conditions. /R9]
+
+Specific Aims Page 44
+
+
+==================================================
+Page 19
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+Research Strategy - Significance of the Proposed Work
+
+This proposal addresses an NHGRI recognized and critical need to improve the obtaining of informed
+consent for genomics research, including biorepository-based genomics research, involving human
+participants, biospecimens, and health information (Green & Guyer, 2011; Fabsitz et al., 2010; McGuire &
+Beskow, 2010; Miller et al., 2008). Researchers and institutional review boards have been urged to pay careful
+attention to the need to obtain informed consent from genomics research participants (Mehlman, 2001; Rotimi
+& Marshall, 2010). Genomics research challenges standard approaches to informed consent because of the
+broad utility and sharing of research data beyond any immediate studies; [R4 the potential for returning
+incidental findings and other types of research results /R4]; concerns that participants may have about
+confidentiality and discrimination; issues with respect to data sharing and re-consent; and the substantial
+resources that are needed to approach and consent large numbers of participants (Green & Guyer, 2011;
+McCarty et al., 2011a; Ormond et al., 2010; Parker, 2008; Pulley et al., 2010; Simon et al., 2011). Members of
+the public are concerned about the time-consuming and potentially confusing nature of traditional consent
+processes for biorepositories (Murphy et al., 2009; Simon et al. 2011). Research indicates that participants
+have emerged from traditional consent processes with misperceptions about the potential risks and benefits of
+biorepository participation, biospecimen ownership, and the voluntary nature of participation (Allen &
+McNamara, 2011; Barr, 2006; Maradiaga & Maultsby, 2011; Neidich et al., 2008; Ormond et al., 2009;
+Toccaceli et al., 2009). Recent court cases demonstrate the potential consequences of these misperceptions
+for researchers and institutions, including disruption of research, financial settlements, and destruction of
+samples (Beleno v. Tex. Dept. of State Health Servs., 2009; Harmon, 2010; Havasupai Tribe v. Arizona Board
+of Regents, 2008; Trinidad et al., 2011}. These consequences impede scientific advances which could
+contribute to improving the health of individuals (Trinidad et al., 2011).
+
+Although no single solution will address all the needs, we propose to use multimedia technology and
+interactive instructional strategies to improve the effectiveness and efficiency of informed consent processes
+for biorepositories. [R1 Preliminary research suggests that multimedia presentations are feasible for obtaining
+informed consent from potential biorepository donors (McCarty et al., 2011b; K. Yost, personal communication,
+May 16, 2011}. /R1] By comparing interactivity and multimedia as separate constructs to traditional, paper-
+based processes for consenting individuals into a comprehensive DNA and tissue biorepository, the research
+will demonstrate the individual and combined effects of these strategies on participant knowledge of and staff
+time tor R5. [obtaining informed consent in an actual (not a simulated) recruitment process]. Where multimedia
+has potential advantages for standardizing the process, interactivity could be implemented with its own
+advantages into paper-based approaches without the added cost of multimedia production. [R7 Individuals will
+be randomly assigned and formally consented to the biorepository through one of four conditions, allowing
+comparison of actual decisions to participate in the biorepository by informed consent condition. /R7] This
+project is significant, therefore, because it tests a technology-based solution with potential to diminish the
+challenges of conducting informed consent for tissue and DNA biorepositories. By identifying the individual and
+combined effects of interactivity and multimedia, the project will provide empirical evidence for theory-based
+best practices that DNA and tissue biorepositories can implement to improve the effectiveness and efficiency
+of obtaining informed consent from potential biospecimen donors.
+
+Research Strategy - Innovation of the Proposed Work
+
+[R1. Although multimedia has been applied to informed consent for research (Cohn & Larson, 2007; Flory &
+Emanuel, 2004; Henry et al., 2009; Jeste et al., 2008), and a few biorepositories are experimenting with
+multimedia approaches for informed consent (e.g., McCarty et al., 2011b; K. Yost, personal communication
+{p.c.), May 16, 2011), the proposed research integrates a number of original and important design elements:
+
+1. An experimental approach that controls for interactivity and multimedia in an actual biorepository
+recruitment context. Most studies of informed consent described as multimedia have failed to contro! for the
+effects of interactivity. In Flory and Emanuel’s (2004) review of multimedia consent research, most multimedia
+were videos or PowerPoint presentations where participants watched and listened to information, but were not
+required to interact with or use that information. These design limitations may account for the finding that
+multimedia was superior to standard (paper-based) informed consent in only 1 of 12 studies (Flory & Emanuel,
+2004). In contrast, multimedia informed consent has been successful in studies of patient education for routine
+care {e.g., Jeste et al., 2008; Lewis, 1999; Schenker et al., 2011). In review articles of studies using interactive
+“test/feedback” techniques of which a proportion were also multimedia, all studies showed improvement in
+patient knowledge of informed consent (Flory & Emanuel, 2004; Schenker et al., 2011}. Interventions in these
+studies tested patient knowledge during the learning process and provided corrective feedback.
+
+Research Strategy Page 45
+
+
+==================================================
+Page 20
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+Several biorepositories are also experimenting with multimedia approaches to informed consent. Users
+of the Marshfield Clinic's video consent process accessed via touchscreen reported feeling “well informed” in a
+focus group study (McCarty et al., 201 1b) The Mayo Clinic is in the early phases of testing a multimedia
+consent process for a disease-specific biobank, in which video is used and participants are prompted to ask for
+more information. No evaluation data are available yet on this system (K. Yost, p.c., May 16, 2011}. [R5
+Neither the Marshfield nor the Mayo studies control for the separate effects of multimedia and interactivity.
+Therefore, our experimental design will investigate the effects of multiple media (text, aucio, graphics and
+content specific, simple animations) and interactivity {predefined questions to patients with feedback) as
+separate constructs integrated into actual biorepository recruitment.R5] Our pilot data indicate a strong effect
+for interactive multimedia as a delivery strategy over paper-based delivery (p = .008), where interactivity and
+multimedia appear to enhance each other's effectiveness (see Preliminary Data in Approach). Knowing what
+effects interactivity and multimedia respectively have on consent knowledge/understanding will not only permit
+multimedia consent tools to be more rationally designed, but demonstrate how interactivity can improve paper-
+based consent processes. /R1]
+
+(R92. A focus on informed consent effectiveness and efficiency: The effectiveness of informed consent in
+conveying knowledge and understanding of the research is a key component of protecting human subjects’
+rights (Beauchamp & Childress, 1979; Lavori et al., 1999; National Commission, 1979). As a result, we plan to
+measure informed consent knowledge and understanding as separate but interconnected constructs, using
+several measures adapted specifically for the biorepository and UIHC Biorepository contexts (see Appendix,
+Participant Questionnaire). However, resources allocation is also an important consideration for large-scale
+biorepositories (Pulley et al., 2010). Most emerging studies of informed consent among biorepositories have
+focused predominantly on measuring effectiveness or perceived effectiveness {e.g., Allen & McNamara, 2011;
+Maradiaga & Maultsby, 2011). Marshfield Clinic's pilot study demonstrating that their multimedia consent took
+participants slightly less time than the paper-based process (17.5 vs. 18.25 min.; McCarty et al., 2011b)
+speaks to the feasibility of multimedia consent tools from a user perspective. However, research on informed
+consent has not considered efficiency from the standpoint of staff time invested in the consent process. While
+efficiency in informed consent is a complex construct and raises questions such as whether actual and/or
+perceived effectiveness may be compromised as consent efficiency improves and the human element is
+decreased (Ellickson & Hawes, 1989), staff time is an important metric of efficiency and budgetary impact of
+technology-based consent {Lavori et al., 1999). The study begins the process of examining efficiency
+constructs and metrics with those of consent effectiveness in the biorepository informed consent context. /R9]
+
+[R4  3.A timely focus on return of research results: Individual genetic/genomic research results (IGRRs) and
+the challenges they pose are a major interest and concern (Bredenoord et al., 2011; Christensen et al., 2011;
+Fabsitz et al., 2010; Hens et al., 2011; Kolleck & Petersen, 2011). To our knowledge, no studies have
+examined whether multimedia can potentially improve understanding of the prospect of IGRRs. Therefore, our
+study and study instruments now accommodate an exploration of the potential effects of interactive multimedia
+on knowledge/understanding of the possible return of IGRRs. The UIHC Biorepository’s consent document is
+ideal for this purpose because it includes a description of the qualified disclosure policy that the Biorepository
+is taking on return of IGRRs (see p. 4, biorepository consent document). This type of policy is likely to be
+increasingly adopted as guidelines, consensus statements, and experts advocate for some limited return of
+IGRRs (Beskow & Burke 2010; Bredencord et al., 2011; Fabsitz et al., 2010}. We expect that individuals
+enrolled in the interactive multimedia condition of our study will understand the UIHC Bio-repository’s
+statement on the return of results better than those enrolled in the paper-based conditions. If this expectation is
+borne out, our study will help advance in an important and novel direction, interactive multimedia consent,
+evolving efforts to convey IGRR disclosure policies to prospective biorepository participants. /R4]
+
+Approach
+
+Introduction. The objective of this project is to systematically develop and test the use of multimedia
+and interactivity to improve participant knowledge and understanding and reduce staff time devoted to
+obtaining informed consent for biobanking. We will test our working hypotheses using a 2 x 2 randomized,
+experimental design incorporated into the current UIHC, IRB-approved biorepository recruitment process, with
+delivery type (paper-based versus multimedia) and interactivity {low versus high) as the independent variables;
+and knowledge, understanding, decision to enroll in the Biorepository, and staff time as the dependent
+measures. Ultimately, the proposed research will provide strategies that biorepositories can use to improve the
+effectiveness and efficiency of their informed consent processes.
+
+Research Strategy Page 46
+
+
+==================================================
+Page 21
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+Justification and Feasibility. The informed consent process requires participants to learn about the
+research study and use that information to make a decision about participating {Krathwohl, 2002). Traditionally,
+a researcher summarizes and/or a participant reads a paper informed consent document. While previous
+research has focused on improving participants’ decision making (Kass et al., Mintz et al., and Merz & Sankar
+in Agre et al., 2003; Benson et al., 1988), this study aims to improve effectiveness by increasing participant
+knowledge acquisition during informed consent so that participants can make an informed decision. Research
+on informed consent has often focused on content issues such as decreasing the length of informed consent
+documents or simplifying the language (e.g., Beskow et al., 2010; Dresden & Levitt, 2001; Epstein & Lasagna,
+1969; Wittenberg & Dickler, 2007) with mixed results (see Wittenberg & Dickler, 2007, for a review). Our study
+will focus on improving the delivery and acquisition of consent information using interactive multimedia.
+
+[R1, R6. Using Multimedia to improve Informed Consent. Well-designed multimedia delivery platforms are
+theorized to enhance learning because words and pictures are presented simultaneously. Multimedia is a
+combination of visual and auditory information such as pictures, animations, recorded words, live words,
+sounds, and video (Mayer, 2009; Sims, 1997}. According to dual coding theory (Paivio, 1990), people process
+information through two simultaneous pathways, verbal (words and symbols) and spatial (pictures and
+movement). By strategically presenting information through both modalities, information is learned more
+efficiently and learning is enhanced (Clark & Mayer, 2008; Mayer, 2002, 2009; Mayer & Moreno, 1998;
+Mousavi et al., 1995; Sadoski & Paivio, 2001). Multimedia also enhances learning by maintaining cognitive foad
+at an optimum level, when designed on principles of Cognitive Load Theory (CLT) (Schnotz & Kirschner, 2007;
+Sweller et al., 1998; van Merriénboer & Sweller, 2005). Optimal learning engages but does not overwhelm the
+learner. Thus, by designing both content and presentation of instruction to optimize load, multimedia instruction
+facilitates the control of content and presentation of information (Chandler & Sweller, 1991; Mayer & Moreno,
+2003; Paas & van Merriénboer, 1994; Sweller et al., 1998). To manage cognitive load, investigators must focus
+on instructional design. By improving the way in which information is presented, participant learning is
+expected to improve. Thus, by strategically adding graphics and designing multimedia to manage cognitive
+load, we hypothesize (Hypothesis 1) that multimedia will result in improved participant knowledge and
+understanding. Participants learning about informed consent from multimedia (MMHI and MMLI) will
+demonstrate better knowledge and understanding of biorepository consent information, compared to
+participants in the paper-based (PBLI and PBHI) conditions.
+
+Using Interactivity to Improve Participant Understanding. Although many prior studies of informed
+consent for medical research refer to interactive multimedia or provide some form of interactivity in their
+treatments, interactivity is not explained by a theoretical model and not defined or measured as a separate
+construct. Although few studies separate interactivity from other characteristics of multimedia, in studies of
+informed consent for medical research, interactive features of multimedia have included conditions where
+users control the pace or sequence of the instruction (Campbell et al., 2004; Jeste et al., 2008, 2009;
+Llewellyn-Thomas et al., 1995), periodic quizzes (Dunn et al., 2002; Karunaratne et al., 2010; Palmer et al.,
+2008}, simulations, such as scenarios or vignettes requiring patient input (Mintz et al. and Merz & Sankar in
+Agre et al., 2003), repetition of content after assessment (Dunn et al., 2002), and hyperlinks to support deep
+processing of information (Karunaratne et al., 2010; Llewellyn-Thomas et al., 1995).
+
+Although many theories of interactivity have been proposed (Downes & McMillan, 2000; Jensen, 2008;
+Kiousis, 2002; McMillan, 2005), for this project, interactivity is the degree to which an individual is 1) asked to
+respond or use information and 2) provided with feedback on his responses (Kiousis, 2002; Koolstra & Bos,
+2009; Yacci, 2000), in contrast to passive reception of information such as watching a video. This type of
+interactivity can be manipulated in any instructional situation (e.g., computer-based or paper-based; Sims,
+2003). Prior studies have used two kinds of interactivity, 1) user control and 2} engagement with the
+information. This research focuses on engagement with the information as it is more likely to improve
+participant learning (Palmer et al., 2008) and, therefore, understanding of consent information.
+
+According to information processing and interactivity theories (Yacci, 2000), interactivity can enhance
+learning by making learners actively process information, selecting relevant information, organizing it, and
+integrating it into their memory structure (Mayer, 2002). In addition, interactivity can benefit learner
+engagement by providing a sense of social presence (Yacci, 2000}, perception of reduced effort (Downes &
+McMillan, 2000), or by attracting and maintaining learner attention (Lustria, 2007). Even the expectation of
+receiving feedback can improve learning behavior (Vollmeyer & Rheinberg, 2005). /R1, /R6] Because well-
+designed interactions can enhance learning, we hypothesize (Hypothesis 2} that interactivity will result in
+improved participant knowledge and understanding. Participants in the high interactivity conditions (MMHI &
+
+Research Strategy Page 47
+
+
+==================================================
+Page 22
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+PBHI) will demonstrate better understanding of the content, compared to those in the low interactivity
+conditions (MMLI & PBLI).
+
+improving Efficiency by Reducing Staff Time to Obtain informed Consent. Even if a multimedia consent
+process takes as much participant time to complete as paper-based, it can reduce staff time invested in
+delivering basic knowledge. Staff need not be present for the entire time that participants view or work with the
+multimedia presentation. While efficiency is a complex construct and will ultimately require closer investigation
+
+than this study can allow, we predict (Hypothesis 3) that the multimedia conditions will demonstrate better
+
+efficiency, detined as less staff time devoted to obtaining informed consent, than the paper-based conditions.
+
+[R8 Preliminary Data. A recent pilot study (n = 95) by Schartz and Klein found that participants who
+completed interactive, multimedia informed consent in a mock study of a clinical trial reported significantly
+better understanding (M = 15.9 correct out of 18 possible multiple-choice questions) and found the process
+easier to use (M = 2.32 rating on a scale from 1 to 5, with 1 as “excessively easy" and 5 as "excessively
+difficult") than those who received paper-based informed consent (M = 14.9 and M = 3.16, respectively;
+understanding F{2,92) = 5.10, p = .008, ease of use F{(2, 93) = 7.29, p = .001). The mean for multimedia
+without interactivity fell between the two (M = 15.2, M= 2.77, respectively). Although the interactive,
+multimedia condition (M = 20.7 min.) took approximately 2 more minutes than the paper-based (M = 18.7 min.)
+to complete, participants in the interactive, multimedia condition perceived that it took less time than those in
+the control condition (M = 3.58 rating, M = 4.03 rating, respectively, on a scale from 1 to 5, with 1 as
+“excessively short” and 5 as “excessively long"; F(2,92) = 3.53, p = .03). However, the pilot study did not test
+the effects of interactivity and multimedia separately, did not assess staff time, nor gather data on participants’
+likelihood of enrolling in the clinical trial. The proposed study is needed to address these issues, determining
+the effects of interactivity and multimedia separately assessing staff time needed to complete informed
+consent, and measuring participants’ decisions about enrollment in an actual biorepository /R8].
+
+Research Design.
+
+Study Recruitment and Sample. [R5 The study will be integrated into the UIHC Biorepository’s
+recruitment plan as currently being implemented in the Department of Dermatology and Division of
+Immunology/Rheumatology at the UIHC (see letters from Murray, Fairley, Ballas, & Zabner). We anticipate
+enrolling 220 participants (110 from Dermatology and 110 Immunology/Rheumatology respectively) over a 6-
+month period, with 200 complete data and 10% (i.e., 20} additional participants to accommodate unforeseen
+issues such as technology glitches, interruptions of participants, etc.
+
+Procedures. Eligible participants will be approached regarding participation in the UIHC Biorepasitory.
+Those who are interested in learning about the Biorepository will also be informed about this study. Under a
+waiver of written consent, participants will receive a one-page description of the study, consent verbally to the
+experiment, and be randomly assigned to one of the four consent conditions. Atter completing the consent
+condition, participants will complete the Participant Questionnaire (see Appendix), and then be asked to decide
+about participation in the Biorepository. Staff will have on-site access to the knowledge assessment results.
+Participants who correctly answer all knowledge questions will be asked to confirm their decision to participate
+in the Biorepository and be enrolled in it, if they agree. For participants who answer any questions incorrectly,
+staff will review relevant information with them and determine that the participant understands her rights and
+responsibilities before enrollment (see Recruitment Method diagram in Appendix}. Participants will receive 2
+one-hour parking vouchers for participating. /R5]
+
+Paper-based conditions. The paper-based low interactivity (PBLI) is the current IRB-approved informed
+consent process (control). Staff review the informed consent document with the participant, allow him/her to
+read the document, and respond to any participant questions. In the paper-based high interactivity (PBHI)
+condition, the informed consent document will be divided into sections (i.e., nature of research, procedures,
+risks, benefits, etc.). Staff will verbally review and allow the participant to read one section at a time; then staff
+will ask at least one scripted question about a critical element of the section to assess participant knowledge.
+Staff will provide feedback on the participant's response to the question, reinforcing correct answers and
+clarifying misperceptions. Staff will be trained for consistency in their communication style and feedback.
+
+(R2 Multimedia conditions. Limited data and research are available on interactive, multimedia delivery
+system for the obtaining of biorepository consent. Therefore, we will develop and test the interactive module
+templates (see Figure 1), widely used principles of instructional design and the expertise of PEI (see PEI
+letter}, and on the experience of our Mayo and Marshfield consultants. CLT principles for effective multimedia
+learning will be used to guide the design, including the chunking of text, selection of supporting graphics, and
+
+Research Strategy Page 48
+
+
+==================================================
+Page 23
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+simple animations. To control sequencing, hyperlinks will not be ‘Law, Health Policy &
+used. The multimedia modules will use the IRB-approved eT —_ tne nda penis 0 eenan Ceamr
+
+informed consent document as the text and narration. However,
+the multimedia will be presented via a computer in the clinic
+where participants are recruited for the Biorepository. In the
+multimedia high interactivity (MMHI} condition, participants will
+respond on the computer to the same questions at the same
+points in the presentation as the paper-based high interactivity
+(PBHI) condition. In both interactive conditions, participants will
+receive feedback on their responses and will be allowed to
+review the presented information for incorrect responses./R2]
+
+Formative evaluation. Although the words for the )0 cr?
+multimedia informed consent will not be modified because they Te
+will be from the Biorepository’s IRB-approved consent
+document, stakeholders and consultants will participate in a
+formative evaluation of the multimedia presentation (graphics user controls (forward, back, replay, and sound
+and animations) and the interactive components (questions and buttons) as well as buttons for responding to the
+feedback) for the high interactivity conditions. Project question./R2]
+consultants (Brilliant & McCormick), along with a University of
+lowa genomics researcher and biorepository director (J. Murray}, an IRB Chair (A. Bertolatus), and a genetic
+counselor and coordinator (J. L'Heureux) will participate in the evaluation (see corresponding letters of
+support). Additionally, the UI Institute for Clinical and Translational Science community outreach program will
+identify five community members to participate in the formative evaluation. Stakeholders will complete the
+multimedia high interactivity module, respond to a heuristic evaluation form (Alessi & Trollip, 2001; see
+Appendix) for the multimedia presentation, and participate in a verbal debriefing with study investigators. The
+research team will use stakeholder feedback, where feasible and appropriate, to improve the presentation.
+This tormative evaluation process will be reported in ensuing publications to contribute to the process literature
+on multimedia consent development.
+
+Zz
+
+‘hich of the following is NOT true?
+Yuu may quil te study atany line.
+, You wit bé paid if you complate the study.
+
+The doctor might stop your
+uma involvement in the study at any tire.
+
+9} [=] >]
+
+Proax A Bee C
+
+{R2. Figure 1. Example of an interactive question
+using the X-Plain interface. The interface includes
+
+Outcome Measures. To test for knowledge and understanding, a four-part questionnaire (see
+Appendix) has been developed. Participants in all conditions (PBLI, PBHI, MMLI & MMHI) will complete this
+questionnaire post-experiment, on a computer in the clinic using an online survey format with recruiters out of
+the room. Staff will be available to guide participants through the questionnaire and answer any questions. The
+questionnaire is expected to take 20-30 minutes to complete. Questionnaire Sections A and B will measure
+participants’ objective knowledge and subjective (self-assessed) understanding of the Biorepository consent
+information. These measures are based on instruments developed and validated by Joffe et al. (2000) for
+cancer research, and recently adapted by Ormond et al. (2009) for biorepository research. Section A measures
+the participant's recall and recognition, while Section B assesses self-perceived level of understanding of this
+knowledge. We have maintained the design, format, and testing domains of the original validated instruments.
+Following Ormond et al., we have modified some content to reflect the unique characteristics of the UIHC
+Biorepository {see Appendix, UIHC Biorepository Description and Consent Document). Section C measures
+how well participants grasp the implications of biorepository participation based on what they have learned.
+Whereas Sections A and B measure participants’ ability to recall basic information about the biorepository and
+their perceived understanding, Section C measures how well participants are able to use that information, for a
+more objective assessment of their level of understanding. Following the revised Bloom's Taxonomy of
+Educational Objectives (Krathwohl, 2002), which provides a framework for assessing levels of understanding,
+we developed a multiple choice instrument that measures the participants’ ability to interpret, classify, infer,
+and compare learned information. This measure enriches the data from Sections A and B by objectively
+assessing deeper understanding of the presented consent information. Section D collects demographic and
+health data on participants and asks them to reflect on their experience in the experiment. These data will be
+used to explore any possible variability in knowledge and understanding scores within and across conditions
+and to gain participant perspectives on the experiment.
+
+[R5, R7 Participants’ decision to participate/not participate in the UIHC Biorepository will be captured after
+they have had an opportunity to ask questions/allay concerns about Biorepository participation, but before they
+fill out the study questionnaire. Their decision will be confirmed after their knowledge/understanding of the
+consent information has been assessed and remediated, if necessary (see Appendix, Decision to Participate in
+Biobank Form, and Recruitment Method diagram). /R5, /R7]
+
+Research Strategy Page 49
+
+
+==================================================
+Page 24
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+[R9 Staff time devoted to informed consent has been previously used in empirical research as a key
+efficiency variable (Beebe & Smith, 2010; Lavori et al., 1999}. The dependent variable, staff time, will be
+measured as the total number of minutes that staff actively spend with the participant from the start of the
+consent process (e.g., handing them the paper form or setting up the multimedia process) to the end point of
+the consent process, and includes interactions and answering questions. Staff will be trained to record these
+time segments reliably using standard digital timers (Migden et al., 2008). /R9]
+
+Data Management and Analysis
+
+Data Managemeni. The study’s working hypotheses will be tested using quantitative data from the
+dependent measures. We will replicate Ormond et al.’s (2009) scoring procedures for the data from the
+Knowledge and Understanding Measures. The 31 items in Part A will be individually scored (correct = 100,
+unsure = 50, incorrect = 0), with scores summed and averaged. Part B consists of 21 5-point Likert scale
+questions, which will be averaged and normalized to create an overall score from 0 to 100, with higher scores
+reflecting higher perceived understanding. Part C will consist of 9 questions which will be scored as correct or
+incorrect and summed to create an overall objective understanding score. Responses to Part D, the
+demographic, health, and qualitative items, will be descriptively summarized. Data will be organized and
+managed in SPSS, organized in linked databases to allow for comparison between the measures.
+
+Data Analyses and Power. Data will be analyzed using a 2 x 2 factorial MANOVA using SPSS, with
+format (paper-based and multimedia) and interactivity (low and high) as the independent variables and total
+scores on the knowledge, self-assessed understanding, objective understanding instruments, and staff time as
+the dependent variables. G*Power (Faul et al., 2007) Version 3.1.2 was used to calculate sensitivity of the
+research design. Based on 200 total participants, 50 per group, at the 0.05 significance level, our design will be
+able to detect an effect size of 0.7 SD (difference expressed in standard deviation units) with 0.80 power.
+Qualitative feedback from participants will be managed using Nvivo software, and analyzed for recurring
+themes within and across the experiment’s conditions.
+
+Study Limitations, Timeline, and Expected Outcomes and Future Research
+
+Limitations. Although participants will be recruited from different clinics, this feasibility study will not
+have sufficient power to control for demographic and environmental (i.e., clinic) differences. Those analyses
+are planned for the subsequent multi-site RO1. [R10 Additionally, low literacy, including scientific, health, and
+genetic literacy, is a barrier for obtaining informed consent (Raich et al., 2001). While this study is unable to
+explore literacy because of feasibility, our future work will aim to enhance the sensitivity of multimedia informed
+consent for biorepositories to individual literacy, as well as educational and cultural background. Colleagues at
+the Mayo Clinic, participating in our summative workshop, are ideally positioned to contribute in this respect
+given their ongoing work in this area (e.g., Yost et al., 2010)./R10]
+
+Timeline. The study will be completed within 24 months. The first 6 months of Year 1 will be devoted to
+development and formative evaluation of informed consent processes. Data collection will begin in the second
+6 months of Year 1 and be completed in the first 6 months of Year 2. Analysis, interpretation, and manuscript
+preparation will be conducted during the remaining 6 months.
+
+Expected Outcomes and Future Directions. This study determines the feasibility of using interactive
+multimedia to improve knowledge/understanding of biorepository consent information, and the potential effects
+of these improvements on the decision to enroll in DNA and tissue biorepositories. Results will allow the team
+to pursue a multisite comparative study to demonstrate the effectiveness and efficiency of interactive
+multimedia consent across distinctive biorepository environments. [R3 Summative workshop - Our CTSA has
+offered (see Rosenthal letter) to sponsor a ¥2 day workshop to strategize data dissemination and a future
+research (R01) collaboration among the University of lowa, Marshfield Clinic, Mayo Clinic, and other
+biorepository sites (e.g., NUGENE — see Smith letter) devoted to the application of multimedia to biorepository
+informed consent. Planning for possible barriers to the transportability and adoption of multimedia innovations
+will be a central focus of the workshop. Consultants McCormick, Brilliant, and one of their personnel (Catherine
+Yost, Mayo; Wendy Foth, Marshfield), who have helped design multimedia consent systems and oversee their
+day-to-day operations will participate in the workshop. The workshop will aim to produce an RO1 study outline
+aiming to test in a multisite randomized trial a multimedia application that capitalizes on the R21 results, other
+experimental systems, and the lessons learnt with multimedia in the lowa/Mayo/Marshfield consortium. /R3]
+
+Potential Problems and Alternative Strategies Paper-based informed consent processes can vary
+significantly from one recruiter to another (Schenker et al., 2011}. Since data will be collected in two clinics
+using several recruiters, we will train recruiters and conduct follow-up monitoring and case-by-case data quality
+control in an effort to reduce the potential for individual bias to affect the study.
+
+Research Strategy Page 50
+
+
+==================================================
+Page 25
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+6. PROTECTION OF HUMAN SUBJECTS
+6.1 Risks to Human Subjects
+
+a. Human Subjects Involvement, Characteristics, and Design
+As part of recruitment for the University of lowa biorepository, participants will be asked to participate ina
+
+one-session experiment comparing informed consent processes. All participants will need to meet the following
+study criteria: 1) able to communicate in English, 2) age 18 or older, 3) non-prisoner status, 4) currently a
+University of lowa Hospitals and Clinics patient, and 5) capable of providing informed consent for the study.
+
+b. Sources of Materials:
+
+Sources of material will include electronic copies of a participant questionnaire as well as electronic usage
+data from the multimedia informed consent modules, which will be collected by computer servers. For this
+study, all research materials will be de-identified. No names or other participant identifiers will be recorded on
+electronic data. An idiosyncratic coding number will be used to ensure linkage of the participant questionnaire
+and usage data, which will be separate and distinct from the participant's UIHC patient medical record number.
+Data for the post-session assessment and questionnaire are collected using web-based forms over an
+encrypted (https) connection. The computer server that holds subject assessment data is located in a
+restricted-access room, with access only by the research team. Login access to the server is restricted to only
+one member of the research team, the systems administrator and members of the College of Law IT
+department. Once data collection is complete these data will be transferred to Excel or SPSS files, which will
+be stored on a computer in the Pl's locked office. Computer security is consistent with the university's
+
+electronic security policies as described here http://cio.uiowa.edu/policy/policy-information-security-
+framework.shtml.
+
+Names of participants will be collected only to ensure that someone is not accidentally reenrolled in the
+study. The biorepository already has an IRB-approved process to ensure that potential participants are not
+approached more than once.
+
+c. Potential Risks
+
+This study involves the collection of data from an experiment on informed consent involving the
+administration of an electronic questionnaire and collection of usage data. It is believed that the probability and
+magnitude of harm or discomfort anticipated in the research are not greater in and of themselves than those
+ordinarily encountered in daily life or during the performance of routine physical or psychological examinations
+or tests, meeting the criteria for minimal risk. Furthermore, the integration of this study as the informed consent
+process for the biorepository does not increase the risks from the current biorepository informed consent
+process. This study will be reviewed and all procedures as specified by The University of lowa IRB will be
+followed.
+
+6.2 Adequacy of Protection Against Risks
+
+a. Recruitment and Informed Consent
+
+All procedures as specified by The University of lowa IRB will be followed. Patients will be recruited and
+enrolled into the study along with recruitment for the biorepository over a 12-month period from the
+Dermatology and Immunclogy/Rheumatology clinics. Approximately 200 patients are expected to express
+interest in this study.
+
+Eligible participants will be approached regarding participation in the UIHC biorepository. Those who
+express an interest in learning about the biorepository will also be informed about this study. Under a waiver of
+written consent, participants will receive a one-page description of the study, consent verbally to the
+experiment, and be randomly assigned to one of the four consent conditions. After completing the consent
+condition, participants will 1} be asked whether/not they intend to participate in the biorepository; 2) complete
+the Participant Questionnaire; 3) be given an opportunity to remediate any gaps in knowledge/understanding of
+biorepository participation; and 4) be asked to confirm their decision as to participation in the Ul Biorepository
+(see Appendix, Recruitment Method Diagram). Step 3 (i.e., opportunity to remediate gaps) will be undertaken
+to help ensure that participants in all four study conditions complete the study and confirm their decision to
+participate/not participate in the biorepository based on a uniformly robust knowledge/understanding of the
+content of the officially approved UI Biorepository informed consent document (see Appendix). Step 3 will be
+
+Protection of Human Subjects Page 51
+
+
+==================================================
+Page 26
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+undertaken only with participants who do not score correctly on all knowledge/understanding questions in the
+Participant Questionnaire. Recruiting staff will have immediate, on-site access to the knowledge/understanding
+assessment results, in order to be able to assess if some informational element or elements of the consent
+document need to be reviewed again. If the participant answers any questions incorrectly, staff will review
+relevant information with the participant and determine that the participant understands her rights and
+responsibilities before enrollment (see Recruitment Method diagram in Appendix). All participants will be asked
+to confirm their decision to participate in the UI Biorepository and will be enrolled in the biorepository
+dependent on their decision. All participants will be provided with two, one-hour parking vouchers for their time.
+
+b. Protections Against Risk
+
+There is a risk of loss of confidentiality of materials obtained for this study. In order to minimize this risk, all
+study materials will be coded. No names or identifying information will be retained on any collected data
+sources (questionnaire and usage information}. All research materials will be de-identified. No names or
+identifiers will be recorded on electronic data. An idiosyncratic coding number will be used to ensure linkage of
+the participant questionnaire and usage data, which will be separate and distinct from the participant's UIHC
+patient medical record number. Data in electronic form will be stored on secure computers in the research
+offices and will be accessible only to authorized research staff. Names of participants will be collected only to
+ensure that someone is not accidentally reenrolled in the study. The biorepository already has an IRB-
+approved process to ensure that potential participants are not approached more than once.
+
+6.3 Potential Benefits of the Proposed Research to the Subjects and Others
+Individual participants may not benefit from participating in the research.
+
+6.4 Importance of the Knowledge to be Gained
+
+Insights gained from this study may be useful to health policy makers, IRBs, and researchers who have a
+stake in biorepository-driven research. Study data will advance understanding of the potential utility of
+multimedia informed consent in biorepository recruitment procedures.
+
+6.5 Data and Safety Monitoring Plan
+
+A true Data Safety Monitoring Board is not required, as the proposed study is not a clinical trial, but an
+examination of informed consent in biorepository recruitment procedures. A plan is in place to insure the safe
+handling of all data and the maintenance of confidentiality. This plan should be sufficient; however, the ultimate
+responsibility for data safety rests with the Principal Investigators.
+
+An important aspect of this research is instituting procedures to assure the safe management of all data
+obtained from participants. In order to protect participants, the Institutional Review Board will review the study.
+All appropriate guidelines will be followed, including the use of Informed Consent procedures. Data safety
+procedures will be part of the annual review by the appropriate IRBs and any changes suggested by these
+groups will be incorporated into the delineated data safety plan.
+
+Protection of Human Subjects Page 52
+
+
+==================================================
+Page 27
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+7. Inclusion of Women and Minorities
+
+We will enroll male and female participants in the project, and we anticipate that the sample will be
+approximately 50% female.
+
+Approximately 5.6% of residents of lowa are members of minority groups and 4.0% are of Hispanic
+origin. Based on our prior focus group and survey research on biobanking, we expect that at least 5%
+of our sample will be English-speaking members of minority groups.
+
+Women &Minorities Page 53
+
+
+==================================================
+Page 28
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+Targeted/Planned Enrollment Table
+
+Study Title: |nteractive Multimedia and Biorepository Informed Consent
+
+Total Planned Enrollment: 220
+
+TARGETED/PLANNED ENROLLMENT: Number of Subjects
+
+Sex/Gender
+Ethnic Category | Females | Males | ‘Total __
+
+Hispanic or Latino
+
+Not Hispanic or Latino
+
+Ethnic Category: Total of All Subjects *
+
+Racial Categories
+
+American Indian/Alaska Native 1 4 2
+Asian 2 2 4
+Native Hawaiian or Other Pacific Islander 0 0
+
+Black or African American 4 4 8
+White 103 103 206
+Racial Categories: Total of All Subjects * 110 110 220
+
+* The “Ethnic Category: Total of All Subjects” must be equal to the “Racial Categories: Total of All Subjects.”
+
+Planned Enrollment Table Page 54
+
+
+==================================================
+Page 29
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+9. Inclusion of Children
+
+Children will not be enrolled in the study, as they are not currently eligible for participation in the
+DNA and tissue biorepository at the University of lowa Hospitals and Clinics.
+
+Children Page 55
+
+
+==================================================
+Page 30
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+12. MULTIPLE P| LEADERSHIP PLAN
+
+This is a collaborative research project for which multiple Pls provide specific expertise to meet the
+project purpose and accomplish project aims. Drs. Simon, Schartz and Klein will be the Pls responsible
+for oversight of the entire program, and development and implementation of all policies, procedures and
+processes. Drs. Simon, Schartz and Klein will be responsible for the implementation of the Scientific
+Agenda, the Leadership Plan, and the specific aims and ensure that systems are in place to guarantee
+institutional compliance with US laws, DHHS and NIH policies including human research, data and
+facilities. The leadership plan specifies division of responsibilities for achievement of study aims.
+
+A. Responsibilities, Management and Communication
+
+The multiple Pl format on this grant is designed to maximize the expertise in bioethics, law, and
+education technology that Drs. Simon, Schartz, and Klein respectively bring to this project.
+
+Dr. Christian Simon is the contact PI. He provides expertise in bioethics for the project. Dr. Simon
+will be responsible for the development and implementation of the data collection tools and measures.
+He will also coordinate the summative workshop in Year 2 of the grant. Dr. Simon will coordinate
+communication among Pls and the NIH and initiate progress reports. He will oversee research activities
+of team personnel and timely completion of group activities according to the project timeline. He will
+oversee management of the budget and maintain weekly communication with the project RAs and
+Investigators, maintenance of project records, storage of study data, and development of reports.
+
+Dr. Helen Schartz provides expertise in social science research and law for the project. She will
+oversee the experiment design, sampling, and implementation of the design. Dr. Schartz will work with
+Dr. Simon to complete the application for and process of obtaining approval for the study from the
+University of lowa's IRB. She will collaborate with Drs. Simon and Klein in the data analysis and write-
+up phases of the project. Dr. Schartz will be the contact person for any concerns that participants may
+raise during the experiment.
+
+Dr. David Klein provides expertise in instructional design, educational psychology, and technology.
+He will be responsible for the instructional design and development of the modules for the research,
+including the organization of information and the selection of graphics or other media components. Dr.
+Klein will also oversee the heuristic evaluation of the multimedia delivery system. He will work directly
+with and oversee the Patient Education Institute (PEI) for their implementation of the multimedia
+modules. He will be responsible for addressing any technology issues that arise during the
+implementation of the research and with data collection during the experiment. He will oversee the
+training and supervision of the research assistants. Dr. Klein will collaborate with Drs. Simon and
+Schartz in the data collection, analysis, and write-up phases of the project.
+
+The Pls will meet weekly throughout the life of the project regarding the activities of the project.
+
+B. Intellectual Property
+
+Publication authorship will be based on the relative scientific contributions of Pls and key personnel,
+in accordance with professional standards, and in accordance with recommendations of the Uniform
+Requirements for Manuscripts Submitted to Biomedical Journals: Writing and Editing for Biomedical
+Publication.
+
+C. Conflict Resolution
+
+Pls shall meet to discuss the resolution of any conflicts. If they are unable to resolve the conflict,
+standard University of lowa procedures for resolving any dispute, claim or controversy arising out of or
+relating to a subcontract will be followed. If a potential conflict develops, the Pls shall meet and attempt
+to resolve the dispute. If they fail to resolve the dispute, the disagreement shall be referred to an
+arbitration committee consisting of one impartial senior executive from each Pl’s College and a third
+impartial senior executive mutually agreed upon by both Pls. No members of the arbitration committee
+will be directly involved in the research grant or disagreement.
+
+D. Change in PI Location
+
+If a Pl moves to a new institution, attempts will be made to transfer the relevant portion of the grant
+to the new institution. In the event that a PI cannot carry out his/her duties, a new PI will be recruited as
+a replacement at one of the participating institutions.
+
+Multiple Pl Leadership Plan Page 56
+
+
+==================================================
+Page 31
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+Bibligraphy and References Cited
+
+Agre P, Campbell FA, Goldman BD, Boccia ML, Kass N, McCullough LB, Merz JF, Miller SM, Mintz J, Rapkin
+B, Sugarman J, Sorenson J, Wirshing D. Improving informed consent: The medium is not the message.
+{RB. 2003;Suppl 25(5):S11-$19.
+
+Alessi SM, Trollip SR. Multimedia for learning: Methods and development. 3rd ed. Boston: Allyn and Bacon;
+2001.
+
+Allen J, McNamara B. Reconsidering the value of consent in biobank research. Bioethics. 2011;25(3):155-166.
+PMID19659851.
+
+Barr M. ‘I'm not really read up on genetics’: Biobanks and the social context of informed consent. BioSocieties.
+2006;1:251-262.
+
+Beauchamp TL, Childress JF. Principles of biomedical ethics. 4th ed. New York: Oxford University Press; 1994
+(1979).
+
+Beebe LH, Smith K. Informed consent to research in persons with schizophrenia spectrum disorders. Nurs
+Ethics. 2010;17(4):425-434.
+
+Beleno v. Tex. Dept. of State Health Servs. SAO9CA0188 227 (W.D. Tex., 2009).
+
+Benson PR, Roth LH, Appelbaum PS, Lidz CW, Winslade WJ. Information disclosure, subject understanding,
+and informed consent in psychiatric research. Law Hum Behav. 1988;12(4):455-475.
+
+Beskow LM, Burke W. Offering individual genetic research results: Context matters. Sci Trans! Med.
+2010;2(38):1-5. PMID20592417.
+
+Beskow LM, Friedman JY, Hardy NC, Lin L, Weinfurt KP. Developing a simplified consent form for biobanking.
+PLoS One. 2010;5(10):e13302. PMCID2951917. PMID20949049.
+
+Bredenoord AL, Kroes HY, Cuppen E, Parker M, van Delden JJ. Disclosure of individual genetic data to
+research participants: the debate reconsidered. Trends Genet. 2011 ;27(2):41-47. PMID21190750.
+
+Campbell FA, Goldman BD, Boccia ML, Skinner M. The effect of format modifications and reading
+comprehension on recall of informed consent information by low-income parents: a comparison of print,
+video, and computer-based presentations. Patient Educ Couns. 2004;53(2):205-216. PMID15140461.
+
+Chandler P, Sweller J. Cognitive load theory and the format of instruction. Cognition Instruct. 1991;8(4):293.
+
+Christensen KD, Roberts JS, Shalowitz DI, Everett JN, Kim SY, Raskin L, Gruber SB. Disclosing individual
+CDKN2A research results to melanoma Survivors: Interest, impact, and demands on researchers. Cancer
+Epidemiol Biomarkers Prev. 2011;20(3):522-529. PMID21307304.
+
+Clark RC, Mayer RE. E-learning and the science of instruction: Proven guidelines for consumers and designers
+of multimedia learning. San Francisco, CA: Pfeiffer; 2008.
+
+Cohn E, Larson E. Improving participant comprehension in the informed consent process. J Nurs Scholarsh.
+2007539{3):273-280.
+
+Downes EJ, McMillan SJ. Defining interactivity: A qualitative identification of key dimensions. New Media
+Society. 2000;2(2):157-179.
+
+Dresden GM, Levitt MA. Modifying a standard industry clinical trial consent form improves patient information
+retention as part of the informed consent process. Acad Emerg Med. 2001 ;8(3):246-252. PMID11229946.
+
+Dunn LB, Lindamer LA, Palmer BW, Golshan S, Schneiderman LJ, Jeste DV. Improving understanding of
+research consent in middle-aged and elderly patients with psychotic disorders. Am J Geriatr Psychiatry.
+2002;10(2):142-150. PMID11925275.
+
+Ellickson PL, Hawes JA. An assessment of active versus passive methods for obtaining parental consent.
+Evaluation Rev. 1989;13(1):45-55. PMID11659371.
+
+Epstein LC, Lasagna L. Obtaining informed consent. Form or substance. Arch {intern Med. 1969;123(6):682-
+688. PMID5771055.
+
+Fabsitz RR, McGuire A, Sharp RR, Puggal M, Beskow LM, Biesecker LG, Bookman E, Burke W, Burchard EG,
+Church G, Clayton EW, Eckfeldt JH, Fernandez CV, Fisher R, Fullerton SM, Gabriel S, Gachupin F,
+James C, Jarvik GP, Kittles R, Leib JR, O'Donnell C, O'Rourke PP, Rodriguez LL, Schully SD, Shuldiner
+AR, Sze RK, Thakuria JV, Wolf SM, Burke GL. Ethical and practical guidelines for reporting genetic
+research results to study participants: Updated guidelines from a National Heart, Lung, and Blood Institute
+working group. Circulatory and Cardiovascular Genetics. 2010;3(6)}:574-580. PMID21156933.
+
+Faul F, Erdfelder E, Lang AG, Buchner A. G*Power 3: A flexible statistical power analysis program for the
+social, behavioral, and biomedical sciences. Behav Res Methods. 2007;39(2):175-191. PMID17695343.
+
+References Cited Page 57
+
+
+==================================================
+Page 32
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+Flory J, Emanuel E. Interventions to improve research participants’ understanding in informed consent for
+research: A systematic review. JAMA. 2004;292(13):1593-1601.
+
+Green ED, Guyer MS. Charting a course for genomic medicine from base pairs to bedside. Nature.
+
+201 1;470(7333):204-213. PMID21307933.
+
+Harmon A. Indian tribe wins fight to limit research of its DNA. New York Times. 2010 Apr 21;Sect. Al.
+
+Havasupai Tribe v. Arizona Board of Regents. 220 Ariz. 214, 204 P.3d 1063 224 (2008).
+
+Henry J, Palmer BW, Palinkas L, Glorioso DK, Caligiuri MP, Jeste DV. Reformed consent: Adapting to new
+media and research participant preferences. /AB. 2009;31(2},1-8. PMCID2743865. PMID19402337.
+
+Hens K, Nys H, Cassiman JJ, Dierickx K. The return of individual research findings in paediatric genetic
+research. J Med Ethics. 2011;37(3):179-183. PMID21059631.
+
+Jensen JF. The concept of interactivity -- revisited: Four new typologies for a new media message. ACM
+International Conference Proceeding Series: Proceeding of the 1st International Conference on Designing
+Interactive User Experiences for TV and Video. Silicon Valley, CA; 2008:129-132.
+
+Jeste DV, Dunn LB, Folsom DP, Zisook D. Multimedia educational aids for improving consumer knowledge
+about illness management and treatment decisions: A review of randomized controlled trials. J Psychiatr
+Res. 2008;42(1):1-21.
+
+Jeste DV, Palmer BW, Golshan S, Eyler LT, Dunn LB, Meeks T, Glorioso D, Fellows |, Kraemer H, Appelbaum
+PS. Multimedia consent for research in people with schizophrenia and normal subjects: A randomized
+controlled trial. Schizophr Bull. 2009;35(4)}:719-729. PMCID2696362. PMID18245061.
+
+Joffe S, Cook EF, Cleary PD, Clark JW, Weeks JC. Quality of informed consent: A new measure of
+understanding among research subjects. J Nat! Cancer Inst. 2000;93{2):139-147.
+
+Karunaratne AS, Korenman SG, Thomas SL, Myles PS, Komesaroff PA. Improving communication when
+seeking informed consent: A randomised controlled study of a computer-based method for providing
+information to prospective clinical trial participants. Med J Australia. 2010;192(7):388-392.
+PMID20367586.
+
+Kiousis S. A concept explication. New Media and Society. 2002;4(3):355-383.
+
+Kollek R, Petersen I. Disclosure of individual research results in clinico-genomic trials: Challenges,
+classification and criteria for decision-making. J Med Ethics. 2011. PMID21345860.
+
+Koolstra CM, Bos MJ. The development of an instrument to determine different levels of interactivity.
+International Communication Gazette. 2009;71{5):373-391.
+
+Krathwohl DR. A revision of Bloom's taxonomy: An overview. Theor Pract. 2002;41{4):212-218.
+
+Lavori PW, Sugarman J, Hays MT, Feussner JR. Improving informed consent in clinical trials: A duty to
+experiment. Controffed Clin Trials. 1999;20(2):187-193. PMID10227417.
+
+Lewis D. Computer-based approaches to patient education: A review of the literature. J Am Med inf Assoc.
+1999;6(4):272-282.
+
+Llewellyn-Thomas HA, Thiel EC, Sem FW, Woermke DE. Presenting clinical trial information: A comparison of
+methods. Patient Educ Couns. 1995;25(2):97-107. PMID7659635.
+
+Lustria ML. Can interactivity make a difference? Effects of interactivity on the comprehension of and attitudes
+toward online health content. J Am Soc Inf Sci Technol. 2007 ;58({6):766-776.
+
+Maradiaga G, Maultsby M. Informed consent in the biobanking context: going beyond the signature. Exploring
+the ELSI Universe: Ethical, Legal, & Social Implications [poster presentation]. Chapel Hill, NC; April 12-14,
+201 1[cited 2011 July 7]. Available from: http://www.academicventures.com/elsi/Abstracts/Posters51-54 pdf
+
+Mayer RE. Cognitive theory and the design of multimedia instruction: An example of the two-way street
+between cognition and instruction. New Directions for Teaching & Learning. 2002;2002(89):55-71.
+
+Mayer RE. Multimedia learning. 2nd ed. Cambridge ; New York: Cambridge University Press; 2009.
+
+Mayer RE, Moreno R. A split-attention effect in multimedia learning: Evidence for dual processing systems in
+working memory. J Educ Psychol. 1998:90({2):312-320.
+
+Mayer RE, Moreno R. Nine ways to reduce cognitive load in multimedia learning. Educ Psychol. 2003;38(1}:43.
+
+McCarty CA, Chisholm RL, Chute CG, Kullo lJ, Jarvik GP, Larson EB, Li R, Masys DR, Ritchie MD, Roden
+DM, Struewing JP, Wolf WA. The eMERGE Network: A consortium of biorepositories linked to electronic
+medical records data for conducting genomic studies. BMC Med Genomics. 2011a;4:13. PMCID3038887.
+PMID21269473.
+
+McCarty C, Mahnke A, McManus V, Rasmussen L, Stueland-Adamski N, Hoffman D, Plasek J, Ellefson J
+Waudby C, Foth W, Kitchner T, Fost N. The development of a computer-based consenting process for
+enrollment into a large biobank. Exploring the ELSI Universe: Ethical, Legal, & Social Implications [poster
+
+References Cited Page 58
+
+
+==================================================
+Page 33
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+presentation]. Chapel Hill, NC; April 12-14, 2011b[cited 2011 July 7]. Available from:
+http.//www.academicventures.com/elsi/Abstracts/Posters1-10.paf
+
+McGuire AL, Beskow LM. Informed consent in genomics and genetic research. Annu Rev Genom Hum Genet.
+2010;11:361-381. PMID20477535.
+
+McMillan SJ. The researchers and the concept: Moving beyond a blind examination of interactivity. Journal of
+{interactive Advertising. 2005;5(2):1-5.
+
+MehlIman MJ. The effect of genomics on health services management: ethical and legal perspectives. Frontiers
+of Health Services Management. 2001;17(3)}:17-26. PMID11299702.
+
+Migden M, Chavez-Frazier A, Nguyen T. The use of high definition video modules for delivery of informed
+consent and wound care education in the Mohs Surgery Unit. Semin Cutan Med Surg. 2008;27(1):89-93.
+
+Miller FG, Mello MM, Joffe S. Incidental findings in human subjects research: What do investigators owe
+research participants? J Law Med Ethics. 2008;36(2):271-279, 211. PMCID2610459. PMID18547194.
+
+Mousavi SY, Low R, Sweller J. Reducing cognitive load by mixing auditory and visual presentation modes. J
+Educ Psychol. 1995;87(2):319-334.
+
+Murphy J, Scott J, Kaufman D, Geller G, LeRoy L, Hudson K. Public perspectives on informed consent for
+biobanking. Am J Public Health. 2009;99{12}:2128-2134.
+
+National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research (National
+Commission}. The Belmont report: Ethical principles and guidelines for the protection of human subjects of
+research. Washington DC: U.S. Department of Health Education and Welfare; 1979 [cited 2011 July 7].
+Available from: http:/Awww.hhs.gov/ohrp/humansubjects/quidance/belmont.html
+
+Neidich AB, Joseph JW, Ober C, Ross LF. Empirical data about women's attitudes towards a hypothetical
+pediatric biobank. Am J Med Genet A. 2008;146(3):297-304.
+
+Ormond KE, Cirino AL, Helenowski IB, Chisholm RL, Wolf WA. Assessing the understanding of biobank
+participants. Am J Med Genet A. 2009;149A(2):188-198.
+
+Ormond KE, Smith ME, Wolf WA. The views of participants in DNA biobanks. Stanford Journai of Law Science
+and Policy. 2010;1:80-87.
+
+Paas FG, Van Merriénboer JJ. Variability of worked examples and transfer of geometrical problem-solving
+skills: A cognitive-load approach. J Educ Psychol. 1994;86(1):122-133.
+
+Paivio A. Mental representations: A dual coding approach. New York: Oxford University Press; 1990.
+
+Palmer BW, Cassidy EL, Dunn LB, Spira AP, Sheikh JI. Effective use of consent forms and interactive
+questions in the consent process. /AB. 2008;30(2):8-12. PMID18512654.
+
+Parker LS. The future of incidental findings: Should they be viewed as benefits? J Law Med Ethics.
+2008:36(2):341-351.
+
+Pulley J, Clayton E, Bernard GR, Roden DM, Masys DR. Principles of human subjects protections applied in
+an opt-out, de-identified biobank. Clin Trans! Sei. 2010;3(1):42-48.
+
+Raich PC, Plomer KD, Coyne CA. Literacy, comprehension, and informed consent in clinical research. Cancer
+Invest. 2001;19(4):437-445. PMID11405182.
+
+Rotimi CN, Marshall PA. Tailoring the process of informed consent in genetic and genomic research. Genome
+
+Med. 2010;2(3):20. PMCID2873798. PMID20346094.
+
+Sadoski M, Paivio A. Imagery and text : A dual coding theory of reading and writing. Mahwah, NJ: Lawrence
+Erlbaum Associates; 2001.
+
+Schenker Y, Fernandez A, Sudore R, Schillinger D. Interventions to improve patient comprehension in
+informed consent for medical and surgical procedures: A systematic review. Med Decis Mak.
+
+201 1:31(1):151-173. PMID20357225.
+
+Schnotz W, Kirschner C. A reconsideration of cognitive load theory. Educ Psychol Rev. 2007;19(4):469-508.
+
+Simon CM, L'Heureux J, Murray JC, Winokur P, Weiner G, Newbury E, Shinkunas L, Zimmerman B. Active
+choice but not too active: Public perspectives on biobank consent models. Genet Med. 2011 May 6 [Epub
+ahead of print]. PMC — in process. PMID21555942.
+
+Sims R. Interactivity: A forgotten art? . Comput Hum Behav. 1997;13(2):157-180.
+
+Sims R. Promises of interactivity: Aligning learner perceptions and expectations with strategies for flexible and
+online learning. Distance Education. 2003;24(1):87.
+
+Sweller J, van Merriénboer J, Paas F. Cognitive architecture and instructional design. Educ Psycho! Rev.
+1998;10(3):251-296.
+
+Toccaceli V, Fagnani C, Nistico L, D’lppolito C, Giannantonio L, Brescianini S, Stazi MA. Research
+understanding, attitude and awareness towards biobanking: A survey among Italian twin participants to a
+genetic epidemiological study. BMC Med Ethics. 2009;10:4.
+
+References Cited Page 59
+
+
+==================================================
+Page 34
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+Trinidad SB, Fullerton SM, Ludman Eu, Jarvik GP, Larson EB, Burke W. Research ethics. Research practice
+and participant preferences: The growing gulf. Science. 2011;331(6015):287-288. PMCID3044500.
+PMID21252333.
+
+van Merriénboer JJ, Sweller J. Cognitive load theory and complex learning: Recent developments and future
+directions. Educ Psychol Rev. 2005;17(2):147-177.
+
+Vollmeyer R, Rheinberg F. A surprising effect of feedback on learning. Learning and instruction.
+2005;15{6):589-602.
+
+Wittenberg KM, Dickler HB. Universal use of short and readable informed consent documents: How do we get
+there? Creating informed consent documents that inform: A literature review: Association of American
+Medical Colleges Appendix C; Feb 2007 [cited 2011 July 7]. Available from:
+https://www.aamc.org/download/75282/data/hdicklermtgsumrpt53007.paf
+
+Yacci M. Interactivity demystified: A structural definition for distance education and intelligent computer-based
+instruction. Educational Technology. 2000;40(4):5-16.
+
+Yost KJ, Webster K, Baker DW, Jacobs EA, Anderson A, Hahn EA. Acceptability of the talking touchscreen for
+health literacy assessment. J Health Commun. 2010315 Suppl 2:80-92. PMID20845195.
+
+References Cited Page 60
+
+
+==================================================
+Page 35
+==================================================
+
+The following letters of support were included as
+part of the original application and are provided
+with the permission of Dr. Murray. An additional 9
+letters were included in the original application
+
+but have been redacted to protect the privacy of
+individuals providing letters of support.
+
+
+
+==================================================
+Page 36
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+UNIVERSITY2/TOWA
+CARVER COLLEGE
+
+OF MEDICINE Craniofacial Anomalies Research Center
+University of lowa Health Care Roy d. and Lucile A.
+Caner College of Med ime
+
+30 Newicn Road 2IS2 Med Lubs
+
+fowa City. ha ADAP
+SY-SS4-4464 Tel
+
+June 30, 2011 ae .
+
+379-335-6077 Fax
+wt teeth ete. com
+
+Christian Simon, MA, PhD
+
+Associate Professor, Department of Internal Medicine
+Program in Bioethics and Medical Humanities
+
+Director, Clinical Research Ethics Consultation Service
+Roy J. and Lucille A. Carver School of Medicine
+
+500 Newton Drive, 1-103 MEB
+
+lowa City, IA 52242-1190
+
+Dear Chris, Helen, David, and Jamie:
+
+| am writing to give you my enthusiastic support for your proposed project on multi-media and
+informed consent for biobanking. This project is a logical outgrowth of the current interest in
+biobanking activities and concerns associated with the ethical procurement of bicbanked
+tissue, DNA and access to electronic medical records.
+
+Currently, | am the Director of the Genetics/Genomics Key Function for the NIH-CTSA grant
+that is part of the University of lowa ICTS (institute for Clinica! Translational Science). At the
+present time, we have begun sample coijlection for the University of lowa’s hospital-wide
+biorepository linking discarded biologic specimens to electronic medical records. Participating
+clinics include the Department of Dermatology and Division of Immunology.
+
+| have worked closely with you and Jamie L'Heureux in developing the initial activities around
+the biobank, including the informed consent protocol. We consulted many biobank experts in
+developing this protocol, including at Vanderbilt University, Mayo Clinic, Marshfield Clinic, and
+Northwestern University. Especially important, however, were the focus groups and state-wide
+survey you and Jamie conducted, which showed decisively that there were strong preferences
+in the state of lowa for a prospective opt-in consent process using a broad consent approach
+for future research.
+
+The use of multi-media has terrific potential to make the informed consent process for biobanks
+more accessible and facilitative for affected patients, families, and consenting staff. One of the
+early challenges that we have had in our neonatal bank, which has enrolled more than 4,000
+individuals to date, is the promotion of an understandable and efficient consenting process.
+Your proposal will make major steps toward addressing the best ways to carry this out. An
+important strength of your proposal is the inclusion of a rigorously developed informed consent
+document in your randomized experiment to compare use of the multi-media and standard
+consent processes.
+
+You and Jamie have played an excellent leadership role in developing an evidence-based
+
+consent protocol for the hospital-wide bicbank, anc in partnering with Helen Schartz and David
+Klein and their deep background in the use of multi-media. | look forward to the important
+
+Letters of Support Page 62
+
+
+==================================================
+Page 37
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+results that are likely to come from this wonderfui collaboration. | am always available to
+consuit and work with you, including for purposes of reviewing your multimedia prototype.
+
+Sincerely yours,
+coal
+“ik
+Jeffrey C. Murray, MD
+Professor, Departments of Pediatrics, Epidemiology and Biologica! Sciences
+University of lowa Carver College of Medicine
+500 Newton Road, 2182 ML, lowa City, IA 52242-1181
+319-335-6897 phone; 319-335-6970 fax
+
+E-mail ef-urayQulowe ecu.
+
+Letters of Support Page 63
+
+
+==================================================
+Page 38
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+15. Resource Sharing Plan
+
+This project will yield quantitative and some qualitative data generated by a post-
+experiment questionnaire. Aggregated data from the questionnaire and findings resulting
+from the analysis of these data will be shared through publications and conference
+proceedings resulting from this project. A summative workshop will be held at the end of
+Year 2 of the grant to identify potential barriers to adoption of the multimedia consent
+tool, strategize data dissemination, and plan for a future research {RO1) collaboration
+among researchers from the University of lowa, Marshfield Clinic, Mayo Clinic and
+potentially other institutions experimenting with or interested in the application of
+multimedia to biorepository consent processes. The workshop will produce an RO1 study
+outline for a collaborative multi-site, multi-environment randomized experiment of a
+composite multimedia consent tool.
+
+Resource Sharing Plan Page 75
+
+
+==================================================
+Page 39
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+PHS 398 Checklist
+
+OMB Number: 0925-0001
+
+1. Application Type:
+
+From SF 424 (R&R) Cover Page. The responses provided on the R&R cover page are repeated here for your reference, as you answer
+the questions that are specific to the PHS398.
+
+* Type of Application:
+
+C] New &X Resubmission [_]Renewal C] Continuation C] Revision
+
+2. Change of Investigator / Change of Institution Questions
+
+[ J Change of principal investigator / program director
+
+Name of former principal investigator / program director:
+
+Prefix:
+
+* First Name:
+
+Middle Name: | |
+
+* Last Name: |
+Suffix: |
+
+[_] Change of Grantee Institution
+
+* Name of former institution:
+
+3. Inventions and Patents (For renewal applications only)
+
+"Inventions and Patents: Yes[ | No [_ ]
+
+lf the answer is "Yes” then please answer the following:
+
+* Previously Reported: Yes [] No[_]
+
+Checklist Page 76
+
+Tracking Number:GRANT 10924713 Funding Opportunity Number:PA- 11-182 Received Date:2011-07-15T13:09:24-04:00
+
+
+==================================================
+Page 40
+==================================================
+
+Principal Investigator’Program Director (Last, first, middle}: Simon, Christian, Michael
+
+4. * Program Income
+
+Is program income anticipated during the periods for which the grant support is requested?
+
+[| Yes DX] No
+
+If you checked “yes” above (indicating that program income is anticipated}, then use the format below to reflect the amount and
+source(s}. Otherwise, leave this section blank.
+
+*Budget Period “Anticipated Amount ($) *Source(s)
+
+[| |
+
+5. * Disclosure Permission Statement
+
+If this application does not result in an award, is the Government permitted to disclose the title of your proposed project, and the name,
+address, telephone number and e-mail address of the official signing for the applicant organization, to organizations that may be
+interested in contacting you for further information (e.g., possible collaborations, investment)?
+
+[_]Yes Xx] No
+
+Checklist Page 77
+
+Tracking Number:GRANT 10924713 Funding Opportunity Number:PA- 11-182 Received Date:2011-07-15T13:09:24-04:00

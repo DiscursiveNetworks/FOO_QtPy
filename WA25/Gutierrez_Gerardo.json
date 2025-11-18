@@ -50,14 +50,6 @@
     }
   ],
   "seeded": true,
-  "chat_id": "thread_yXyNESiZPhgH8LXJnKTkQHjz",
-  "openai_thread_id": "thread_yXyNESiZPhgH8LXJnKTkQHjz",
-  "blockchain_metadata": {
-    "total_blocks": 4,
-    "genesis_hash": "a18826ba42bc800c73cf26f8044c7f67929c8e2874527cc6d0ceb729d2ea38ca",
-    "last_hash": "092994479362585ce605ee0ec098747b37eb46f8f18ccf1b3b7d789c3babbcc3",
-    "agent": "Gutierrez_Gerardo",
-    "salt": "c59b1ef3a98826ec",
-    "integrity_verified": true
-  }
+  "chat_id": "thread_JraxJ2TZLRlfkO3hBPxZHxbv",
+  "openai_thread_id": "thread_JraxJ2TZLRlfkO3hBPxZHxbv"
 }
