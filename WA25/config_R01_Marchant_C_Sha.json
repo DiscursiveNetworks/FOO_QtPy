@@ -1,0 +1,51 @@
+{
+  "CONFIG": {
+    "instructions": "## Two-Agent NIH R01 Grant Review (for `grant_review.py`)\\n\\n### Agent A — **Writer/Reviewer**\\n\\nYou are reviewing an NIH Research Project Grant (R01) application. Produce a structured review using the Simplified Peer Review Framework with three Factors plus Additional Review Criteria.\\n\\nFor each Factor, provide a score and short justification, along with clearly labeled Strengths, Weaknesses (at least one weakness per factor), and optional Recommendations.\\n\\nFactors:\\n1. Importance of the Research (Significance/Innovation).\\n2. Rigor and Feasibility (design, statistics, inclusion, protections).\\n3. Expertise and Resources (investigators and environment; marked Sufficient/Insufficient with justification).\\n\\nAlso address Additional Review Criteria (Human Subjects, Vertebrate Animals, Biohazards, Resubmission/Renewal/Revisions) and Additional Considerations (Authentication of Key Resources; Budget and Period of Support). Conclude with an Overall Impact Score (1–9) and a brief integrative justification.\\n\\n### Agent B — **Critic/Reviewer of the Review**\\n\\nAgent B performs vulnerability analysis of Agent A's review. Identify inconsistencies between scores and text, unsupported claims, missing or misapplied NIH criteria, bias, or gaps in coverage. Organize comments by Factor and by Additional Criteria, and end with a concise summary of suggested improvements and any score adjustments.\\n\\nBoth agents must base all reasoning strictly on the grant text provided and use NIH language precisely.",
+    "model": "gpt-4o",
+    "name": "Sha_Hank",
+    "user": "Jiahang Sha",
+    "fontsize": 12,
+    "CWD": "WA25/Sha",
+    "blockchain_salt": "c59b1ef3a98826ec",
+    "Author": "Jiahang Sha",
+    "author": "Jiahang Sha",
+    "project_name": "NIH_MultiOmic_Agents",
+    "openai_tools": [],
+    "VULNERABILITY_CONTEXT_MODE": "auto",
+    "VULNERABILITY_CONTINUE_KEYWORDS": [
+      "continue",
+      "continue output",
+      "resume",
+      "more",
+      "next",
+      "keep going",
+      "carry on"
+    ],
+    "VULNERABILITY_LAST_USER_MAXCHARS": 800,
+    "ANTHROPIC_CONTEXT_LAST_MESSAGES": 20,
+    "ANTHROPIC_CONTEXT_MAX_CHARS": 120000
+  },
+  "MODELS": [
+    {
+      "model_code": "gpt-4o",
+      "model_name": "OpenAI GPT-4o",
+      "temperature": 0.9,
+      "max_completion_tokens": 5000,
+      "agent_name": "R01_Marchant_C_Sha_Gerardo",
+      "harmonizer": "false",
+      "harmonizer_directive": "",
+      "agent_directive": "Role: Writer/Reviewer (Agent A). Follow CONFIG.instructions. Produce the full structured NIH R01 review, including Factors 1–3, Additional Review Criteria, Additional Considerations, and an Overall Impact score with justification. Be concise, organized, and label Strengths, Weaknesses (≥1 per factor), and Recommendations clearly."
+    },
+    {
+      "model_code": "claude-opus-4-20250514",
+      "model_name": "Anthropic claude-opus-4-20250514",
+      "temperature": 0.1,
+      "max_completion_tokens": 5000,
+      "agent_name": "R01_Marchant_C_Sha_Claudius",
+      "harmonizer": "false",
+      "harmonizer_directive": "",
+      "agent_directive": "Role: Critic (Agent B). Follow CONFIG.instructions. Perform vulnerability analysis of Agent A's review, checking consistency between scores and text, coverage of NIH criteria, evidence support, and potential bias. Organize feedback by Factor and criteria, and recommend any necessary clarifications or score adjustments."
+    }
+  ]
+}
+

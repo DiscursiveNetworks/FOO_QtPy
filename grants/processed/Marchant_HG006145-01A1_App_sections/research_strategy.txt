@@ -1,0 +1,567 @@
+SECTION: RESEARCH STRATEGY
+============================================================
+
+
+[Page 4]
+Principal Investigator’Program Director {Lasi, first, middle}: Marchant, Gary
+| LIABILITY IN THE DELIVERY OF PERSONALIZED MEDICINE:
+DRIVER, IMPEDIMENT, OR BOTH?
+RESEARCH STRATEGY
+]. Significance
+There are many obstacles affecting the implementation of personalized medicine {PM}, including scientific
+complexity and uncertainty, the need for validation of biomarkers, economic costs, lack of reimbursement for
+diagnostic testing, regulatory approval barriers, structural problems in the existing health care delivery system,
+lack of physician training and motivation, inadequate business models, and intellectual property issues. One
+potentially important factor that has received less attention to date, but which could be enormously influential in
+the uptake and future direction of PM, is liability. While liability could potentially affect all actors in the PM
+lifecycle -- including drug and device manufacturers, test providers and testing labs, health care providers,
+third-party payors, and pharmacists — physicians are at the greatest risk of liability and their behavior is most
+likely to be influenced by potential liability relating to PM (Marchant et al. 2011; Marchant et al 2006}. This
+proposal will therefore focus on physicians and their patients, and the impact that liability may have on them in
+the context of PM.
+Liability can be a powerful incentive for actors to take appropriate measures to protect public health and safety,
+or it can skew priorities and practices in socially disadvantageous ways. Thus, liability has the potential to have
+| both beneficial and detrimental influences on whether and how physicians uptake PM. Liability may speed up
+the development and clinical use of some PM technologies and practices, while deterring others.
+Notwithstanding the potential importance of liability in influencing the future direction and uptake of PM,
+relatively little is known about, and very little research has been conducted on, the liability risks associated with
+PM and their likely impacts. This proposed project seeks to fill that gap by providing legal doctrinal, empirical,
+| and policy research on the risks, impacts and possible policy approaches with regard to PM liability for
+physicians. The results of this project can help to better understand and predict the future course of PM, to
+identify the key legal and policy levers that may be available to ensure that liability plays a beneficial rather
+| than detrimental role in the implementation of PM, and to provide guidance to physicians, patients, attorneys
+and judges on PM liability issues .
+In this section, we first provide a brief description of PM and its current status, followed by a more extensive
+| discussion of potential liability risks to physicians and why the potential liability in the burgeoning field of PM is
+unique and pressing issue that needs to be comprehensively analyzed and addressed.
+1. Brief Description and Status of Personalized Medicine
+The practice of medicine in the United States is on the verge of a profound paradigm shift from the “one size
+fits all” approach of the past to individualized care in which a new generation of molecular diagnostics will be
+used to target treatments to the unique genetic and molecular profile of individual patients and their diseases.
+As NIH Director Francis Collins recently noted, “[t]he power of the molecular approach to health and disease
+has steadily gained momentum over the past several decades and is now poised to catalyze a revolution in
+medicine” (Collins, 2010). Notwithstanding the enormous potential and excitement about the dawning era of
+PM, the implementation of PM has turned out to be slower and more complex than many experts originally
+anticipated (SACGHS, 2008; The Royal Society, 2005).
+Today, there is substantial uncertainty and disagreement about the appropriate use of genetics and other
+personalized medicine data in clinical care, giving rise to the types of disagreemenis and disputes that can
+spawn litigation. On one hand, some experts claim certain PM techniques are ready for clinical application
+today, and several leading medical institutions have begun to deploy such techniques (Personalized Medicine
+Coalition, 2009; Flockhart et al., 2009; Lesko, 2007). Experts with this perspective have expressed frustration
+that physicians and other stakeholders in the health care system have been too slow to uptake PM metheds
+and tools (Lesko & Woodcock, 2004; Evans, 2006), Other experts, however, are more skeptical about the
+near-term deployment of PM, contending that such methods are not likely to benefit patient care and are not
+yet ready for widespread adoption (The Royal Society, 2005; Nebert & Vesell, 2004).
+Research Strategy Page 46
+
+
+[Page 5]
+Principal Investigator’Program Director {Lasi, first, middle}: Marchant, Gary
+We are currently at a critical and unsettled juncture in the implementation of PM, where much uncertainty and
+disagreement exists about which PM technologies and approaches are ready for use, what outcames they will
+provide, and who will pay for them. In such a period of uncertainty, the potential for liability is at its greatest.
+
+| 2. Liability Docirines Affecting Personalized Medicine
+One factor that may accelerate (appropriately or inappropriately) the widespread clinical use of personalized
+
+| medicine is liability (Marchant et al., 2011; SACGHS, 2008; Roth 2007; Marchant et al., 2006; Evans, 2006;
+Ossorio, 2001). A patient who suffers a serious adverse effect from a pharmaceutical for which he or she
+carries a genetic susceptibility or a patient whose treatment was adversely affected by the failure to use new
+genetic diagnostic techniques in a timely manner may bring a lawsuit against any number of entities across the
+PM lifecycle, including the physician who prescribed the drug, the drug manufacturer who produced the drug,
+the manufacturer who developed the diagnostic test, the testing lab that conducted the test, the insurer which
+may not have been willing to pay for a more appropriate genetic test, or the pharmacist that dispensed the
+drug. If and when one or more lawsuits are successful, the dynamics of litigation generally are such that news
+of the successful litigation will spread quickly among the legal community, and the number of such cases
+brought by trial attorneys will quickly skyrocket. If such a dynamic were to be unleashed in the context of PM,
+the impacts would be enormous. Even a relatively low number of lawsuits would have pervasive effects on how
+PM is delivered and implemented, since the economic and psychological consequences of liability for any
+individual at-risk party could be substantial.
+Physicians are likely to be the most at risk for liability relating to PM, mostly because other parties will be
+protected by various statutory and common law defenses such as the learned intermediary doctrine {Marchant
+et al., 2011; Marchant et al., 2006). This is not just a hypothetical issue. There has already been a smattering
+of PM-related lawsuits filed against physicians, including: (1) failing to recommend a genetic test before
+prescribing a drug or treatment; (e.g. Downey v. Dunnington, 2008 — physician performed prophylactic
+mastectomy on woman based on her family history of breast cancer, but was sued for failing to test her for a
+BRCA mutation first); (2) failing to timely diagnose genetic condition, thereby leading to loss of chance to treat
+(e.g. Cardone v. Gunsberger, 2005 — physician liable for taking 3 weeks to diagnose a genetic disorder in an
+infant); (3) failing to recognize that family history indicates need for a given diagnostic or screening test (e.g.
+Bointy-Tsotigh v. U.S., 1996 — physician liable for not recommending early colonoscopy in patient with family
+history of cancer); (4) for providing an inaccurate diagnosis or prognosis based on genetic tests (e.g.,
+Gallagher v. Duke University, 1988 — hospital erred in inaccurately reporting results of genetic tests to parents);
+(5) failure to warn family members about heritable conditions (e.g., Pafe v. Threikel, 1995 — doctor had duty to
+warn daughter of his patient of genetic risk for cancer);
+These initial cases are likely to be just the tip of the iceberg. As the scientific knowledge, regulatory approval,
+and commercial availability of pharmacogenomic tests continues to expand, the potential and likelihood for
+liability will likewise continue to grow, especially if physicians are resistant to the uptake of these new
+technologies and procedures. Yet, there is considerable uncertainty about the prospects of a medical
+malpractice or other lawsuit brought by patients or other injured persons against their physician alleging that
+their injury was caused or exacerbated by the use or failure to employ PM technologies. The applicable legal
+scenarios, doctrines and evidentiary requirements relevant for PM liability for physicians are relatively
+uncharted, and are not fixed but rather are evolving due to shifting legal and policy trends. The first objective
+of this project will therefore be to identify and evaluate the relevant legal claims, defenses, and docirines that
+will be applicable for potential liability lawsuits against physicians relating to PM, including recent doctrinal
+changes and trends that will significantly affect the liability exposure of physicians.
+For example, to bring a successful medical malpractice case against a physician, a plaintiff must show that (i)
+the physician had a duly of care to the plaintiff, (ii) the physician breached that duty, (iii} the plaintiff incurred an
+injury, and {iv) the physician’s breach caused the plaintiff's injury. The key element of liability exposure is the
+standard of care, which is undergoing rapid and significant doctrinal changes (Gostin & Jacobson, 2006). In
+some jurisdictions the standard of care is determined by local custom, and if few local physicians are currently
+using PM tests, a physician who is sued for failing to use adequate methods will not be held to have viclated
+the applicable standard of care. However, some jurisdictions apply a more objective “risk based” test to
+
+Research Strategy Page 47
+
+
+[Page 6]
+Principal Investigator’Program Director {Lasi, first, middle}: Marchant, Gary
+determine the standard of care, where instead of looking to the common practices of the medical profession,
+the court locks to whether the physician’s conduct was “reasonable” as determined by a judge or jury (Helling,
+1974; Peters, 2000}. Under this standard, a physician may be held liable even if the medical community at
+large has not yet adopted the PM test that a patient claims should have been used. Additionally, some
+jurisdictions are now applying a national standard of care rather than a standard based on local practice and
+custom (Lewis et al., 2007). These shifting definitions of the standard of care, along with new claims {e.g.,
+informed consent) brought against physicians to skirt medical malpractice defenses, are likely to create
+uncertainty and substantially affect liability risks for physicians relating to PM (Marchant et al. 2006),
+There are a number of other legal doctrinal trends and changes that will affect PM liability for physicians. New
+causes of action beyond medical malpractice are emerging in the context of genetics and PM. For example,
+physicians have been held liable in their handling of genetics by failing to obtain fully informed consent related
+to diagnostic and treatment procedures (Granata v. Fruiterman, 668 $.E.2d 127 (2008). These informed
+consent claims are increasingly powerful tools for patients, especially as courts transition to a patient-centered
+approach to this doctrine, which requires physicians to disclose all information that reasonable patients would
+consider material to their decision making (rather than the information that reasonable physicians would
+consider material, as the traditional doctrine required). Physicians have also been sued for failure te disclose
+genetic risks to family members of their patients who refuse to communicate the risk to their relatives, with
+mixed results (Pate v. Threlkel, 1995; Safer v. Pack, 1996; Molloy v. Meier, 2004). Other important doctrinal
+changes, such as those adopted by courts or legislatures affecting “loss of chance” (King, 1981; Renehan,
+2009}, the learned intermediary doctrine (Calabro, 2004), and standards and procedures for medical
+malpractice cases (Kachalia & Mello, 2011) will also impact significantly the liability potential for physicians in
+the PM context.
+3. Liability Risks in Personalized Medicine
+While the number of lawsuits filed to date against physicians directly involving PM is limited, the number of
+cases will likely rise significantly in the next few years. However, little or no empirical analysis or in-depth
+research has been undertaken to date to try to evaluate the likelihood and magnitude of PM lawsuits being
+filed, the likely outcome of those lawsuits, and the impact that such outcomes will have on physician practice
+and the implementation of PM. Some important lessons can likely be learned from previous litigation episodes
+and experiences involving previous medical technologies. A general trend has been that new technologies,
+even if they improve overall health care, lead to a significant bump up in liability as expectations are increased
+and the gap in performance widens between early and slow adopters (Sage, 2003; De Ville, 1998). Such a
+dynamic can be expected with PM.
+Yet, there are reasons to believe that personalized medicine may present unique liability issues for physicians
+compared to past medical technologies, although the project will seek to test this hypothesis. Reasons that
+PM may present unique liability dynamics include: (i) unlike other areas of medical practice where specialists
+with training and experience in the relevant specialty are applying a new technology or procedure, PM will
+involve the application of genetic information by physicians in virtually every type of practice, most of whem
+have no training or expertise in genetics; {ii) there are major uncertainties and disagreements within the
+medical and scientific communities about the appropriate use of personalized medicine tests at this time
+(Burke et al., 2010), and such uncertainty is known to be a major factor increasing liability risks (Craswell &
+Calfee, 1986); and {ili) the rapid pace of technology change in the personalized medicine results in constantly
+changing expectations and standards of care that can again greatly increase liability risk (SACGHS, 2008;
+Marchant et al., 2011).
+In this present and unique environment, where much uncertainty exists about both the appropriate
+implementation of PM and the risks associated with implementing or not implementing specific PM methads,
+there is an important need for greater information and guidance on liability risks. Physicians, hospitals,
+malpractice insurers, and other PM stakeholders will be making important decision that are currently based on
+incomplete or inaccurate impressions of their liability risks. Moreover, once liability has been established and
+starts to snowball, it will be too late to take appropriate measures and safeguards to protect agains liability. At
+this critical juncture in the rollout of PM, before widespread liability has taken hold, it would therefore be very
+
+Research Strategy Page 48
+
+
+[Page 7]
+Principal Investigator’Program Director {Lasi, first, middle}: Marchant, Gary
+important and useful to comprehensively study and make widely available the best information and projections
+of the risks and relevant factors for liability relating to PM. Because both the likelihood and outcome of PM
+lawsuits will be highly fact- and evidence-dependent, it will be necessary to evaluate liability risks in the context
+of specific examples in which the applicable legal and evidentiary information is assessed and integrated. This
+attempt to predict the risks of PM liability, integrating both legal doctrine and factual evidence, will be the
+second abjeciive of this proposal.
+4, is Liability A Problem?
+The third objective of this project will be to anticipate the potential impacts, both beneficial and detrimental, of
+| physician liability in the PM arena Personal injury liability, including liability for health care professionals, can
+serve an important social purpose to the extent that it induces actors to take appropriate actions to minimize
+unreasonable health risks (Gostin, 2000; Mello, 2006). If individuals are being harmed or denied the best
+| health care because of the unreasonable failure of physicians to take full advantage of PM knowledge and
+technologies, the threat of liability can be an important driver for implementing sooner and more widely such
+beneficial personalized medicine technologies at the clinical level.
+On the other hand, problems are created by the enormous, and inevitably growing, uncertainties about the
+liability risks relating to personalized medicine. This uncertainty is caused by a number of factors including the
+lack of existing legal precedents in this specific area, the diverse state laws for determining the applicable
+standard of care, the lack of authoritative standards for practicing personalized medicine, the divergent expert
+opinions about the feasibility and effectiveness of existing PM tests, and the uncertainty about how lay jurors
+will evaluate claims relating to genetic testing. These pervasive uncertainties about PM liability risks present
+several potential policy problems. First, physicians may engage in defensive medicine and over-utilize genetic
+testing in order to protect against liability. Defensive medicine is defined generally as a deviation from sound
+medical practice induced primarily by a threat of liability (OTA, 1994).
+A physician may practice defensive medicine by performing extra tests or procedures to minimize potential
+liability, hoping that the additional testing will reduce adverse medical outcomes, deter patients from filing
+malpractice claims, and persuade the legal system that the appropriate standard of care was met. A number of
+studies have suggested that many physicians practice defensive medicine by ordering more diagnostic tests
+that would be warranted based on medical considerations alone (Studdert et al., 2005; Birbeck et al, 2004}.
+Uncertainty about applicable legal standards tends to increase the practice of defensive medicine (Studdert et
+al., 2005; Fenn et al., 2004), The resulting unnecessary diagnostic tests impose a significant cost on the
+medical system. The practice of defensive medicine has already been observed in the context of prenatal
+genetic testing, for which some commentators have argued that legal standards have over-ridden medical
+judgment in determining when prenatal genetic tests are appropriate (Young, 2003; Howlett et al., 2002;
+Annas, 1985). In addition, the potential is there for some tests to do more harm than good. FVL is an example.
+Patients and physicians may be compelled to take action (anticoagulation) that will result in more overall harm
+(bleeding complications) than benefit (clots prevented) because of not understanding the nature of absolute
+risk versus relative risk.
+In addition to creating pressures for practicing defensive medicine, the uncertainty about applicable liability
+standards relating to PM will have other adverse effects. For example, the lack of any agreed standards for
+ordering personalized medicine tests will results in different standards of care, with some physicians being
+more proactive on ordering such tests and others being slower to adopt these new tools. Patients may thus be
+provided with inconsistent care if decisions are being influenced by legal concerns on an ad hoc basis.
+Given these potential counter-productive consequences from the uncertainties and risks of PM liability, itis not
+too early to begin considering policy options — at either the private or public levels — to address these
+problems. Even less work has been done on solutions to the liability problem far PM than has been devoted to
+| identifying the risks of liability. The fourth objective of this project will be to identify potential policy initiatives to
+provide greater certainty to PM actors and thus to reduce liability risks and uncertainties. Almost no work has
+been done on liability prevention in the PM context to date, but some of the ideas that will be explored include
+betier business models to integrate drugs and companion diagnostic tests, clinical guidelines that recommend
+best practices, better training of physicians and other health professionals, regulatory changes and other
+Research Strategy Page 49
+
+
+[Page 8]
+Principal Investigator’Program Director {Lasi, first, middle}: Marchant, Gary
+possible solutions (Evans, 2007; Roth, 2007; Evans, 2006; Marchant et al., 2006).
+Finally, there is an important need to educate affected stakeholders and policymakers about the potential risks
+and impacts of liability for PM. For example, physicians, PM policymakers, medical guidelines writers,
+regulators, and medical educators need to have realistic expectations about the potential for liability in this
+sphere as PM emerges as the dominant medical model of this century. Patients, the group who will poteritially
+bring such lawsuits, and the stakeholders who could be most affected by both the beneficial and detrimental
+potential impacts of liability, need to be aware of liability issues and become proactive in the inevitable policy
+and legal baitles relating to liability. Finally, the practitioners in the legal liability field, including lawyers, expert
+witnesses and judges, also would benefit from clear and informative information about liability. Thus, the fifth
+objective of ihe proposal will be to conduct outreach on the findings of this project to key stakeholder groups
+including physicians, patient groups and legal practitioners.
+ll. Innovation
+Much research has been done on the scientific, medical, regulatory, economic, educational, intellectual
+property, ethical and public policy aspects of personalized medicine. In contrast, very little doctrinal, empirical
+or theoretical work has been done on the issue of liability in the PM field, notwithstanding frequent references
+| to the importance of the issue for PM (e.g., SACGHS, 2008, p. 47; Sorrel, 2008, NRC, 2007). Only a handful of
+short, preliminary analyses emphasizing the potential importance of this subject have been published to date
+| (Marchant, 2011; Roth, 2007; Marchant et al., 2006; Evans, 2007; Rothstein, 2005; Osscrio, 2001}. The risks,
+relevant key factors, impacts, and possible solutions relating to potential PM liability are largely unknown and
+have been under-studied to date. There is much that could be done to provide beneficial further information,
+trends, predictions, and proposed policy interventions to address this largely uncharted subjected that ts likely
+to play a critical role in the implementation of PM over the next decade. The knowledge generated by research
+| on these issues would likely prove very useful in helping physicians, patient groups, legal practitioners and
+other various stakeholders in PM to make informed decisions relating to the risks and prevention of liability.
+The present proposal therefore addresses a conspicuous gap in the knowledge base and available literature
+on PM. To fill this gap, it is important to not anly have a good knowledge of law and legal research, but also of
+the scientific, medical, economic, and policy dimensions of PM, because these integrate with the law in
+understanding, predicting and preventing liability. In this proposal, we have attempted to address the need for
+such an integrated and inter-disciplinary approach in two innovative ways. First, the research team
+incorporates a broad range of relevant training, experience and expertise necessary to address the multi-
+dimensional and complex issues of PM liability. The Pl (Gary Marchant) is trained as both a geneticist and
+lawyer, and has worked on liability issues relating to genetics for the past decade, including publishing
+numerous articles on such issues and serving as lead organizer of three previous conferences and workshops
+on genetics liability issues. Co-Investigator Doug Campos-Outcalt is a medical schoo] professor involved in
+training future physicians and who has worked and written on physician uptake of PM genetic tests, and has
+served on the CDC’s EGAPP (Evidence based Genomics Applied in Practice and Prevention) group evaluating
+the clinical readiness of PM tests. Co-Investigator Amalia Issa is a scientist whose work focuses on how PM
+applications will be translated and integrated into clinical practice, health care delivery and health systems,
+including studying physician and patient perspectives on PM uptake. Consultant Scott Ramsey is a physician
+and health economist whose work examines economic factors affecting clinical uptake of new medical
+technologies and procedures. Consultant Paul Wicks is Director of Research and Development at
+PatientsLikeMe and works on new approaches and models for patient participation and engagement in their
+own healthcare. Consultant Rachel Lindor is a lawyer currently completing her MD training at Mayo Medical
+School who has conducted research on medical liability and reimbursement issues relating to PM, including a
+poster presentation on liability issues relating to PM at this year’s American Society for Clinical Oncology
+annual conference.
+Second, we plan to directly engage key stakeholders in the project through our consultants and supporters on
+the project and using our extensive existing network of contacts in the PM field. The stakeholder engagement
+is discussed further in the Research Approach section (below).
+Research Strategy Page 50
+
+
+[Page 9]
+Principal Investigator’Program Director {Lasi, first, middle}: Marchant, Gary
+lll. Research Approach
+This project will proceed in three steps, roughly segmented by the three years of the proposal. The first year
+will be devoted to identifying relevant legal doctrine, including potential claims, criteria, and defenses for the
+wide variety of liability lawsuits that might be anticipated against physicians related to PM lifecycle.. In the
+second year, we will assess the risk of liability for physicians relating to PM, by integrating the doctrinal
+analysis with the specific factual and evidentiary data for four PM case studies. We will also look to previous
+examples of physician liability relating to new medical technologies for relevant lessons and projections for PM.
+Finally, in the third year, we will address two objectives. First, we will investigate impacts of liability on
+physicians, patients and society more generally as well explore possible policy options for addressing the
+potential liability risks and uncertainties relating to PM. Second, we will adapt and customize our findings for
+relevant stakeholders groups and undertake outreach on our findings to those sectors, including physicians,
+patient groups, medical educators, and malpractice insurers.
+| Year One: identifying Liability Claims and Doctrine
+The first year will invelve identifying and assessing the applicable Jegal claims and doctrines that may be
+applicable to PM lawsuits against physicians. As discussed above, the legal landscape applicable to such
+lawsuits has been undergoing significant change in recent years, with major potential implications for the
+chances of PM lawsuits against physicians being filed and succeeding. The first year of the project will be
+devoted to a comprehensive scoping of the legal landscape for PM liability of physicians. This work will include
+two lines of research.
+The first line of research will be to identify, analyze and catalogue every reported case in the United States in
+which a physician was sued relating to PM or genetic testing in other medical contexts (e.g., prenatal genetic
+testing). We anticipate finding 100-200 relevant judicial decisions. For each case, we will identify the relevant
+legal claims brought against the physician, as well as the outcome of the case and the key factual evidence,
+expert opinions, reliance on authoritative statements or professional guidelines, defenses, or other factors that
+led to the outcome. In addition to looking at the reported decision, we will also review court filings and briefs
+and expert opinions filed in significant cases when accessible. From this data set, we will distill some overall
+findings as to the range and dimensions of possible legal claims that could be brought against physicians in the
+PM context and the key factors likely to determine the outcome of those claims based on the historical legal
+precedents. The list and characterization of cases will be posted on a public website created to communicate
+the results of this project.
+| The second line of research in year one will be to evaluate some of the key legal doctrinal issues that are likely
+to affect liability relating to PM. PM liability risks will be dependent on some key legal doctrines that are
+currently evolving and are in flux, including:
+a. Sfandard of care for medical malpractice: Medical malpractice is based on whether a physician
+breached the applicable standard for care. As discussed in more detail above, the standard of care for
+physicians is currently undergoing significant change. The standard of care has traditionally been
+defined by custom in the locality in which the physician practices, but in many jurisdictions the standard
+has been evolving from a local to a national standard, and from a duty based on custom to a more
+objective standard. These and other changes in how the standard of care is defined are likely to have
+significant impacts on PM liability risks for physicians (Lewis et al., 2007; Marchant et al., 2006; Peiers,
+2000}. Moreover, important legislative and policy initiatives relating to medical malpractice are being
+implemented or considered across the nation (Kachalia & Mello, 2011), and these too cauld
+significantly affect the prospects for PM physician liability.
+b. Learned intermediary doctrine - The learned intermediary doctrine shifts responsibility (and
+associated liability) for failure to warn a patient from a drug or device manufacturer to the prescribing
+physician if the manufacturer included an appropriate warning in the praduct materials received by the
+physician (i.e., patient package insert for a pharmaceutical), The applicability and scope of this doctrine
+is currently being challenged, with two states (New Jersey and W. Virginia) recently deciding ta no
+longer recognize the defense, a trend which if it continues could have major implications for PM liability
+Research Strategy Page 51
+
+
+[Page 10]
+Principal Investigator’Program Director {Lasi, first, middle}: Marchant, Gary
+(Perez, 1999; Calabro, 2004).
+c. Role of clinical guidelines — Various organizations have produced clinical guidelines to attempt to
+guide health care professionals to make appropriate clinical decisions. The role that such clinical
+guidelines should play in defining the standard of care in a medical malpractice case is still evolving.
+The role and weight that judges and juries extend to clinical guidelines in medical malpractice cases will
+potentially play an important role in determining PM liability risks (SCGHS8, 2008; Evans, 2006).
+d. Loss of chance — In most PM liability cases, a physician’s negligence will not “cause” the plainttif’s
+injury, which will often be pre-existing to the doctor's treatment (e.g., cancer or cancer predisposition).
+Rather than causing the plaintiff's illness, the physician’s actions may have reduced the probability that
+the plaintiff might have been successfully treated. Notwithstanding the lack of causation per se, courts
+have gradually permitted recovery for the “loss of a chance” of survival under certain circurnstances
+(King 1981}. The recognition and criteria for allowing a plaintiff to receive compensation for loss of
+chance have been evolving in recent years (Renehan, 2009), and the availability and scope of this
+cause of action will be critical to the viability of many potential PM lawsuits.
+The shifting status, application and criteria for these important legal doctrines affecting potential PM lawsuits
+will be analyzed through a review of key court decisions and secondary materials. The results of this doctrinal
+analysis will be integrated with the case law analysis and will be published in one or more journal manuscripts
+prepared at the end of year one of the project.
+| Year Two: Evaluating PM Liability Risks
+As discussed above, there has been no in-depth research or analysis on the level of risk that physicians are
+likely to face in the PM context — in terms of both the likelihood of facing a lawsuit and the probable outcome of
+such lawsuits. In the second year of the project, we will undertake two projects to help elucidate the risks of
+liability and the key factors influencing such risks. The first task will analyze previous lawsuits against
+physicians relating to their failure to use, premature use, or faulty use of new medical technologies. We will
+examine the results and important factors in individual lawsuits, as well as the dynamics of the litigation relating
+to that technology as a class. In reviewing individual cases, we will evaluate why physicians were held liable in
+some cases and not in others, discerning the key factors, evidence and legal rules that influenced the
+outcome. In looking at classes at cases, we will seek fo understand the dynamics of the litigation,
+investigating such questions as; What was the time line of the cases? How did a positive or negative outcome
+for the plaintiff affect the rate of new cases against that same technology? Were the cases brought by the
+same plaintiffs’ lawyers, or were there a variety of lawyers? These types of trends can help provide insights on
+the dynamics of litigation — for example, is there likely to be a steady trickle of such cases, or will the cases
+come in clusters or bursts of lawsuits?
+In choosing and undertaking this analysis of other litigation against physicians for their utilization (or lack
+thereof) of new medical technologies, we will start our research with some major secondary sources on the
+issue of technology and medical malpractice litigation (e.g., Sage, 2003; De Ville, 1998) to help us identify the
+most promising and informative technology precedents to analyze in depth. We will then pick 3-5 medical
+technologies that have been the subject of significant litigation against physicians and collect and analyze the
+primary cases involving those technologies. The chjective will be to draw lessons from these previous
+examples (recognizing and addressing the various ways that PM litigation may differ because of its
+uniqueness) about the risks and dynamics of such litigation. In addition to this broader question, this
+comparative and historical analysis will enable us to focus in on specific factors that might affect liability. For
+example, one question that will be pursued is what impact does decisions by CMS and private insurers to
+cover or not cover a specific technology or procedure affect the potential liability of physicians with respect to
+their use (or non-use) of that technology or procedure (the difficulty in obtaining reimbursement for many
+genetic tests currently is an important impediment to the uptake of PM by physicians). We will publish our
+findings on the more general trends as well as specific factors that can affect liability (e.g., insurance coverage}
+in an academic journal.
+The second task will be to look at four case studies involving different uses of PM technologies te evaluate the
+Research Strategy Page 52
+
+
+[Page 11]
+Principal Investigator’Program Director {Lasi, first, middle}: Marchant, Gary
+
+potential risks of physician liability. The risk of liability will depend in significant part on the factual and
+
+scientific evidence about the effectiveness, safety, clinical utility and cost of the specific tests that the plaintiff
+
+alleges the physician failed to use, used prematurely, or used incorrectly, combined with the applicable legal
+
+doctrines discussed above. Because liability risks will be fact- and context-specific, the risks can best be
+
+evaluated by using case studies to assess the potential for liability in specific contexts. We have identified the
+
+following four case studies to evaluate, each involving a different type of PM test:
+a. Warfarin (Coumadin): Warfarin is one of the most discussed drugs with respect to whether
+physicians should require a genetic test before prescribing the drug {Wadelius & Pirmohamed, 2007}.
+Warfarin has a very narrow therapeutic index and the safe dose for an individual patient can vary based
+on a number of factors including polymorphisms in two genes (CYP2C9 and VKORC), If the initial dose
+is too high for the individual patient, a serious bleeding event can result. The FDA revised the label for
+warfarin in 2007 {and again in 2009) to give greater emphasis to the potential benefits of genetic testing
+for initial dose determination, and a number of experts and organizations (e.g., CMS, Mayo/Medcc)
+have offered inconsistent opinions on whether genetic testing is warranted {Epstein et al., 2010; Lenzini
+et al. 2010; Kamali & Wynne, 2010; CMS, 2009; Roth, 2009). A number of other studies are underway,
+including randemized clinical trials, so the evidentiary support for genetic testing may change over time.
+The case for genetic testing prior to prescribing warfarin therefore remains uncertain and contested.
+This case study will evaluate whether a physician who fails to genetically test a patient prior to
+prescribing warfarin might be held liable if that patient suffers a serious or fatal reaction as a result of
+the failure to recommend genetic testing prior to initial dosing.
+b. Gene expression diagnostic tests — A variety of diagnostic products using gene expression assays
+are available or being developed to profile tumors or infectious disease agents to predict prognosis or
+risk of recurrence. For example, the Oncotype Dx® diagnostic test used gene expression analysis to
+predict the risk of recurrence of breast cancer, which can then be used to make decisions about
+whether procedures such as chemotherapy are necessary {Snoo et al., 2009; EGAPP, 2009; Satiriou &
+Pusztai, 2009). It is possible that a physician could be sued either for using the test prematurely (before
+its use had been validated) or for not using the test at all.
+c. BRCA testing - Among the strongest and best validated disease predisposition genes are the
+BRCA1/2 genes for breast cancer, as women carrying a mutation in either of these genes have a 50-85
+percent risk of breast or ovarian cancer (Robson & Offit, 2007). Interventions such as prophylactic
+bilateral radical mastectomies and oophorectomies have been shown to substantially reduce the risk of
+cancer in asymptomatic women carrying a BRCA1/2 mutation (Robson & Offit, 2007). Various expert
+evidentiary reviews have recommended genetic testing of women who have certain risk factors for
+carrying one of these mutations, such as having two first-degree female relatives who have developed
+breast cancer. A physician could potentially be sued if he or she sees an asymptomatic patient with a
+strong family history of breast cancer, but dees not recommend the patient undergo genetic counseling
+or BRCA testing. If that patient subsequently develops breast cancer, she or her surviving family
+members could bring a lawsuit alleging that the physician breached a duty to warn her of her potential
+genetic risk, and the failure to recommend genetic testing resulted in the patient’s “loss of chance” to
+have prevented or successfully treated the disease.
+d. Whole Genome Sequencing: The final case study involves a very recent type of genetic testing that
+is only in early research stages at this time but could become part of clinical care relatively quickly in at
+least some practices. The potential for rapid adoption of whole genome sequencing may fuel a
+discrepancy in care that could leave slower adopter physicians and provider institutions at risk of
+liability. This technique is already being used in the research context, for example, to sequence the
+entire genome of a cancer patient's tumor and compare it to that same patient’s inherited genome
+(Boneita, 2010; Ormend, et al., 2007). Genetic changes revealed in tumors using this comparative
+approach could be used to identify otherwise unexpected treatment regimes that target the particular
+molecular identity of the tumor. Although this method has only been used in research studies on a
+relatively small number of patients to date, the results today are promising and have generated
+significant interest in the method. While the technique is too expensive and experimental to be used in
+routine cancer care now, leading institutions and physicians may adopt the technology on selected
+
+Research Strategy Page 53
+
+
+[Page 12]
+Principal Investigator’Program Director {Lasi, first, middle}: Marchant, Gary
+
+patients in the relatively near future. As will be the case for any new, expensive, and highly technical
+new medical procedure, a gap is likely to quickly grow between those providers at the leading edge of
+technology and care, and those that lack the resources, expertise, and wherewithal to keep up with the
+leaders in the field or those physicians who are more cautious about adopting new technologies until
+they have a proven track record. Especially as more and more jurisdictions migrate to a national rather
+than local standard of care, this growing discrepancy between the leaders and the slow adopiers
+creates an opening for litigation and liability (Lewis, et al., 2007).
+
+Slow adopters of whole-genome sequencing and related genetic technologies may face liability
+risk in a number of different scenarios. For example, tissue from the tumor of a patient who succumbed
+to cancer at a local hospital may be sent to a leading laboratory conducting a cancer genetics research
+project, where it might be discovered that the tumor had a specific mutation that had been successfully
+targeted by therapies given to cancer patients at a different hospital, where their tumors had been
+analyzed using whole genome sequencing. In this situation, the family of the deceased patient may be
+able to bring a lawsuit alleging that the treating physician and hospital had failed to apply the
+appropriate standard of care in net conducting whole genome sequencing of their family member.
+Another possibility is that a family member of the deceased patient whose genome was sequenced
+may subsequently develop a cancer and allege that the physician should have identified a cancer-
+predisposing mutation in the deceased patient and warned other family members that they may carry
+the same risky mutation (Pate v. Threlkel, 1995; Safer v. Pack, 1996; Molloy v. Meier, 2004),
+
+In evaluating these four case studies, we will seek to identify those legal or factual variables that increase or
+decrease the likelihood of liability, recognizing that the ultimate resolution of any individual case will likely be
+affected by the vagaries of the individual attorneys, experts, jury members and judge involved in that case.
+Thus, any absolute or certain prediction of risk is not possible. What will be possible, however, and will be the
+output of this project will be to identify fact patterns and variable that will make a physician’s employment of a
+particular PM test or procedure more or less prone to liability, as well as some qualitative observations and
+predictions about the frequency and cutcomes of such liability generally. We will summarize this analyze in a
+published manuscript. We will also post the four case studies and supporting materials on the public project
+website.
+| Year Three: impacts, Solutions and Outreach
+
+In the third year, we will wrap up the project by exploring the likely impacts on physicians and patients of the
+liabilities and liability risks identified and characterized in the first two years of the project as well as the
+broader societal implications of such liability, and also seek to identify possible policy interventions and other
+solutions that can help reduce uncertainties about the risks of liability relating to PM. We will also use the third
+year of our project to communicate the findings of our project to relevant stakeholders and other interested
+parties.
+
+The potential impacts of liabilities and liability risks imposed on physicians will necessarily be conjectural
+during the course of this study, since we are anticipating liability trends for the next decade or so that will only
+be starting to occur during the course of this study. Nevertheless, examining previous legal precedents and
+economic studies of physician response to other sources of liability (e.g., defensive medicine}, we will develop
+some possible projections of how physicians will be impacted by different liability scenarios and risks relating to
+PM. The other major stakeholder group we will examine the impact on is patients. As discussed above,
+physician liability relating to PM could have both positive and negative impacts (ar both) on patients, potentially
+affecting the safely, availability and cost of PM tests. Again, this analysis will be somewhat conjectural, but will
+draw on extrapolations from legal and economic analyses of medical liability as they apply to patient well-being
+as we]] as the liability risk analyses from year two, to project potential outcomes both in terms of the health and
+welfare of individual patients as well as broader population and distributional justice impacts (Issa et al., 2009}.
+We will publish our overall findings on the impacts of PM liability for physicians in a wrap-up paper co-authored
+by all the investigators and consultants that provides our best informed assessment based on the various study
+results about how such liability is expected to impact the uptake and development of PM, while also examining
+other broader questions such as the social justice implications relating to effects on access and availability of
+
+Research Strategy Page 54
+
+
+[Page 13]
+Principal Investigator’Program Director {Lasi, first, middle}: Marchant, Gary
+PM by various affected sub-populations and longer-term impacts on innovation by manufacturers and test
+providers. This wrap-up paper will also summarize the lessons we can draw from PM liability for liability relating
+to other emerging medical technologies such as regenerative medicine, nanomedicine and human genetic
+engineering.
+This liability impact analysis will then set up and feed into a study of potential policy solutions to address any
+negative impacts predicted from PM liability on physicians, patients or other stakeholders. Sorne of the policy
+solutions we will evaluate include greater use of and protection provided by clinical guidelines, better training of
+physicians and other health professionals, increased patient awareness and participation, regulatory and
+doctrinal change to malpractice standards or other applicable legal provisions, judicial and other courtroom
+reforms, and other possible solutions. There is almost no existing analysis of such policy responses to reduce
+liability relating to PM, so this analysis will be breaking new ground. The goals will be to identify and assess
+options that increase informed decision-making by participants in the medical and liability communities,
+including physicians, patients, judges and lawyers, as well as mechanisms for reducing uncertainties and
+providing greater predictability of expectations.
+Relating to this emphasis, the final objective of our project will be to communicate the findings of our analysis
+and to provide guidance to relevant stakeholders, including particularly physicians and patients, and legal
+practitioners on how they might use our analysis to better understand how PM liability may affect them and
+how they might mitigate or prevent such impacts. We will communicate our results through three primary
+channels. First, our research, analysis and recommendations will be published in a series of academic articles
+as discussed above, with many of our detailed analyses and data sets posted on a publicly available project
+website to be hosted by the Sandra Day O’Connor College of Law. Second, we will produce and make
+available electronically 4-page briefing papers that summarize our analyses and distill the key findings,
+implications and recommendations of the project that are specifically adapted and focused on a key
+stakeholder for each briefing paper. We will produce one briefing paper for physicians, one for patients, and
+one for lawyers and judges.
+Finally, we will conduct an outreach campaign with affected stakeholders to communicate our findings and
+recommendations to key stakeholders, including physician groups, patient groups, medical educators, and
+malpractice insurers. We have attached a letter of support from a representative organization from each of
+these stakeholder groups (see attached letters from Maricopa County Medical Society (physicians),
+PatientsLikeMe (patients), Mayo Medical School (medical educators), and the Mutual Insurance Company of
+Arizona (physician malpractice insurers}). Each of these organizations is interested in having us communicate
+the findings of our research to their organizations and members, and to assist us in our outreach to similar
+organizations across the country.
+In conclusion, many studies and analyses have referred to the potential importance of liability to the roll-out
+and uptake of PM (e.g., SACGHS, 2008, p. 92; NRC, 2007). Yet, very little empirical, doctrinal or theoretic
+research has been conducted to date to explore the nature and likelihood of liability affecting PM. By focusing
+here on the liability of the physician, the most legally vulnerable player in the PM lifecycle and a key
+gatekeeper for the use of PM, we hope and expect to make an important contribution fer policymakers,
+stakeholders and other interested parties concerned with the near-future development of PM.
+Leadership Plan
+PI Gary Marchant will have overall responsibility for the project. He and Co-Investigators Amalia Issa and Doug
+Campos-Outcalt will divide responsibility for the genetic case law and doctrinal analysis in year one (with
+research assistance from student workers), and the four PM case studies in year two. J.D./M.D. graduate
+student Rachel Lindor will undertake the historical analysis of physician liability from other technologies under
+the supervision of P] Marchant and in collaboration with Co-Investigator Issa and her research team. Co-
+Investigator Campos-Outcalt will focus his efforts in year two on the four case studies. All three primary
+investigators, along with consultants Ramsey and Wicks, will work together in year three for the impact
+analysis, development of potential policy solutions, and stakeholder outreach. All members of the research
+team will participate in periodic conference calls to discuss recent findings and their implications.
+
+Research Strategy Page 55
+
