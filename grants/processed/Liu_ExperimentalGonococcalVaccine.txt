@@ -1,0 +1,922 @@
+
+==================================================
+Page 1
+==================================================
+
+Contact PD/PI: Liu, Yingru
+
+SPECIFIC AIMS
+
+The overall objective of this SBIR project is to develop a prophylactic vaccine against Neisseria
+gonorrhoeae (i.e., gonorrhea). In Phase I, using a murine model of genital gonococcal infection, we have
+established Proof-of-Principle that i.vag. immunization with a proprietary sustained-release particulate
+interleukin-12 (IL-12) formulation plus gonococcal outer membrane vesicles (OMV) - the combination we refer
+to as GvaX12° - induces durable Th1-driven adaptive immune responses that protect against genital tract
+infection with heterologous strains of N. gonorrhoeae [progress report]. In fulfilling the Phase | milestones we
+demonstrated (i) induction of gonococcus-specific Th1 cells, (ii) generation of anti-gonococcal antibodies in
+serum and genital tract secretions, (iii) protection against diverse strains of N. gonorrhoeae, (iv) recall of
+specific antibodies and reactivation of T cells after challenge infection, and (v) duration of protection against
+infection for 6 months. In addition we have shown that protection depends on both antibodies and IFNy.
+
+In Phase II, we will use the same murine model to identify alternative routes of immunization that may be more
+applicable to humans (potentially including males), and determine the basis of protective immunity against
+antigenically diverse clinical isolates of N. gonorrhoeae. In addition, we will perform preliminary
+pharmacokinetics and toxicity studies and prepare materials for submission to the FDA for a type C meeting.
+
+The specific aims for Phase II are as follows:
+
+Aim 1: Define, optimize, and validate a vaccination regimen. This aim will encompass three tasks:
+
+A. Determine a route of administration, intranasal vs. intravaginal, with respect to: 1) protection
+against challenge with N. gonorrhoeae ; and 2) immune response correlates of protection (i.e.,
+antibody titers, antibody specificity and T cell cytokine responses).
+
+B. Determine the basis of cross-protective immunity against antigenically diverse clinical isolates of
+N. gonorrhoeae
+
+C. Determine whether immunization with detergent-extracted OMV-containing GvaX12° induces
+protective immune responses against N. gonorrhoeae
+
+Aim 2: Rodent pharmacokinetics and reproductive toxicology. This aim involves two tasks:
+A. Bioavailability and pharmacokinetics of IL-12 following intravaginal and intranasal administration
+of GvaX12° in mice.
+B. Conduct reproductive toxicology studies in rats (i.e., embryonic-fetal development and effects on
+pre- post-natal development )
+
+Aim 3: Request a type C pre-pre-IND meeting with the FDA and prepare a briefing package with written
+questions. Upon successful completion of Aims 1 and 2, TherapyX'”’ will request a type C pre-pre-IND
+meeting with the FDA and prepare a briefing package with written questions. At this meeting, we will seek
+agency guidance to shape future toxicological and clinical study designs
+
+Milestones to be accomplished:
+
+Year 1:
+
+1. Demonstrate efficacy of intra-nasal versus intra-vaginal routes of vaccine delivery;
+2. Elucidate the basis of cross-protection against antigenically diverse strains;
+
+Year 2:
+
+3. Determine whether detergent-extracted OMV are effective as a vaccine immunogen;
+4. Define systemic exposure and the potential for reproductive toxicity;
+
+5. Receive agency guidance that will shape toxicological and clinical study designs.
+
+Upon successful completion of these aims TherapyX'”’ will submit an SBIR Phase IIb grant application, which
+
+will seek to evaluate the pharmacokinetics and potential toxicity of this vaccine in non-human primates, and
+prepare for an IND submission.
+
+Specific Aims Page 78
+
+
+==================================================
+Page 2
+==================================================
+
+Contact PD/PI: Liu, Yingru
+
+RESEARCH STRATEGY
+
+1. Significance
+
+Despite public health control measures, gonorrhea remains an all-too-common disease, and is the second
+most frequent reportable infectious disease in the US. Although the reported incidence of this disease
+exceeds 350,000 cases per annum (1), the real incidence is estimated to be 820,000 cases per annum (2).
+World-wide incidence is now estimated at 78 million new cases per annum (3). Women bear the greater
+morbidity because untreated gonorrhea can lead to upper tract infection and pelvic inflammatory disease, with
+tubal scarring, infertility, and risk for ectopic pregnancy which can be life-threatening. Gonorrhea also
+increases the risk of acquisition and transmission of HIV up to 5-fold in both sexes (4). Because no vaccine is
+available (5), both its control and treatment depend upon antibiotics. However, N. gonorrhoeae has steadily
+developed resistance to each class of antibiotics deployed against it, including fluoroquinolones and most
+recently even extended-spectrum cephalosporins, raising serious concerns that gonorrhea could become
+untreatable (6). The CDC has listed antibiotic-resistant N. gonorrhoeae as one of the top three pathogens
+presenting “an immediate public health threat that requires urgent and aggressive action” (7). A recent WHO
+technical consultation on vaccines against sexually transmitted infections (to which our collaborator Dr. Russell
+contributed) called for renewed efforts to develop a vaccine against gonorrhea (8, 9). In June 2015, the NIAID
+convened a workshop to discuss the status of gonococcal vaccine development that both Dr. Russell and the
+PI attended (see report published in ref. 10).
+
+Several previous attempts have been made to develop vaccines against gonorrhea, three in recent times
+although only two went into clinical trial (reviewed in 11, 12). The first, based on killed whole gonococci,
+proved ineffective as did a later and substantially larger effort based on gonococcal pili; the third based on
+porin protein was abandoned. These disappointments discouraged further efforts and engendered pessimism
+that vaccination against gonorrhea might not be feasible. Contributing to this situation is the well-known
+observation that uncomplicated gonorrhea can be acquired repeatedly with apparently no development of
+protective immunity resulting from previous infection. The reasons for this are poorly understood, but it is
+generally thought that extensive antigenic variation coupled with multiple mechanisms for resisting complement
+enable N. gonorrhoeae to evade whatever adaptive immune responses the host develops against it.
+Consequently, in the absence of a reproducible state of immunity, the determinants of human immune
+protection have not been defined.
+
+Recent studies in our collaborator’s laboratory using a mouse model of genital gonococcal infection have cast
+new light on this problem. It was shown that N. gonorrhoeae selectively elicits innate host defenses that it
+can survive and concomitantly suppresses adaptive immune responses that would eliminate it, by
+mechanisms involving IL-10, TGFB, and type 1 regulatory T cells (13-17). These studies further showed
+that: 1) immunosuppression can be reversed by neutralizing TGF£ and IL-10 (14, 17); and 2) local intravaginal
+(i.vag.) treatment with TherapyX'""’s sustained-release nanoparticulate IL-12 formulation (but not soluble IL-12)
+during gonococcal infection accelerates clearance of the infection and induces resistance to secondary
+infection several weeks later (18). This latter finding implies the development and recall of immune memory
+(18). We therefore inferred that i.vag. nanoparticulate IL-12 effectively turned the infection into a live vaccine,
+and consequently proposed that it could serve as an adjuvant for a non-viable prophylactic gonococcal vaccine.
+
+This notion was directly tested in our Phase | work. The data demonstrated that prophylactic vaccination with
+a formulation containing particulate IL-12 plus gonococcal outer membrane vesicles (GvaX12°) administered
+i.vag resulted in long-term protection from subsequent challenge (see Phase | data below, 19). Thus we now
+have a candidate prophylactic vaccine for clinical development.
+
+2. Innovation:
+
+The innovative aspects of our proposal are two-fold. First, we now have a novel approach for developing a
+vaccine against N. gonorrhoeae based on a small animal model in which we can reliably induce a state of
+protective immunity against genital gonococcal infection. This situation was never attained in the previous
+unsuccessful efforts to create a gonococcal vaccine and represents a major conceptual advance. We have
+found that mice can be immunized i.vag. with GvaX12® to generate protection against subsequent challenge
+
+Research Strategy Page 79
+
+
+==================================================
+Page 3
+==================================================
+
+Contact PD/PI: Liu, Yingru
+
+with live N. gonorrhoeae (progress report). Having established Proof-of-Principle, we now hypothesize that
+protective immunity against genital gonococcal infection depends upon: 1) Th1-driven production of anti-
+gonococcal antibodies (Abs) in serum and genital secretions; and 2) immune memory that can be recalled on
+subsequent exposure to N. gonorrhoeae.
+
+Second, the sustained-release nanoparticulate IL-12 formulation, a critical component of GvaX12°, represents
+an important technological innovation. Our patented phase inversion nanoencapsulation (PIN®) process
+provides a mild encapsulation methodology without loss of structural integrity or biological activity of
+macromolecules (20). Studies of encapsulation efficiency, release kinetics, and post-encapsulation specific
+activity studies established that excipient-stabilized macromolecules can be incorporated in poly-lactic acid
+(PLA) particles in a two-step process with 90% efficiency, fully-preserved bioactivity and storage stability for up
+to one year (21). Finally, recent scale-up work at TherapyX'" has achieved commercial methods for the
+production of kilogram size batches of the formulation removing a major hurdle that has thwarted the
+development of similar products. Thus GvaX12° is now ideally situated for development as a vaccine that
+induces Th1-driven protective immunity against N. gonorrhoeae.
+
+3. Approach
+3.1 Phase | Results
+
+In Phase | of this SBIR grant we established proof-of-principle that i.vag. immunization with GvaXx12°
+induces adaptive Th1i-driven immune responses that protect against genital gonococcal infection.
+Gonococcal outer membrane vesicles (OMV) were selected as the immunogen because they contain most
+gonococcal surface antigens (Ags) in native conformation, whereas in heat- or formaldehyde-killed cells some
+Ags may be denatured. Moreover, gonococcal OMV have been used to immunize mice intranasally, though
+with variable results (11, 12, 22), and meningococcal OMV vaccines have been developed against N.
+meningitidis and successfully used in humans (23).
+
+We have attained the Milestones stated in the Phase | application as follows:
+
+Milestone 1: Intra-vaginal immunization with GvaX12° protects from genital gonococcal infection by inducing
+IFNy-secreting T cells specific for gonococcal antigen in the draining iliac lymph nodes (Fig. 1).
+
+>
+
+(3 Blank ms alone
+
+EF) OMV + blank ms x3
+~6- Blank/ms alone OMV + IL-12/ms x1
+-#- Ngo OMV + blank ms OMV + IL-12/ms x2
+-t- Ngo OMV + IL-12/ms ME OMV + IL-12/ms x3
+-—a- NTHI OMV + IL-12/ms
+
+% infected
+
+a
+Oo
+=
+x
+no]
+2
+o
+>
+fe)
+Oo
+2
+=)
+iL
+oO
+
+expressing the cytokine
+
+0
+0 2 4 6 8 10 12 14 16
+
+Days after inoculation ‘ :
+y Days after inoculation
+
+Figure 1: Gvax12° protects from Ngo challenge and induces Ngo-specific T-cell immunity in a murine model of
+Ngo infection. In this model (19) , young female mice in diestrus are treated with estradiol, placed on antibiotics
+to suppress the overgrowth of commensals, and then vaginally infected by instilling a suspension of freshly grown,
+virulent N. gonorrhoeae. Infection, monitored by vaginal swabbing and plating, typically clears in 2-3 weeks, and is
+accompanied by an influx of neutrophils. Vaccine efficacy is determined by the change in the rate of Ngo clearance after
+challenge. Mice (N=8) were immunized twice with gonococcal (Ngo; FA1090) OMV (50yg protein) plus blank or IL-12
+particles (1ug IL-12); controls were sham-immunized with blank particles or with NTHI OMV plus IL-12 particles
+(Gvax12°). Two weeks later, all mice were challenged with Ngo strain FA1090. A: recovery of Ngo (mean +SEM, CFU),
+P <0.01 (ANOVA) gonococcal OMV + IL-12 particles vs. blank particles; B: % of animals remaining infected at each time
+point, P <0.0001 (Kaplan-Meier, log-rank test) Ngo OMV + IL-12 particles vs. blank particles. C: T cell cytokine responses
+
+Research Strategy Page 80
+
+
+==================================================
+Page 4
+==================================================
+
+Contact PD/PI: Liu, Yingru
+
+induced by immunization with gonococcal OMV plus IL-12/ms, prior to gonococcal challenge. ILN cells were isolated 2
+weeks after the last immunization with 1, 2, or 3 doses of gonococcal OMV (50ug protein) plus IL-12/ms (1g IL-12).
+Control ILN were obtained from mice sham-immunized with blank ms (3 doses) and additional mice were immunized 3x
+with gonococcal OMV plus blank ms. Data shown as mean +SEM % of CD4* or CD8*" cells staining for each cytokine. *
+P <0.01 (ANOVA) comparing immunization with IL-12/ms vs. blank ms, N=3 samples per group.
+
+The above data establish that GvaX12® enabled mice to reject a bacterial challenge more effectively than
+vaccination with OMV/blank particles and that the clearance of bacteria was associated with a Th1 response.
+
+Milestone 2: Anti-gonococcal Ab were generated in serum and vaginal secretions by i.vag. immunization with
+Gvax12® (Fig. 2).
+
+Fig. 2: T-cell cytokine responses induced by
+
+immunization with gonococcal OMV plus IL-12, [ Control (blank/ms alone)
+: [4 OMV + blank ms x3 ZZ OMV + IL-12/ms x3
+prior to gonococcal challenge. ILN cells were BS OMV+IL-12/ms x1 EJ OMV + IL-12/ms x3 (to E. coll)
+
+isolated 2 weeks after the last immunization with 1, 2, EEL OMVSlicleimaxe ER OMY tile t2imex3 (toNTH)
+or 3 doses of gonococcal OMV (50ug protein) plus IL-
+12 particles (1ug IL-12). Control ILN were obtained
+from mice sham-immunized with blank controls (3
+doses) and additional mice were immunized 3x with
+gonococcal OMV plus blank particles. Data shown as
+mean +SEM % of CD4* or CD8* cells staining for each 0 ane fs
+cytokine. * P< 0.01 (ANOVA) comparing Vaginal wash
+immunization with IL-12 vs. blank, N=3 samples per
+group.
+
+These results demonstrate that GvaX12° induced potent Ng-specific IgG and IgA responses both in the serum
+and in the mucosa and that maximal response required 2 immunizations.
+
+Specific Ab relative to control
+Specific Ab relative to control
+
+Milestone 3: i.vag. immunization with GvaX12° induced protection against antigenically different strains of N.
+gonorrhoeae (Fig. 3).
+
+>
+
+c -@- FA1090 OMV + blank ms / FA1090 *L -@- FA1090 OMV + blank ms / FA1090
+-® FA1090 OMV + IL-12/ms / FA1090 ~® FA1090 OMV + IL-12 ms / FA1090
+LC ~&- FA1090 OMV + blank ms C ~4- FA1090 OMV + blank ms / FA19
+
+-t FA1090 OMV + IL-12/ms i -t- FA1090 OMV + IL-12 ms / FA19
+
+cr) r=)
+= =
+x x
+aod ao]
+a]
+2 @ 2 a]
+g 9 $ g
+8 2 fey 9
+c is) 2
+2 a 2 =
+=| s =) ss
+re we
+Oo (o}
+
+10 12 14 0 2 4 6 8 10 12 14 6 8 10 12 14 0 2 4 6 8 10 12 14
+Days after inoculation Days after inoculation Days after inoculation Days after inoculation
+
+Fig. 3. Protection against heterologous gonococcal challenge. A. Challenge with strain MS11. One month after
+immunization with FA1090 GvaX12° or control, mice were challenged with N. gonorrhoeae strains FA1090 or MS11. Left
+panel: recovery of N. gonorrhoeae (mean +SEM, CFU), * P <0.001 (ANOVA) N=8; right panel: % of animal remaining
+infected at each time point), P <0.02 for FA1090 challenge, IL-12 vs. blank ; P <0.001 IL-12 vs. blank for MS11 challenge
+(Kaplan-Meier analysis, log-rank test) N=8. B: Challenge with strain FA19. One month after immunization with FA1090
+GvaX12° or blank control, mice were challenged with N. gonorrhoeae strains FA1090 or FA19. Left panel: recovery of N.
+gonorrhoeae (mean +SEM, CFU), * P <0.001 (ANOVA) N=8; right panel: % of animal remaining infected at each time
+point, P <0.02 for FA1090 challenge, IL-12 vs. blank; P <0.001 for FA19 challenge, IL-12 vs. blank (Kaplan-Meier analysis,
+log-rank test), N=8.
+
+The above data reveal that GvaX12°-induced immunity to strain FA1090 provided cross-protection from strains
+MS11 and FA19.
+
+Milestone 4: Immune responses (T cells and Ab) induced by i.vag. immunization with GvaX12° were recalled
+after challenge infection (Fig. 4). Note that IL-17-secreting T cells are induced by gonococcal infection alone,
+regardless of prior immunization or treatment (13, 16, 18).
+
+Research Strategy Page 81
+
+
+==================================================
+Page 5
+==================================================
+
+Contact PD/PI: Liu, Yingru
+
+(2 Sham-infected
+OMV + blank ms
+MM OMV + IL-12/ms
+
+(3) Sham-infected (2) Sham-infected
+OMV + blank ms * OMV + blank ms
+Ml OMV + IL-12/ms MH OMV + IL-12/ms
+
+*
+
+% T cells
+expressing the cytokine
+
+Specific Ab relative to control
+
+:
+fe}
+3)
+2
+i)
+=
+5
+&
+2
+2
+<x
+Pe}
+}
+}
+®
+[or
+n
+
+IgA IgG IFN-y IL-4 IL-17
+Vaginal wash ILN CD4* cells
+
+Figure 4: Recall of responses in mice after challenge with N. gonorrhoeae FA1090 6 months after immunization
+with FA1090 OMV plus IL-12. A: Vaginal wash antibodies (N=5 samples), B: serum antibodies (N=5 samples), C:
+cytokine production by CD4* ILN cells (N=3 samples). # P <0.05, * P <0.01 vs control samples from sham-infected mice
+(ANOVA).
+
+These results establish that GvaX12° induced long-term Ng-specific Th1 and antibody responses.
+
+Milestone 5: Protective immunity against genital infection with N. gonorrhoeae persisted for at least 6 months
+after i.vag. immunization with GvaX12° (Fig. 5) and that long-term protection required both Th1 and B-cell
+responses (Fig 6).
+
+Fig. 5: Protection against gonococcal (FA1090) challenge eae
+. . . . . -&- OMV + blank ms
+
+persisted for at least 6 months after immunization with 2 doses =i-OM = ILalBiing
+
+of gonococcal (FA1090) OMV plus IL-12. Data shown as mean
+
++SEM CFU of N. gonorrhoeae recovered at each time point; * P <0.01,
+
+N=8 (ANOVA).
+
+The enhanced clearance of a bacterial challenge after 6
+months establishes that GvaX12® induced long-term memory.
+In addition we demonstrated that long-term protection against
+genital gonococcal infection depended on both B cells
+(presumably to produce Ab) and IFNy (Fig. 6).
+
+CFU recovered x10°
+
+10 12 14
+Days after inoculation
+
+-9- Wild-type / OMV + blank ms ;
+-a- IFNy-ko / OMV + blank ms vl
+
+-4- uMT / OMV + blank ms
+~&- IFNy-ko / OMV + IL-12/ms —t- MT / OMV + IL-12/ms
+
+% infected
+
+©
+°
+=
+x
+bo)
+2
+o
+>
+fe}
+5
+2
+=)
+i
+.S)
+
+CFU recovered x10°
+% infected
+
+—
+Ris
+
+Pog
+
+“den B =
+2 4 6 8 10 12 0 2 4 6 8 10 12 14 10 2 4 6 8 10 12 14
+Days after inoculation Days after inoculation Days after inoculation Days after inoculation
+
+Fig. 6: Protection induced by immunization with Gvax12° depends on IFNy and B-cells. A: Course of infection
+(FA1090) in IFNy-ko vs wild-type mice immunized with FA1090 OMV Gvax12°.
+B: Course of infection (FA1090) in yMT (B-cell ko) vs wild-type mice immunized with FA1090 OMV GvaX12°. Left panels,
+recovery of N. gonorrhoeae (mean +SEM, CFU) « P <0.01 (ANOVA); right panels, % of animal remaining infected at each
+time point, P <0.0001 for wild-type mice, IL-12 vs. blank (Kaplan-Meier analysis, log-rank test).
+
+Publication: A manuscript reporting these and additional findings has been submitted to Mucosal
+Immunology. If accepted before this application is reviewed we will inform the SRO:
+
+Liu, Y., Hammer, L., Liu, W., Hobbs, M.M., Zielke, R.A., Sikora, A.E., Jerse, A.E., Egilmez, N.K., Russell, M.W.
+(2016) Experimental vaccine induces Thi-driven immune responses and protection against Neisseria
+gonorrhoeae in a murine model.
+
+Research Strategy Page 82
+
+
+==================================================
+Page 6
+==================================================
+
+Contact PD/PI: Liu, Yingru
+
+3.2 The Phase II Project
+
+The goal of this proposed Phase II SBIR project is to advance GvaX12® towards Clinical trials by: 1) developing
+a more practicable vaccination regimen in terms of the route of administration (intranasal vs. intravaginal); 2)
+determining immune response correlates of protection: 3) determining the basis for protection against naturally
+occurring, antigenically diverse, clinical isolates of N. gonorrhoeae; 4) perform bioavailability, pharmacokinetic,
+and initial safety studies on GvaX12° in rats; and 5) prepare a briefing package with written questions for the
+FDA, requesting a pre-pre-IND meeting. The FDA’s response will be used to guide continued development
+including OMV scale up, and immune response and toxicological studies in non-human primates. The results
+should also enable (i) defining the specificity and type of immune responses that need to be generated to elicit
+protective immunity, and (ii) framing hypotheses for testing in clinical trials.
+
+The proposed studies will be limited to female mice. The female mouse is the only animal model currently
+available for experimental in vivo studies of genital gonococcal infections and immunity to them (24); there is
+no experimental animal model for male tract gonococcal infection. Moreover, women suffer the greater burden
+of morbidity from gonorrhea, because of the potential for damage to the reproductive tract that arises from
+ascending infection. This infection can lead to tubal scarring, hence infertility; increased risk of ectopic
+pregnancy; and painful and debilitating pelvic inflammatory disease. A developing fetus can be infected in
+utero, leading to pre-term birth or septic abortion, and an infant delivered through an infected birth canal risks
+ocular infection that can lead to blindness. Therefore, limiting our studies to female mice is not only
+unavoidable but also justifiable in addressing the greater problem in females.
+
+3.2.1 Specific Aim 1: Define, optimize and validate a vaccine regimen
+
+Task 1A: To determine an optimal route of immunization: intravaginal vs. intranasal
+
+The current i.vag. immunization regimen, although shown to be effective in our Phase | studies, is thought to
+be impracticable for human prophylactic application, because i.vag. immunization likely will be unacceptable
+for adolescent girls and many women, and inapplicable for males. However, substantial literature, including
+studies in our collaborator’s laboratory, shows that intranasal (i.n.) immunization elicits responses in the genital
+tract, in primates and in males as well as females (25-27), and may be even more effective than i.vag.
+immunization for generating genital antibody responses (28).
+
+Compare protection against challenge with N. gonorrhoeae
+
+Based on our previous gonococcal immunization and infection studies (13, 14, 16-18), including the phase |
+results shown above, we will use groups of 8-12 female mice, BALB/c or C57BL/6 strains, at 2-4 months of
+age. The mice will be prepared for gonococcal challenge (24) by injecting s.c. with 0.5mg estradiol (Premarin)
+on days —2, 0, and +2, placed on an antibiotic regime, and challenged by i.vag. instillation of 5x10° CFU of
+freshly grown N. gonorrhoeae. The course of infection will be monitored by taking daily vaginal swabs for
+viable cell counting on selective agar (a GC agar base supplemented with IsoVitalex, hemin, and antibiotics:
+streptomycin, vancomycin, nystatin, colistin, and trimethoprim). Statistical analysis by 2-way ANOVA of CFU
+recovered at each time point or by Kaplan-Meier analysis of the number of mice remaining infected each day
+(clearance is defined as at least 3 successive days of negative gonococcal recovery) has revealed significant
+differences (P <0.05 or lower) between control and experimental groups, each with at least 8 animals
+completing the experiments. To guard against inadvertent loss of mice through accident (a rare event) or
+overgrowth of commensal microbiota under estrogen treatment, experiments will be commenced with groups
+of at least 10 animals. Experiments requiring challenge after a prolonged interval, e.g., up to 6 months will
+start with 12 animals. Experiments will be performed and gonococcal recovery will be enumerated by persons
+who are “blinded” to the group designations. All experiments will be repeated 2-3 times.
+
+l.vag. immunization has been successfully achieved by instilling GvaxX12° containing OMV prepared as
+described (19, 29) from N. gonorrhoeae strains FA1090, MS11, or FA19 (containing 40g protein) plus IL-12
+particles (1g murine IL-12) and repeating the dose 2 weeks later (See above). We will compare this regimen
+with administering the same dose of GvaX12° intranasally (i.n.) to a group of 10-12 female mice, and giving a
+second similar dose 2-3 weeks later. Control groups will include sham-immunized mice given vehicle only by
+the same routes. Additional controls for the i.n. route will include mice immunized with OMV plus blank
+particles, or with IL-12 particles alone. As these latter controls have previously been performed repeatedly by
+
+Research Strategy Page 83
+
+
+==================================================
+Page 7
+==================================================
+
+Contact PD/PI: Liu, Yingru
+
+the i.vag. route and shown to be no different from sham-immunization, they will not be routinely repeated. Two
+weeks after the second immunization, mice will be challenged with N. gonorrhoeae of the same strain as used
+to prepare the OMV, and infection monitored by vaginal swabbing and plating. The results will be evaluated
+statistically using 2-way ANOVA of gonococcal CFU recovered, and Kaplan-Meier analysis of the number of
+mice remaining infected, to determine (a) if protection against gonococcal challenge is achieved by i.n.
+immunization with GvaX12°® (compared to controls), and (b) whether i.n. immunization is as effective as i.vag.
+immunization.
+
+Compare immune responses with i.n. versus i.vag. immunization
+
+As in our previous studies, serum, saliva, and vaginal wash samples will be collected from mice prior to
+immunization, ~2 weeks after immunization and prior to challenge, and at termination (after clearance of
+infection) for assay of anti-gonococcal Abs (IgG and IgA; IgM Ab are low, variable, and uninformative) by
+ELISA. Western blot analysis of the Abs also will be performed using OMV subjected to SDS-PAGE to reveal
+the predominant Ag bands detected by these Abs.
+
+e For the i.vag.-immunized mice, the iliac lymph nodes (ILN) will be excised from i.vag.-immunized mice
+to assess T cell responses in the genital tract-draining lymph nodes. In some instances, the mice will
+be euthanized after immunization and prior to challenge
+
+e For the i.n.-immunized mice, we will instead use the superficial and deep cervical lymph nodes (CLN)
+which drain the nasal lymphoid tissues (NALT) (30-32). T cell responses will be assessed by: (a)
+intracellular staining and flow cytometry of ILN or CLN cells (co-stained for surface markers including
+CD4 and CD8) for the production of cytokines ex vivo (IFNy, IL-4, and IL-17); (b) culture of ILN or CLN
+cells preloaded with carboxyfluorescein succinimide ester (CFSE) with or without gonococcal Ag (OMV)
+for 4 days followed by staining for surface markers (CD4 and CD8) and flow cytometry to assess
+proliferation by attenuation of CFSE staining (secreted cytokines can also be assayed by ELISA); and
+(c) RT-PCR assay of MRNA extracted from ILN or CLN cells for the key Thi, Th2, and Th17
+transcription factors Tbet, GATA3, and RORyt, respectively.
+
+Differences in the quantitative responses shown by different groups of mice will be analyzed statistically using
+Student’s t tests (for 2 groups) or ANOVA (for multiple groups). All of these experimental and statistical
+methods have been used in our previous studies (14, 16-18).
+
+Outcomes, potential difficulties, further experiments/alternatives, and significance/interpretation for
+Task 1A:
+
+The primary objectives are to determine: 1) whether i.n. immunization with GvaX12° is as effective as i.vag.
+immunization in protection against i.vag. challenge with N. gonorrhoeae; and 2) whether similar immune
+responses are induced by these two routes. If i.n. immunization is effective, we would expect it to be
+associated with similar immune responses (i.e., anti-gonococcal Abs in serum and vaginal wash, and IFNy-
+secreting CD4+ T cells in the draining lymph nodes). Evaluation of salivary IgA Ab responses would reveal the
+induction of a common mucosal immune response, which would be expected for i.n. immunization, but not for
+i.vag. immunization, because the genital tract does not contain the mucosal inductive site tissues found in the
+nasal passages of mice (28, 30). If protection is weak or ineffective, we expect it to be associated with
+inadequate immune responses, and in that case we will adjust the dose of vaccine (GvaX12°) given i.n., and/or
+the number of doses (e.g., 3 or more doses at 2-week intervals) to increase the immune responses and
+generate protection.
+
+An important consideration will be the generation of Ab (IgG and IgA) in vaginal wash after i.n. immunization as
+presumably this will be critical for protection. Based on previous experience we expect i.n. immunization to be
+at least as effective in generating genital tract Ab responses as i.vag. immunization (25, 28). Discordance
+between protection and immune response induction by the two routes would require further investigation, and
+possibly provide insight into the mechanisms of protective immunity. If i.n. immunization effectively generates
+both protection and immune responses equivalent to i.vag. immunization, we will immunize male mice i.n. with
+the same GvaX12® regime to determine if they generate the same serum and salivary Ab responses as female
+mice. Although it is not possible to evaluate protective immunity in male mice, a positive result would broaden
+the potential applicability of GvaX12° to both sexes.
+
+Research Strategy Page 84
+
+
+==================================================
+Page 8
+==================================================
+
+Contact PD/PI: Liu, Yingru
+
+Given that vaginal IgG Abs are likely derived from the circulation, we will also compare the response to s.c.
+immunization with GvaX12° (with appropriate controls) because would expect this route to induce
+predominantly serum IgG Ab, as well as vaginal IgG Ab as reported previously (22). If this should be sufficient
+to generate protection against gonococcal challenge, it would be important to determine whether a Th1/IFNy
+response were also induced, because we previously demonstrated this effect to be essential for protective
+immunity (see Phase | data above). However, GvaX12°® is intended for local mucosal, not systemic application,
+because systemic release of IL-12 can be toxic. Therefore, an alternative Th1-driving adjuvant for systemic
+immunization with OMV may be necessary; however, that possibility is beyond the scope of this application.
+
+We realize that the mouse model cannot fully predict the efficacy of the proposed vaccine in humans, which
+can only be determined by means of clinical trials. N. gonorrhoeae is an exclusively human pathogen and non-
+human primates are not susceptible to infection, with the exception of chimpanzees (33). However, despite its
+limitations the mouse model is the only available animal model for studying the response of an intact
+mammalian immune system to N. gonorrhoeae, and we have used it to good effect for this purpose for several
+years. Importantly it provides a means to elucidate the type(s) of immune response necessary for protective
+immunity against gonococcal infection, and may also identify potential surrogate markers of protection. Thus it
+can test hypotheses that cannot be tested in humans and help to frame the questions that will need to be
+addressed in humans.
+
+Task 1B: Determine the basis of cross-protective immunity against antigenically diverse clinical
+isolates of N. gonorrhoeae
+
+We have found that i.vag. immunization with GvaX12° containing OMV derived from any of three widely used
+“laboratory strains” (FA1090, MS11, and FA19) induces protection against challenge, not only against the
+homologous strain, but also against each other, despite their known antigenic differences (see above). In
+addition, serum and vaginal Ab showed strong cross-reactivity in ELISA against heterologous gonococcal
+strains (see above). Although these findings were wholly unexpected, they have been repeatedly reproduced.
+However, the extent to which these extensively subcultured strains are representative of naturally circulating N.
+gonorrhoeae strains is uncertain. Therefore, to further investigate these findings we will determine whether Ab
+cross-reactivity and associated cross-protection against challenge extends to antigenically diverse, minimally
+passaged Clinical isolates of N. gonorrhoeae (in collaboration with Dr. Marcia Hobbs, University of North
+Carolina, Chapel Hill; letter attached).
+
+Our preliminary findings showed: 1) that immunization of mice i.vag. with GvaX12°® containing OMV prepared
+from strain FA1090 also protects against subsequent challenge (with two minimally passaged clinical isolates
+provided by Dr. Hobbs): and 2) that serum and vaginal Ab react in ELISA with these isolates, similar to what
+we observed with heterologous lab strains (data not shown). Although we can extend these experiments to
+include additional clinical isolates, the time and effort involved in such an extension would severely limit the
+number of strains that could be tested. Therefore we propose the following process:
+
+1. First, we will perform screening assays by ELISA on a larger number (at least 30) of clinical isolates
+from diverse geographic locations in order to determine whether serum and vaginal Abs induced by
+immunization of mice with OMV from the laboratory strains cross-react with these clinical isolates in
+comparison to the homologous strains. For this purpose, we will immunize mice i.vag. with GvaX12°
+containing OMV prepared from gonococcal strains FA1090, MS11, and FA19 (at least 20 mice each),
+as described in Aim 1A above, and collect serum and vaginal wash 2 weeks after the last dose.
+Terminal bleeding (from the inferior vena cava or subclavian vein) of the mice will be performed under
+anesthesia in order to obtain as much serum as possible. Samples will be pooled to yield 5-10ml of
+pooled serum and 20ml or more of vaginal wash. Because this is a screening procedure and we
+already know that control immunizations are not protective and do not induce Ab, control serum and
+vaginal wash will be obtained from unimmunized mice. ELISA plates will then be coated with whole
+cells of N. gonorrhoeae, including strains FA1090, MS11, and FA19 as well as the clinical isolates,
+freshly grown overnight on “chocolate agar” plates incubated at 37°C in 5% COs as described
+previously. Concentrations of gonococci in each harvested culture will be adjusted to the same level by
+OD at 600nm. The pooled serum and vaginal wash from immunized and control mice will be serially
+diluted and incubated on the plates in quadruplicate for 4-6 hours. Bound antibodies will be detected by
+
+Research Strategy Page 85
+
+
+==================================================
+Page 9
+==================================================
+
+Contact PD/PI: Liu, Yingru
+
+incubation with alkaline phosphatase-conjugated anti-IgG or anti-lgA reagents (Southern
+Biotechnology), followed by appropriate substrate development.
+
+2. We will then perform western blots to identify gonococcal Ag bands detected by the Abs. For this
+purpose small-scale OMV preparations will be made from each isolate (by shearing cell suspensions in
+lithium acetate buffer and applying differential centrifugation as we have done previously (13), their
+protein concentrations will be determined by the Pierce bicinchoninic acid method (34). OMV (10-50ug
+protein) will be boiled in SDS sample buffer (with 2-mercaptoethanol), separated on SDS-
+polyacrylamide (10%) gels, blotted to nitrocellulose membranes and probed with suitably diluted serum
+or vaginal wash pools from immunized or control mice. Bound Ab will be detected using peroxidase-
+conjugated anti-IgG or anti-IlgA reagents and chemiluminescence. A replicate gel will be stained with
+Coomassie blue to reveal the protein bands. Pre-stained MW markers will be included on each gel.
+
+3. We will then test selected clinical isolates (up to 6, chosen at random, to include strains that do not
+react with the Ab in immunized mouse serum or vaginal wash, if any) in challenge-protection
+experiments. For this purpose, 2 groups (A and B) of 12 mice will be immunized i.vag. with GvaX12®
+containing OMV from strains FA1090, MS11 or FA19, as described above (Aim 1A). Two control
+groups (C and D) of 12 mice will be unimmunized. One month after immunization, one immunized and
+one control group (A and C) will be challenged i.vag. with the selected clinical isolate (transformed to be
+streptomycin-resistant by Dr. Hobbs), and the other two groups (B and D) will be challenged with the
+immunizing strain (FA1090/MS11/FA19). The course of infection will be monitored by vaginal swabbing
+and plating as described above. The recovery of gonococcal CFU and the numbers of mice remaining
+infected will be analyzed statistically by 2-way ANOVA and Kaplan-Meier methods, respectively, as
+described above. Each experiment will be repeated to verify the result.
+
+Outcomes, potential difficulties, further experiments/alternatives, and significance/interpretation for
+Task 1B
+
+We will first relate the ability of clinical isolates to react in ELISA with Ab in serum and vaginal washes of i.vag.-
+immunized mice to their porin and Opa types as determined by Dr. Hobbs. On the basis of limited information
+pertaining to the laboratory strains (FA1090, MS11, and FA19 are known to express different porB and opa
+genes), we do not expect to find any close concordance, but given that porin and Opa are major surface
+proteins, this will be examined. Examination of the sera and vaginal wash by western blots against OMV
+proteins should confirm lack of reactivity against bands corresponding to porin and Opa proteins, as noted
+already for FA1090, MS11, and FA19. However, caution is warranted because protein Ags are denatured in
+SDS-PAGE and may not be fully restored on blotting to nitrocellulose membranes, therefore any Ab reactive
+with them could be missed. An alternative approach would be to separate OMV proteins in non-denaturing
+gels for blotting; however the MW of the protein bands cannot be readily assigned and identification of the
+porin and Opa bands would be uncertain. It is also possible that the culture conditions used to prepare OMV,
+both for immunization and for Ab analysis, will affect the expression of various Ags, e.g., those regulated by
+iron or anaerobiosis. Thus it is important to grow N. gonorrhoeae under standard conditions; however, these
+conditions can be altered in light of findings to determine if, for instance, Ags selectively expressed under iron-
+limited or anaerobic conditions are relevant.
+
+It is possible that Abs against lipooligosaccharide (LOS) contribute to protective immunity. Interest currently
+focuses on the 2C7 epitope which is expressed by >95% of clinical isolates under phase-variable control (35,
+36). We will check the expression of 2C7 in the various strains of N. gonorrhoeae, using 2C7 Ab obtained from
+Dr. Peter Rice (University of Massachusetts; letter attached), to determine whether protective immunity and Ab
+reactivity accord with its expression. Otherwise, determining LOS type and structure is beyond the scope of
+the current proposal, and would require further collaborations with those who have the necessary expertise.
+
+The more important question is whether i.vag. immunization with OMV from the laboratory strains induces
+protection against naturally occurring strains of N. gonorrhoeae. Although this question cannot be
+comprehensively assessed within this proposal, we will determine whether protection is shown against at least
+6 randomly chosen clinical isolates, including any that do not recognize Ab in ELISA and/or western blot
+assays. If protection is dependent on vaccine-induced Ab that recognize the challenge strain, then any clinical
+isolates that fail to react with Ab should not be protected against, and a finding to the contrary would challenge
+the hypothesis. Conversely, if strains are found that are not protected against despite recognizing vaccine-
+induced Ab, this would negate the hypothesis that these Ab determine protective immunity. If we are to go
+
+Research Strategy Page 86
+
+
+==================================================
+Page 10
+==================================================
+
+Contact PD/PI: Liu, Yingru
+
+forward with a vaccine based on gonococcal OMV it will be important to know if there is a frequent occurrence
+of strains that are not protected against. If so, then a broader-based vaccine, perhaps incorporating OMV from
+multiple strains, or including selected additional Ags (as in the recently introduced 4CMenB vaccine against N.
+meningitidis) would become necessary.
+
+If in Aim 1A it is found that i.n. immunization with GvaX12° results in protective immunity against homologous
+challenge (similar to that found with i.vag. immunization) and generates Ab (as detected by ELISA and western
+blotting against the homologous strain) it will be important to determine: 1) whether these Ab also recognize Ag
+in the clinical isolates; and 2) whether protective immunity against them is induced by this route of
+immunization. It is possible that different patterns of Ab reactivity may be induced by the two routes (because
+the nasal passages contain organized lymphoid tissue where mucosal immune responses are initiated,
+whereas such tissues are absent from the genital tract (30, 37)). If so, these differences could help elucidate
+the contribution of different Ab specificities to gonococcal immunity.
+
+Task 1C: To determine whether immunization with GvaX12° containing detergent-extracted OMV
+induces protective immune responses against N. gonorrhoeae
+
+A potential disadvantage of native OMV as a vaccine immunogen arises from reactogenicity caused by the
+presence of LOS. This effect has been observed with meningococcal OMV vaccines that are administered
+parenterally, although the mucosal routes of administration that we propose for our gonococcal OMV vaccine
+might prove less reactogenic. However, to forestall this potential problem, we will evaluate the ability of
+detergent-extracted gonococcal OMV (deOMV) to induce protection against N. gonorrhoeae, and to induce
+responses similar to those observed with native OMV.
+
+For this purpose, we will modify our standard OMV (FA1090) preparation by extraction with 1% sodium
+deoxycholate in 1mM EDTA, 0.1M Tris buffer pH 8.5, followed by chromatography on a size-exclusion column
+(38). Mice will be immunized i.vag. with 2 doses (2-week interval) of GvaX12°® containing deOMV (50g
+protein) as described above. Control mice will be immunized with deOMV plus blank particles, and a
+comparison group of mice will be immunized with GvaX12° containing native OMV. Samples of serum and
+vaginal wash will be collected at 2 weeks after immunization for Ab assay. One month later mice will be
+challenged with N. gonorrhoeae FA1090, and the course of infection will be monitored by vaginal swabbing
+and plating, as described above. Further samples of serum, vaginal wash, and ILN will be collected at
+termination, for evaluation of Ab and cytokine responses, as described above.
+
+We will compare protection against challenge, as well as Ab and cytokine responses induced by immunization
+with deOMV plus IL-12 particles with those induced by native OMV plus IL-12 particles, and with those induced
+by deOMV administered with blank particles. If the response to deOMV plus IL-12 particles is significantly less
+than that induced by native OMV plus IL-12 particles, we will repeat the experiment using increased doses of
+deOMV (e.g., 100-200ug protein), or by administering 3 or more immunizations. If i.n. immunization is
+successful with native OMV (Aim 1A above), we will further determine whether it works with deOMV.
+
+Outcomes and significance for Task 1C
+
+No difficulty is expected in performing experiments to evaluate the efficacy of deOMV as a vaccine immunogen
+in comparison with native OMV. On the basis of reports that meningococcal deOMV are less immunogenic
+than native OMV (attributed to the reduced LOS content), we may find that gonococcal deOMV are also less
+immunogenic; if so, we will determine whether increased dose or frequency of immunization can compensate
+adequately. The significance of successful results with deOMV may lie with diminished toxicity as revealed by
+the studies proposed in Aim 2 below
+
+3.2.2 Specific Aim 2: Conduct studies of Rodent pharmacokinetics and reproductive toxicology
+A. Task 2A: determine the bioavailability and pharmacokinetics of IL-12 following intravaginal and
+intranasal administration of GvaX12°in mice.
+
+The objective of this study is to gain insight into the bioavailability, pharmacokinetics and potential acute
+toxicity of IL-12 following a single i.vag. or intranasal (i.n.) administration of GvaX12° or as a bolus intravenous
+(i.v.) dose of IL-12 to female mice. The study design is as follows:
+
+Research Strategy Page 87
+
+
+==================================================
+Page 11
+==================================================
+
+Contact PD/PI: Liu, Yingru
+
+Table 1 study design
+
+Dose No. of Animals
+Dose Dose Rate} Concentration
+Group Test Item Route | Dose Level (mg/kg) |_ (mL/kg) (mg/mL) Females
+
+1 GvaxX12° [11g IL-12 va IL-12: 0.04 16 IL-12: 25 40
++ OMV (40yg protein)] |“ 9: OMV protein: 1.6 ‘ OMV protein: 1.0
+
+2 GvaxX12° [11g IL-12 on IL-12: 0.04 * 16 IL-12: 25 40
++ OMV (40ug protein)] -_ OMV protein: 1.6 ‘ OMV protein: 1.0
+
+3 eta ties iv. 0.04 4.0 0.01 12
+
+* Dose of IL-12 given i.n. is based on i.vag. dose. If higher levels are found to be needed by this route (Specific Aim 1A),
+the dose used for these studies will be modified accordingly.
+
+The following parameters and end-points will be evaluated in this study: clinical signs (i.e., hunched posture,
+ruffled fur, lethargy, loss of appetite, cool to touch), body weights, and toxicokinetic parameters (see below).
+Samples will be collected according to the following table:
+
+Table 2 Schedule for Sample Collection
+
+Sample Collection Time Points
+Group | Subgroup NO Or ; = (post start of dose)
+
+min {min |min| (0 | 2h | 4h | 6h | 12h | 16h | 24h
+
+A 3 - - xX | - - - - xX" - - -
+
+, B 3 - - - | X - - - x’ | - -
+C 3 - - - - xX | - - - | x] -
+
+D 3 - - - - - |X - - - | x"
+
+A 3 X - - - - |x! - - - -
+
+p B 3 - | X - - - - x" : : :
+C 3 - - xX [| - - - : x’ | - :
+
+D 3 - - - | X - - - - - | x"
+
+A 3 xX | - - - - |x" : : : :
+
+3 B 3 - | X - - - - x" : : :
+C 3 - - xX [| - - - : x’ | - :
+
+D 3 - - - | X - - - - - | x"
+
+X = Sample collected via saphenous vein puncture ; X'= Sample collected via terminal bleed on
+anesthetized mice from the inferior vena cava or subclavian vein;
+- = Not applicable.
+
+Blood will be collected into serum separation tubes (SST) tubes by saphenous vein puncture (target of 0.1 mL)
+or via the abdominal aorta (maximum possible volume) while under isoflurane anesthesia (terminal samples
+only). An additional terminal blood sample (target volume up to 1 mL) will be collected of 1 spare animal and
+used as a pre-dose sample. Samples will be frozen immediately over dry ice and transferred to a freezer set to
+maintain -20°C until use. Levels of IL-12 will be measured by ELISA. Tmax, (time of maximum serum
+concentration), Ty, (half-life), Cmax (maximum serum concentration), Cmayvo (maximum serum concentration
+divided by dose) and AUC (area under the curve) will be calculated. Levels of other pro and anti-inflammatory
+cytokines (e.g., IFNy, TNFa, IL-10 and TGFB) will also be measured.
+
+Outcomes, potential difficulties, alternatives and significance For Task 2A
+
+The primary outcome measure for the pharmacokinetic study will be the circulating level of IL-12 over time,
+according to the schedule in Table 2. Secondary measures include circulating levels of IFNy. The absolute
+bioavailability will be calculated using the dose-corrected area under curve (AUC) for non-intravenous
+administration divided by the AUC for intravenous administration, according to classical pharmacology
+modeling. However, based on our previous experience we do not expect significant systemic exposure of IL-12
+by either the i.n. or i.vag. route. Because the generation of IFNy is a well-known effect of IL-12, we expect
+systemic IL-12 exposure also will result in increased IFNy. The results will inform starting doses for
+subsequent IND enabling non-clinical studies in rodents.
+Research Strategy Page 88
+
+
+==================================================
+Page 12
+==================================================
+
+Contact PD/PI: Liu, Yingru
+
+No technical difficulties are anticipated in the performance of these studies. All the methods are in place and
+have been used previously. Extensive experience with GvaX12® administered i.vag. in doses up to 2ug of
+cytokine per mouse given at 2-day intervals for up to 5 doses, revealed no adverse effects. Whether similar
+doses given intranasally will result in adverse or toxic effects is unknown. GvaX12°® is not designed for
+intravenous administration; however, standard pharmacokinetic and toxicological evaluations require
+comparisons with this route. Mice will be inspected at least twice daily for the following signs: hunched posture,
+ruffled fur, lethargy, loss of appetite, coolness to touch, and body weight. Animals displaying signs of distress
+after GvaX12° administration will be reported and monitored closely. A combination of 2 or more signs without
+evidence of recovery within 12h, or >10% loss of body weight, will be recorded as adverse reaction and the
+affected animals will be euthanized.
+
+B. Reproductive toxicology studies in rats.
+
+IL-12 is a pro-inflammatory cytokine. Because the proposed vaccine may be used in women of child-bearing
+age, reproductive toxicity is a concern. Therefore, early reproductive toxicology testing is proposed. Studies,
+including a GLP embryo-fetal development study and a study for effects on pre- and post-natal development in
+rats will be conducted at Comparative Biosciences. Complete study designs can be found in Appendix 1. If the
+in. route is found to be effective, reproductive toxicology will be delayed until our type C meeting (see below).
+
+Outcomes, potential difficulties, and alternatives for Task 2B
+
+GvaX12°® might induce untoward effects at the proposed dose levels. However, a major goal of encapsulation
+is to limit systemic exposure and side effects. Therefore, we believe such a finding is unlikely. However,
+significant reproductive toxicity would trigger a no-go decision for the continued development of this product.
+We have identified several back-up drug substances as substitute for IL-12 (e.g., anti-IL-10 antibody), which
+are under development separately.
+
+3.2.3 Specific Aim 3: To prepare and submit a briefing package, written questions and formal request for a
+pre-pre-IND (Type C) meeting with the FDA
+
+The successful accomplishment of Aims 1 and 2 will incentivize and prioritize the development of our
+prophylactic gonorrhea vaccine. The early input of the FDA will be invaluable in guiding our IND enabling
+scale-up and toxicology study designs. Regulatory Professionals is already assisting TherapyX' in the
+preparation and submission of GvaX12® IND-related materials. The master services agreement and SOW
+related to the proposed studies is included in Appendix 2. The consultants at Regulatory Professionals have
+extensive expertise in the preparation of briefing packages, meeting requests, clinical (IND) and marketing
+applications for various drug formulations, including biologics and polymeric drug delivery systems. A briefing
+package and meeting request will be prepared and submitted along with specific questions in the areas of
+clinical, nonclinical, and Chemistry, Manufacturing and Control (CMC). The aim is to confirm FDA requirements
+for data to support Phase I/II clinical studies, primarily with respect to safety. Ultimately, the questions will be
+determined by the data collected from the studies conducted in Aims 1 and 2 and by our discussion with
+toxicology consultants at Regulatory Professionals.
+
+Outcomes, potential difficulties, and significance
+
+The FDA encourages investigators to initiate contact with the agency as early in the drug development process
+as possible. The stated goal is to allow investigators the opportunity to consider FDA recommendations in
+planning preclinical and clinical development programs. TherapyX"® has recently completed a pre-pre-IND
+(Type C) meeting with the FDA for a separate project involving oral administration of TGFB-loaded particles
+(TGFBNanoCap®). The preparation for this meeting included the creation of a briefing package which included
+specific questions requesting the FDA’s opinion of the company’s proposed Non-Clinical (toxicology), Quality
+(CMC), and Clinical (early clinical trial design) study plans. We expect that the preparation of the briefing
+package for this program will follow the same developmental path. If circumstances dictate, additional
+consulting expertise can be obtained. We do not expect there to be any difficulties that cannot be overcome
+with the assembled team of advisors.
+
+Research Strategy Page 89
