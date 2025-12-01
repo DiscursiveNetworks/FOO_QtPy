@@ -170,13 +170,6 @@
     }
   ],
   "seeded": true,
-  "chat_id": null,
-  "blockchain_metadata": {
-    "total_blocks": 14,
-    "genesis_hash": "fe88d72a684d0b53710a1f4d48b290ed992bb532ae1dc66a5ad687da499eef54",
-    "last_hash": "0938b06922164cd36291b8ddb3e3d44938c296f8fa3b8933c2f559fdb88589a6",
-    "agent": "config_R21_Stern_A_Ezekiel_Gerardo",
-    "salt": "c59b1ef3a98826ec",
-    "integrity_verified": true
-  }
+  "chat_id": "thread_nO4s3msD5fuSktGHRPig6FqA",
+  "openai_thread_id": "thread_nO4s3msD5fuSktGHRPig6FqA"
 }

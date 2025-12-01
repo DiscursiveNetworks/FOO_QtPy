@@ -206,13 +206,5 @@
     }
   ],
   "seeded": true,
-  "chat_id": null,
-  "blockchain_metadata": {
-    "total_blocks": 17,
-    "genesis_hash": "6e67d18eb2279080b768aa134686f7ace722a13c63db0d40fc068e092f139f64",
-    "last_hash": "be59de68940eea7be6d861deb86e83bbe10c51fc7ba9059ba1e4dae60da8aa49",
-    "agent": "config_R21_Stern_A_Ezekiel_Claudius",
-    "salt": "c59b1ef3a98826ec",
-    "integrity_verified": true
-  }
+  "chat_id": "51082e47-4160-4a4e-bd34-5778bd5c341d"
 }
